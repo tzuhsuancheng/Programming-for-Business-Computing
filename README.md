@@ -7,6 +7,7 @@ Using python for Business Computing
 - [Programming for Business Computing in Python (2)](https://www.coursera.org/learn/pbc2)
 - Programming for Business Computing in Python (3)
 2. NTU spring semester 2019
+- [syllabus](https://github.com/tzuhsuancheng/Programming-for-Business-Computing/blob/master/PBC107-2_syllabus190218.pdf)
 3. Reference
 - [Think Python 2e](https://greenteapress.com/wp/think-python-2e/)
 

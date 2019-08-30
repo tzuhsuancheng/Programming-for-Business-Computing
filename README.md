@@ -8,7 +8,6 @@ Using python for Business Computing
 - Programming for Business Computing in Python (3)
 2. NTU spring semester 2019
 - [syllabus](https://github.com/tzuhsuancheng/Programming-for-Business-Computing/blob/master/PBC107-2_syllabus190218.pdf)
-3. Reference
 - [Think Python 2e](https://greenteapress.com/wp/think-python-2e/)
 
 ## Final Project: Happy Rosa
@@ -21,23 +20,24 @@ Using python for Business Computing
 
 ## Schedule
 ### week 1
-- PBC(1) w1 什麼是「資訊管理」：資訊科技的商管應用
-- PBC(1) w2 Python 程式設計初探
+- PBC(1) w1 What is IT Management
+- PBC(1) w2 Python basics
 - [HW0](https://github.com/tzuhsuancheng/Programming-for-Business-Computing/tree/master/hw0)
 
 ### week 2
-- PBC(1) w3 「電腦運作基本原理」與「條件式選擇」
+- PBC(1) w3 Computers and conditionals
 - [HW1](https://github.com/tzuhsuancheng/Programming-for-Business-Computing/tree/master/hw1)
 
 ### week 3
-- PBC(1) w4 「條件式選擇」與「迴圈」
+- PBC(1) w4 Conditionals and iterations
 - [HW2](https://github.com/tzuhsuancheng/Programming-for-Business-Computing/tree/master/hw2)
 
 ### week 4
-- PBC(1) w5 「清單」與「程式演算在作業管理的應用」
+- PBC(1) w5 Lists and applications in operations management
 - [HW3](https://github.com/tzuhsuancheng/Programming-for-Business-Computing/tree/master/hw3)
 
 ### week 5 
+- Computational thinking
 - [Quiz](https://github.com/tzuhsuancheng/Programming-for-Business-Computing/tree/master/quiz)
 - [HW4](https://github.com/tzuhsuancheng/Programming-for-Business-Computing/tree/master/hw4)
 
@@ -45,29 +45,29 @@ Using python for Business Computing
 - [Midterm1](https://github.com/tzuhsuancheng/Programming-for-Business-Computing/tree/master/midterm1)
 
 ### week 8
-- PBC(2) w1 函數 (Functions)
+- PBC(2) w1 Functions and fruitful functions
 - [HW5](https://github.com/tzuhsuancheng/Programming-for-Business-Computing/tree/master/hw5)
 
 ### week 9
-- PBC(2) w2 字串 (Strings)
+- PBC(2) w2 Strings
 - [HW6](https://github.com/tzuhsuancheng/Programming-for-Business-Computing/tree/master/hw6)
 
 ### week 10
-- PBC(2) w3 資料結構 (Data Structure)、檔案讀寫、與例外處理
+- PBC(2) w3 Data structures, file I/O, and exceptions
 - [HW7](https://github.com/tzuhsuancheng/Programming-for-Business-Computing/tree/master/hw7)
 
 ### week 11
-- PBC(2) w4 用 Python 分析財金資料
+- PBC(2) w4 Applications in finance
 
 ### week 12
 - [Midterm2](https://github.com/tzuhsuancheng/Programming-for-Business-Computing/tree/master/midterm2)
 
 ### week 13
-- PBC(3) w1 類別與物件
-- PBC(3) w2 用matplotlib 繪製統計圖
+- PBC(3) w1 Classes and objects
+- PBC(3) w2 Plotting using matplotlib
 - [HW8](https://github.com/tzuhsuancheng/Programming-for-Business-Computing/tree/master/hw8)
 
 ### week 14
-- PBC(3) w3 程式演算在經濟學的應用
-- PBC(3) w4 用 tkInter 做視窗程式設計
+- PBC(3) w3 Applications in accounting
+- PBC(3) w4 Graphical user interface using tkInter
 - [HW9](https://github.com/tzuhsuancheng/Programming-for-Business-Computing/tree/master/hw9)

@@ -1,0 +1,2945 @@
+10-K
+1
+FOR THE YEAR ENDING 12/31/96
+
+
+
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                                    FORM 10-K
+
+              [X] ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF
+                      THE SECURITIES EXCHANGE ACT OF 1934
+
+                  For the fiscal year ended December 31, 1996
+
+            [ ] TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF
+                      THE SECURITIES EXCHANGE ACT OF 1934
+
+            For the transition period from __________ to __________
+
+                        Commission file Number: 0-22756
+
+                       Advanced Technology Materials, Inc.
+                       -----------------------------------
+             (Exact name of registrant as specified in its charter)
+
+          Delaware                                     06-1236302
+          --------                                     ----------
+(State or other jurisdiction of          (I.R.S. Employer Identification No.)
+ incorporation or organization)
+
+7 Commerce Drive, Danbury, CT                            06810
+- -----------------------------                            -----
+(Address of principal executive offices)               (Zip Code)
+
+                                  203-794-1100
+              (Registrant's telephone number, including area code)
+
+Securities registered pursuant to Section 12(b) of the Act:
+                                                          Name of each exchange
+Title of each class                                         on which registered
+- -------------------                                         -------------------
+     None                                                      Not Applicable
+
+Securities registered pursuant to Section 12(g) of the Act:
+
+                          Common Stock, $.01 par value
+                          ----------------------------
+                             (Title of each class)
+
+     Indicate  by check mark  whether the  registrant  (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the  Securities  Exchange  Act of
+1934  during  the  preceding  12 months  (or for such  shorter  period  that the
+registrant was required to file such reports),  and (2) has been subject to such
+filing requirements for the past 90 days. Yes x No __
+
+     Indicate by check mark if disclosure of delinquent  filers pursuant to Item
+405 of Regulation S-K is not contained herein, and will not be contained, to the
+best of registrant's  knowledge,  in definitive proxy or information  statements
+incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K [ x ]
+
+     The aggregate  market value of the voting stock held by  non-affiliates  of
+the registrant at February 28, 1997, was  approximately  $158,750,510,  based on
+the closing price of $19.00 per share.
+
+     The number of shares  outstanding  of the  registrant's  common stock as of
+February 28, 1997 was 8,793,345.
+
+
+
+
+
+
+                       ADVANCED TECHNOLOGY MATERIALS, INC.
+                           Annual Report on Form 10-K
+                   For the Fiscal Year Ended December 31, 1996
+
+                                TABLE OF CONTENTS
+
+                                                                     
+
+Part I                                                                     Page
+- ------                                                                     ----
+Item 1.         Business..................................................    3
+
+Item 2.         Properties................................................   15
+
+Item 3.         Legal Proceedings.........................................   15
+
+Item 4.         Submission of Matters to a Vote of Security Holders.......   15
+
+Part II
+- -------
+Item 5.         Market for Registrant's Common Equity and Related
+                Stockholder Matters.......................................   16
+
+Item 6.         Selected Financial Data...................................   17
+
+Item 7.         Management's Discussion and Analysis of Financial
+                Condition and Results of Operations.......................   18
+
+Item 8.         Financial Statements and Supplementary Data...............   22
+
+Item 9.         Changes In and Disagreements with Accountants on
+                Accounting and Financial Disclosure.......................   22
+
+Part III
+- --------
+Item 10.        Directors and Executive Officers of the Registrant........   23
+
+Item 11.        Executive Compensation....................................   25
+
+Item 12.        Security Ownership of Certain Beneficial Owners
+                and Management............................................   28
+
+Item 13.        Certain Relationships and Related Transactions............   29
+
+
+Part IV
+- -------
+Item 14.        Exhibits, Financial Statement Schedule, and Reports
+                on Form 8-K...............................................   30
+
+Index to Consolidated Financial Statements and Financial Statement Schedule F-1
+
+
+Signatures..................................................................S-1
+
+
+                                       2
+
+
+
+                                     PART I
+
+
+Item 1.   Business.
+
+     Advanced Technology Materials, Inc. ("ATMI" or the "Company") is a supplier
+of  enabling  materials,   products,  and  technologies  for  the  semiconductor
+industry. The Company's products are primarily based on proprietary and patented
+chemical vapor deposition ("CVD")  technologies used for semiconductor thin film
+manufacture.
+
+     ATMI's strategy is to use these  technologies to develop  products for high
+growth niche markets of the semiconductor industry and to sequentially introduce
+these products into these high growth markets with industry collaborators. Using
+its phased commercial  introduction strategy,  ATMI has been able to develop its
+CVD  core   technologies   and   establish   businesses   to   support   further
+commercialization of its new products.
+
+     ATMI's   enabling   products   and   technologies    include   point-of-use
+environmental  equipment,  next-generation  thin  film  materials  and  delivery
+systems,  and high performance  semiconductor  devices based on wide bandgap and
+III-V materials.
+
+     Semiconductor Industry Background
+
+     The semiconductor  industry  achieved  worldwide sales in 1995 of over $140
+billion.  While industry  revenues  decreased in 1996, the Company  believes the
+decrease  was  primarily  a result of a decline  in memory  chip  prices,  not a
+reduction in the number of  semiconductor  devices  produced  and shipped.  Even
+during  this  downturn,  the  industry  is adding  substantial  capacity to meet
+increasing  demand  for a  multitude  of end uses  from  personal  computers  to
+wireless communications.
+
+     From a wafer  substrate,  usually  made of  silicon,  a  complex  series of
+process steps creates  semiconductor  devices.  Important  process steps include
+deposition,  patterning,  and  etching.  During  deposition,  several  layers of
+conducting,  semi-conducting,  or  insulating  thin films are formed on a wafer.
+Controlling  the deposition of these films is vital to the ultimate  performance
+of an individual device.
+
+     There are two principal  methods of film  deposition.  One,  physical vapor
+deposition ("PVD") is now primarily used for depositing conductive metal layers.
+The other, CVD, is used for depositing  semiconducting and insulating thin films
+as well as some conductors.  In the CVD process,  wafers are usually placed in a
+sophisticated  reaction chamber, ready for the injection of a specially designed
+gas or  vaporized  liquid.  Simultaneously,  energy  is  added  to  the  reactor
+resulting in thin film deposition on the surface of the wafer.
+
+     The CVD process offers the following production advantages:
+     *  conformality--the  ability  to coat  evenly,  especially  in holes and
+           trenches designed into the device
+     * purity
+     * ability to coat over large areas
+     * cost efficiency
+                                       3
+
+     Thin film deposition  technology is migrating to CVD for many films because
+of these  advantages.  This  migration  increased CVD equipment  sales from $500
+million in 1989 to over $1.5 billion in 1996.  It also created  rapid growth for
+suppliers  of CVD  equipment  such as Applied  Materials,  Tokyo  Electron,  and
+Novellus Systems.
+
+     ATMI's focus on developing  high  performance and  ferroelectric  thin film
+fabrication  revolves around its core CVD technology.  From that core technology
+development,  ATMI introduces related commercial  technologies  serving existing
+silicon device  fabrication  needs.  First is gas abatement  technologies  using
+ATMI's unique  adsorbent  materials.  These adsorbents allow for nearly complete
+adsorption of the reactive gases flowing from a CVD reactor  exhaust.  ATMI also
+sells  new  commercial  CVD  raw  materials  that  enable  the   manufacture  of
+semiconducting thin films for use in next-generation silicon devices.
+
+     ATMI Business Strategy
+
+     ATMI was founded in 1986 to develop and commercialize products based on its
+core CVD technology. The Company has the following key strategies:
+
+     Core Technology Development
+
+     Proprietary  and  patented  CVD  thin  film  technology   underlies  ATMI's
+development and  commercialization of new products.  Its CVD technology is based
+on a  multidisciplinary  approach  that  draws  upon the  experience  of  ATMI's
+personnel in the areas of chemistry,  physics,  materials science and electrical
+engineering.  ATMI dedicates  significant resources to maintaining its expertise
+in CVD technology and protecting its intellectual property.
+
+     Focus on High Growth Markets
+
+     ATMI targets  semiconductor  market  segments with growth rates expected to
+exceed the industry's  overall growth rate. For example,  ATMI believes that the
+market for  point-of-use  abatement  equipment is growing at a rate in excess of
+the overall growth rate of the semiconductor  equipment  industry.  In addition,
+the Company  focuses on segments  where  technology-driven  paradigm  shifts are
+occurring  or are enabled by the use of ATMI's core  technologies.  For example,
+the Company believes semiconductor manufacturers are moving strongly towards the
+use of new thin film materials, driven by device performance considerations.
+
+     Phased Product Commercialization
+
+     ATMI  has  a  history  of  commercializing  products  using  its  core  CVD
+technology.  The Company's  strategy is to focus initially on products with less
+technological  complexity and capital risk and in later phases focus on products
+with a higher degree of sophistication and financial risk. In its first phase of
+commercialization,  the Company  introduced new products through its subsidiary,
+ATMI EcoSys Corporation ("EcoSys") (and its predecessor, Novapure), to abate CVD
+effluent  streams.  EcoSys  is now a  leader  in the  manufacture  and  sale  of
+point-of-use  environmental  equipment  to the  semiconductor  industry.  In its
+second phase of  commercialization,  ATMI  introduced  several new materials and
+delivery   systems  through  its  NovaMOS   division  for  use  in  the  silicon
+semiconductor industry. In the third phase of commercialization, ATMI intends to
+use its core technology to manufacture  and sell devices based on  ferroelectric
+and  other  high  performance   semiconductor  thin  films.   Certain  of  these
+third-phase  products are now in development and are expected by ATMI to account
+for a significant portion of its long-term growth.
+                                       4
+
+     Strategic Alliances
+
+     ATMI has formed  many  strategic  alliances,  including  joint  development
+programs and collaborative  marketing efforts, to accelerate the introduction of
+its products into markets that have manufacturing and/or distribution  barriers.
+As it grows,  ATMI  expects to  continue  to  accelerate  product  introductions
+through  acquisitions and collaborations  with customers,  vendors and companies
+with significant capabilities outside of ATMI's current markets.
+
+     Externally Funded Research and Development
+
+     Developing  new thin film  processes and  materials for complex  electronic
+devices is very  expensive.  By entering  into research  contracts  with federal
+government  agencies,  and with selected  private industry  collaborators,  ATMI
+offsets a  significant  portion of its  research  and  development  costs.  ATMI
+primarily solicits research contracts that provide  opportunities to enhance its
+core  technology  base,  or promote  the  commercial  introduction  of  targeted
+products.
+
+     ATMI Businesses
+
+     ATMI  operates  three  primary  business  units:   EcoSys,   NovaMOS,   and
+Epitronics.
+
+     EcoSys, a wholly-owned subsidiary,  manufactures and services environmental
+equipment for the  semiconductor  industry.  ATMI believes EcoSys is a leader in
+the rapidly growing market for point-of-use abatement equipment.
+
+     ATMI's NovaMOS division  manufactures  and sells CVD raw materials  (source
+reagents) used to manufacture  semiconducting  thin films. ATMI believes NovaMOS
+is a leading  provider of source  reagents for  next-generation  silicon  device
+manufacture.
+
+     ATMI's Epitronics division, develops, manufactures,  distributes, and sells
+advanced high performance  substrates and thin films for the  optoelectronic and
+wireless communications markets.
+
+           EcoSys: Point of Use Semiconductor Environmental Equipment
+
+     EcoSys  Market  Background
+     Manufacturing   semiconductors  involves  many  processes  with  thin  film
+deposition  steps that use toxic or hazardous  materials.  These  materials were
+once abated through large systems  servicing  multiple process effluent streams.
+Because of the many thin film processes  used, the industry is migrating  toward
+dedicated  point-of-use  environmental  equipment  for  individual  reactors and
+processes.
+
+     Demand for  environmental  equipment  reflects the  dramatic  growth in CVD
+processing.  Only  about a quarter  of the  original  materials  entering  a CVD
+reactor end up deposited as a thin film.  The rest,  combined with  by-products,
+becomes the effluent  stream  requiring  abatement  that must meet  increasingly
+strict environmental, safety, and health regulations.
+
+     Whole  plant  environmental   systems  become  inefficient  with  multiple,
+different effluent streams. As process variations grow in the industry,  so does
+the need for  point-of-use  environmental  equipment.  The Company  believes the
+market for this type of point-of-use equipment exceeds $150 million per year and
+that the current growth rate exceeds that of the semiconductor equipment market.
+                                       5
+
+     EcoSys Business  Background
+     Currently ATMI's primary commercial business,  generating about half of the
+Company's  consolidated  revenues,  is EcoSys,  which  manufactures,  sells, and
+services semiconductor environmental equipment.
+
+     ATMI  first  entered  this  market  in 1989  with the  introduction  of its
+Novapure(r)  point-of-use  dry chemical  scrubber.  This product was  originally
+designed under contract to the Environmental Protection Agency ("EPA"). In 1991,
+this  product  and  several  others  resulting  from early  stage  research  and
+development  efforts at ATMI were contributed to Novapure,  a joint venture with
+Millipore.  In 1994,  Novapure was dissolved,  with ATMI retaining rights to the
+effluent  treatment  product line. Also in 1994, ATMI acquired Vector  Technical
+Group,  Inc.  ("Vector"),  a manufacturer of liquid and combustion  point-of-use
+semiconductor  environmental  equipment, and merged it with its Novapure line of
+products to form EcoSys.
+
+     In 1995,  ATMI  acquired the Guardian  Systems  product line of  combustion
+point-of-use  semiconductor  environmental  equipment  to  broaden  its  product
+offerings. ATMI believes EcoSys is the only company in the world offering all of
+the key technologies for effluent gas scrubbing to the  semiconductor  industry:
+dry chemical,  liquid, flame oxidation and catalytic  oxidation.  As a result of
+this broad product line,  ATMI believes  EcoSys is a global market leader in the
+manufacture and sale of point-of-use semiconductor effluent abatement equipment.
+ATMI's  strategy is to  maximize  EcoSys'  market  share  through the  continued
+development  and  acquisition of new  semiconductor  environmental  products and
+services.   The  Company   believes   that  this  full  line  of   semiconductor
+environmental  products,  coupled with a comprehensive  service  strategy,  will
+allow for continued market penetration by its EcoSys business.
+
+     Products
+     EcoSys   provides  three  major  product  lines.   These  products   reduce
+consumption,  offer new  recycling  techniques,  and  allow new waste  treatment
+methods.  Typical  selling prices for these  products range between  $20,000 and
+$100,000 per unit.
+
+     Dry  Chemical  Scrubbers
+     Novapure(r)  dry  chemical  scrubbers  adsorb  and  concentrate   hazardous
+effluent up to 20,000 times that of  conventional  effluent  treatment  methods.
+ATMI believes that EcoSys, through its unique and patented adsorption materials,
+is a  market  leader  for  point-of-use  semiconductor  effluent  dry  scrubbing
+throughout the world.
+
+     Liquid  Scrubbers
+     Vector  Technology(r)  liquid  scrubbers  are designed  for cost  effective
+removal of acidic and high particulate  bearing gases commonly used in the wafer
+fabrication process.  Vector scrubbers recirculate  scrubbing water,  minimizing
+overall  water use,  and are  highly  effective  in  removing  high  particulate
+effluent.
+
+     Oxidation Scrubbers
+     Guardian(r)  active oxidation  scrubbers treat combustible  materials.  The
+Guardian  product  line,  acquired at the end of 1995,  is an industry  standard
+designed  for  low  cost  of  ownership.   Next-generation  systems  operate  on
+inexpensive methane fuel while achieving exceptional removal efficiencies. These
+combustion   systems  also  abate   certain   global   warming   gases  such  as
+perfluorinated  carbon  compounds  (PFCs),  at high  efficiency  with  near zero
+nitrous oxide generation.
+
+     EcoSys  offers  other  developmental  environmental,   safety,  and  health
+products to the semiconductor industry, including:
+                                       6
+
+     Catalytic Oxidizers
+     ReCAT(tm)  catalytic  oxidation  scrubbers  use  proprietary  catalysts  to
+destroy volatile organic compounds ("VOCs"). VOCs come from the solvents used in
+applying  photoresists and other organic materials during chip manufacture.  The
+ReCAT  product  line  adopts  the  EcoSys   point-of-use   approach  to  organic
+destruction, replacing the large plant-scale oxidizer systems most semiconductor
+companies  use.  It uses a  fraction  of the  energy  required  by  conventional
+systems, and has the potential to create a true point-of-use  effluent treatment
+device.
+
+     Emergency Release Scrubbers
+     ATMI is marketing and continuing to develop effluent  treatment systems for
+the  capture  of  semiconductor  process  gases in  emergency  situations.  Such
+situations  might arise at the point of  delivery of a gas to a reactor  through
+gas cylinder rupture or similar catastrophic event.
+
+     Vent Gas Scrubbers
+     Cylinders of hazardous  gases are typically  used for the delivery of gases
+to  reactors.  Changing  these  cylinders  causes  small  amounts  of  hazardous
+materials to be vented.  EcoSys has  developed a vent gas scrubber  based on its
+dry scrubber  technology for use in such  applications.  EcoSys is collaborating
+with Air Products  Corporation in the  development  and current  distribution of
+this product.
+
+     Recycling
+     EcoSys is  investigating  the potential for recycling the materials used in
+thin film  deposition  processes  in the belief  that  recycling  is  ultimately
+preferred  over  destructive  abatement.  PFCs, as an example,  are used in some
+wafer  cleaning  and  etching  processes.  They are under  strict  environmental
+controls and  production  cutbacks,  because  they are  suspected to deplete the
+ozone layer.  With Praxair  Corporation,  EcoSys has  developed a PFC  recycling
+system that captures the gas and  repurifies it for subsequent  reuse.  In 1996,
+the first unit was installed at a test site.
+
+     Total Effluent Abatement Management
+     EcoSys has  expanded  its  product  and  service  offerings  in response to
+semiconductor  companies'  trend  towards  wanting their  abatement  supplier to
+provide a full range of abatement  equipment and provide on-going  management of
+their total  effluent  abatement  needs.  EcoSys has invested in  organizational
+infrastructure  to provide this  capability  and began to receive  contracts for
+this service in 1996.
+
+           NovaMOS-Next-Generation CVD Materials and Delivery Systems
+
+     NovaMOS Market Background
+     As  semiconductor  device  capabilities  in  memory,  logic and speed  have
+expanded exponentially,  circuit dimensions have correspondingly  decreased. The
+Company believes that further  reductions will require a change in the materials
+used for the many functional  thin films required to store,  transmit and switch
+electricity  in the complex  circuitry of  semiconductor  devices.  For example,
+while existing memory and other very large scale  integrated  ("VLSI")  circuits
+may  be  fabricated  using  standard  silicon  dioxide   capacitor  thin  films,
+deficiencies  in the electrical  properties of ultra-thin  silicon  dioxide will
+limit its use in the extremely small dimensions of next-generation,  ultra large
+scale  integrated  ("ULSI")  devices.  Alternate  ("next-generation")  capacitor
+materials, including tantalum oxide and barium titanate, are expected to be used
+in the fabrication of ULSI circuits,  e.g. 256 Mb and 1 Gb dynamic random access
+memory chips ("DRAMs"). As these new materials are adopted, the Company believes
+that a strategy of collaborative  development with a total systems approach will
+allow for  significant  penetration  into the $350  million  overall  market for
+semiconductor thin film precursors.
+                                       7
+
+     These  next-generation  materials will be manufactured  primarily using CVD
+processes.  Because many of the raw  materials for these new thin films will not
+be available in gaseous form,  the Company  believes that a market is developing
+for  liquid  chemical  precursors  (specialty  chemicals)  that  allow  for  the
+manufacture of  next-generation  thin films, as well as for equipment  (delivery
+systems) that convert liquids to gases before entry into a CVD reactor.  CVD raw
+materials are  consumables,  and demand for such materials  generally tracks the
+number of  silicon  wafers  that are used in  semiconductor  device  manufacture
+("wafer starts"),  while demand for CVD equipment generally tracks investment in
+new plants.
+
+     NovaMOS Business Background
+     ATMI formed NovaMOS in February 1992 to serve markets for CVD semiconductor
+thin film  manufacture.  NovaMOS' two primary  product lines are liquid chemical
+precursors and delivery systems.
+
+     In August 1992, ATMI entered into an agreement with IBM, Texas  Instruments
+and Micron Technology (the "Collaborating  Group") to develop advanced thin film
+capacitor   materials  and  CVD  process   technology   delivery  equipment  for
+next-generation memory devices. This agreement focused on developing CVD process
+technology  to  fabricate  ferroelectric  thin films,  such as barium  strontium
+titanate,  for high performance  memory devices.  Barium strontium  titanate can
+store over 30 times more electrical charge than  conventional thin films.  Using
+this  material  should  significantly  reduce the  manufacturing  complexity  of
+advanced memory devices.  In April 1993, the Advanced  Research  Projects Agency
+("ARPA")  awarded  a $5  million  contract  for the  development  of  thin  film
+materials  technology to the Collaborating Group, with ATMI as prime contractor.
+The total cost of the program is approximately $15 million,  approximately  half
+of which will be borne by the  Collaborating  Group.  In February  1994,  Varian
+Associates joined the Collaborating Group, providing CVD manufacturing hardware.
+
+     ATMI's  ferroelectric  thin film technology has also expanded to non-barium
+strontium  titanate  materials  that have  broad  application  in a  variety  of
+applications  ranging from non-volatile  memory devices to wireless  components.
+This in turn has led ATMI to expand  its  device  development  effort to include
+these materials in the belief that these particular market segments may prove to
+be an attractive device market opportunity for the Company.
+
+     Products
+     NovaMOS generates  approximately  one-third of ATMI's consolidated revenues
+with  approximately  half of NovaMOS  revenues  coming from product sales.  This
+division  offers a bundled  product line of  materials,  equipment,  and process
+experience  which  represents  a total  solution to the  controlled  delivery of
+liquid precursors to CVD reactors.
+
+     Safe Delivery Systems
+     Historically,  semiconductor process gases have only been available in high
+pressure  cylinders  that can create an  immediate  danger  over a large area if
+inadvertently  released.  ATMI's Safe Delivery System ("SDS")  reduces  cylinder
+pressures below atmospheric levels. This allows controllable,  on-demand release
+of certain  semiconductor  process  gases.  ATMI has a strategic  alliance  with
+Matheson  Gas Products  ("Matheson"),  a subsidiary  of Nippon  Sanso,  begun in
+January 1994, and renewed with amended  provisions in 1996. Under a license from
+ATMI, Matheson markets and distributes the SDS product to specific semiconductor
+niche process applications.
+
+     CVD Materials
+     ATMI develops  thin film  precursors  for  semiconductor  devices.  NovaMOS
+manufactures  and sells source  reagents  allowing CVD  fabrication  of advanced
+materials,  including titanium nitride,  platinum,  copper, tantalum oxide, lead
+zirconate titanate,  bismuth strontium tantalate,  and barium strontium titanate
+thin films.  The Company  believes  these films will have broad  application  in
+advanced  semiconductor  devices.  NovaMOS  EpiGrade(r)  source reagents sell at
+prices ranging from $2 to $200 per gram.
+                                       8
+
+     Liquid Delivery Systems
+     NovaMOS  manufactures  and sells its proprietary LDS and Sparta(tm)  Liquid
+Delivery  Systems.  These vaporize liquid  precursors  before injection into CVD
+reactors.  The liquid delivery systems' principal  advantage is their ability to
+deliver   multiple   materials   as   well   as   handling   thermally-sensitive
+next-generation  materials with minimal  decomposition.  They are typically used
+for both  conventional  material  thin film  fabrication  and advanced  material
+deposition.  NovaMOS is a supplier to the  advanced  dielectric,  ferroelectric,
+barrier layer,  and conductor thin film markets of the  semiconductor  industry.
+The liquid delivery systems sell at prices ranging from $35,000 to $200,000.
+
+
+              Epitronics - Advanced Wafers and Thin Film Deposition
+
+     Epitronics Market Background
+     Demand  for  increased  performance  from  semiconductor  devices  and  the
+proliferation  of  optoelectronic  devices  are  leading  designers  and process
+engineers to consider  building  electronic  circuits and discrete  devices from
+alternative  semiconductors  to  silicon.  Advances in  semiconductor  materials
+fabrication  technologies  are promoting device  development  based on materials
+such as the III-V semiconductors  (including gallium arsenide, indium phosphide)
+and the wide bandgap semiconductors such as silicon carbide and gallium nitride.
+
+     The III-V  semiconductors  are finding  increasing  use in three  different
+markets: in wireless  communication  devices where high frequency performance is
+critical; in optoelectronic  devices where the electronic structure of the III-V
+semiconductors allows energy efficient light generation;  and in solar cells for
+satellite applications where efficient generation of electricity is critical.
+
+     The wide bandgap  semiconductors  offer potential  advantages in two areas;
+both silicon  carbide and gallium  nitride-based  devices may have advantages in
+high power or high  temperature  operation while gallium  nitride-based  devices
+permit  efficient  generation of short wavelength light for use in blue LEDs and
+in blue laser diodes.
+
+     Epitronics Business Background
+     Through its Epitronics division, ATMI is manufacturing and selling advanced
+semiconductor substrates and epitaxial wafers. It is also establishing alliances
+and selectively developing devices for emerging market opportunities.
+
+     Commercial  introduction  of wide  bandgap  semiconductor  devices has been
+limited to date by several technological barriers, including the availability of
+single  crystal  substrates  (wafers).  The  fabrication  of fully operable high
+performance  semiconductor  devices,  requires an appropriate wafer as a base to
+grow suitable  thin film.  The most  appropriate  substrate has the same crystal
+structure as the desired thin film. For silicon  carbide,  ATMI has  proprietary
+technology to  manufacture  single  crystal  silicon  carbide  substrates and is
+developing technology for single crystal gallium nitride substrates.  Epitronics
+has both silicon carbide and gallium nitride  epitaxial thin film technology and
+has developed and continues to develop thin film fabrication technology that can
+be employed in other  developmental high technology  products,  e. g., displays.
+ATMI  recognizes  that it may be  important  to develop  or  acquire  additional
+technologies  to meet the demand for high  performance  devices in its  targeted
+market areas.
+
+     In  December,  1995,  ATMI  acquired  Epitronics  Corporation,  a  Phoenix,
+Arizona-based  manufacturer of III-V  semiconductor  thin films for the wireless
+and  optoelectronics  markets.  ATMI  integrated  the  operations  of Epitronics
+Corporation with its Diamond Electronics  Division in 1996, under the recognized
+Epitronics name. Epitronics III-V semiconductor  manufacturing is in Phoenix and
+its wide bandgap semiconductor manufacturing and R&D; facilities are in Danbury.
+                                       9
+
+     Epitronics Business Strategy
+
+     Epitronics  specializes in advanced compound  semiconductors and focuses on
+materials.  Its core  technology  is chemical  vapor  deposition,  the growth of
+epitaxial thin films (epi) on  semiconductor  wafers with  precisely  controlled
+structural  and  electronic  properties.  Epitronics  focuses on  materials  for
+rapidly growing markets in  optoelectronics,  wireless  communications and power
+electronics and provides  materials and device  fabrication  processes for III-V
+compound  semiconductors  (gallium  arsenide,  indium  phosphide)  and the  wide
+bandgap semiconductors (silicon carbide, gallium nitride).  Epitronics' business
+strategy  is to build a business  and  technology  base in the  materials  while
+incubating  and  subsequently   launching   value-added   device  businesses  on
+proprietary technology.
+
+     The Phoenix  facility is dedicated to the  production of III-V epi products
+that are finding  increasing  use in  wireless  communications,  satellites  and
+optoelectronics  for data and  telecommunication  market  segments.  There is an
+increasing demand for III-V epi wafers in particular for heterojunction  bipolar
+transistors (HBTs) for use in power amplifiers.
+
+     The  Danbury   facility   focuses  on  the   development  of  wide  bandgap
+semiconductor  materials  (substrates  and epi)  including  silicon  carbide and
+gallium nitride.  Wide bandgap  semiconductors  are expected to find use in high
+power applications such as motor control, high temperature  applications such as
+automotive  electronics,  and in high power high frequency  applications such as
+ground  based  radar and  communication  stations.  The R&D; group  continues  to
+support cathode design and manufacturing by Candescent Technologies  Corporation
+who is developing a field emission display or Thin CRT.
+
+     Products
+     Current Products
+     Epitronics  currently  manufactures III-V epitaxial wafers in Phoenix,  AZ.
+III-V epi  products  are  finding  increasing  use in  wireless  communications,
+satellites,  and optoelectronics for data and telecommunication market segments.
+In  particular,   there  is  an  increased  demand  for  III-V  epi  wafers  for
+heterojunction   bipolar   transistors  (HBTs)  for  use  in  power  amplifiers.
+Epitronics  markets its  epitaxial  services  and sells  product of the service,
+epitaxial  wafers,  directly to industry and government  customers  according to
+their  design  specifications.  In  Danbury,  Epitronics  manufactures  one-  to
+two-inch  diameter  silicon carbide wafers.  It is expanding  capacity to ensure
+internal and external supplies.  The Company believes that these substrate sales
+will promote additional  collaborations,  addressing technology  development and
+commercial product  introduction  issues associated with future  optoelectronic,
+sensor, and power device products.
+
+     Epitronics  is a  distributor  of SIMOX  (Separation  by IMplanted  OXygen)
+wafers  for  Nippon  Steel  Corporation,  Japan and  specialty  wafers for Wafer
+Technology  (Milton  Keynes,  UK). These  distributed  materials  complement the
+Epitronics  manufactured  product line and leverage the development of the sales
+and  marketing  organization  required to execute the  customer  service  driven
+marketing  plan.  NSC  SIMOX  wafers  are used for  fabricating  high  speed and
+radiation-hard  circuits.  Specialty III-V wafers from Wafer Technology  include
+Indium Phosphide based materials for optical fiber-based communications, gallium
+arsenide  for  optoelectronic   devices,  and  indium  antimonide  for  infrared
+detectors.
+
+     Technology Development
+     In addition to process improvement that the Company believes will allow for
+greater market  penetration for its III-V  epitaxial  wafers and silicon carbide
+substrates,  Epitronics  is focusing  its R&D; efforts on thin film  products for
+optoelectronics  including blue solid state devices and novel cathode  materials
+for a thin CRT.
+                                       10
+
+     Epitronics is developing substrate and thin film technology for solid-state
+blue light emitting diodes and lasers.  Blue LEDs will be primarily used in full
+color  displays  while blue lasers are  valuable  for  increasing  optical  data
+storage  capabilities  and in full color  printers.  Gallium  nitride  substrate
+technology  under  development by Epitronics and others may be essential to high
+yield  LED  manufacturing  processes  and to  demonstrating  long life time blue
+lasers. Epitronics is collaborating with Hewlett-Packard,  Xerox, SDL, Inc., and
+others to  develop  substrate  technology  for  commodity  blue  lasers,  and is
+developing  proprietary  device designs to enable penetration of specialty laser
+markets. Epitronics is the preferred high performance materials supplier for the
+Blue Band Consortium which is developing blue lasers for improved data storage.
+
+     Epitronics  provides thin film  technology  for cold cathodes under a joint
+development  program  to  a  strategic  alliance  with  Candescent  Technologies
+Corporation ("CTC"), formerly called Silicon Video Corporation. Traditional CRTs
+use a single,  hot cathode (its source of electrons) placed far from the screen.
+In a field  emission  display  ("FED"),  multiple  cathodes  replace  the single
+cathode,  giving  many  electron  sources  for each  pixel.  Unique  thin  films
+fabricated with Epitronics high performance  materials enhance uniform low power
+electron emission. Because image uniformity and power consumption are critically
+dependent on cathode materials and design,  Epitronics materials are well suited
+for inclusion in cold cathodes for FEDs. These cold cathodes enable  full-color,
+flat panel displays with  brightness and  resolution  equivalent to CRTs,  hence
+thin CRTs.
+
+     Under  its  agreement  with  ATMI,  CTC has an  exclusive  license  to ATMI
+technology for FEDs,  and ATMI has license to certain CTC technology  outside of
+displays.  CTC will  manufacture  and  distribute  the thin CRTs. As part of the
+alliance,  ATMI purchased $1,000,000 of CTC's convertible  preferred stock. ATMI
+and CTC receive  significant direct support from the federal government for cold
+cathode technology development.
+
+
+     Customers, Sales, and Marketing
+
+     ATMI sells and  distributes  its  products  worldwide,  both  directly  and
+through  manufacturers'  representatives.  The  Company  also  seeks  to  create
+strategic  alliances  that allow maximum  global market  penetration  at minimal
+cost.
+
+     Many of ATMI's customers have relationships with more than one division, or
+are acting as collaborators on ATMI's development  programs.  A number of ATMI's
+key customers are listed below:
+
+Advanced Micro Devices         Hyundai Electronics          Samsung Electronics
+Atmel                          IBM                          SGS Thomson
+Digital Equipment Corp.        Intel                        Siemens
+GEC Plessey Semiconductor      Lucent Technologies          Sony
+Goldstar Electronics           Motorola                     Texas Instruments
+Hewlett-Packard                National Semiconductor       Tokyo Electron
+
+     Manufacturing
+     ATMI's research and development  laboratory and prototype  production plant
+are  located at its  Danbury,  Connecticut  facility.  In  Danbury,  the Company
+fabricates,   tests,   and  assembles   high   performance   semiconductor   and
+ferroelectric  thin films and  devices.  Although  ATMI's high  performance  and
+ferroelectric  processing  technology is very similar to standard  semiconductor
+manufacturing  technology,  ATMI has developed certain proprietary equipment and
+processes. ATMI believes its facility is adequate for current needs.
+                                       11
+
+     EcoSys  manufactures  Novapure(r),  Vector  Technology(r),  Phoenix(tm) and
+ReCAT(tm) point-of-use  scrubbers in San Jose,  California.  EcoSys manufactures
+its  proprietary  adsorbents for its gas treatment  products at ATMI's  Danbury,
+Connecticut   facility.   The   Guardian(r)   product  line   manufacturing   is
+subcontracted to a third party who had manufactured  these products prior to the
+product line acquisition by ATMI in 1995.
+
+     ATMI's NovaMOS division produces and integrates its liquid delivery systems
+in Danbury, along with chemical manufacture and purification. ATMI manufacturing
+facility  for the SDS  Safe  Delivery  Source  in  Danbury  is  complemented  by
+contracted  manufacturing  from Matheson's  facility.  The Company believes that
+these two facilities are adequate for current and anticipated demand.
+
+     Epitronics  manufactures its III-V semiconductor thin films and devices for
+the wireless and optoelectronic  industries at its Phoenix, Arizona facility. It
+produces wide bandgap wafers and high performance thin films in Danbury.
+
+     Raw materials for ATMI's products and processes are available from multiple
+domestic sources.
+
+     Competition
+     The semiconductor  environmental  equipment,  materials, and device markets
+have rapidly  evolving  technology and products.  Both large and small companies
+offer products in these markets,  and many of these companies have significantly
+greater financial and other resources than ATMI.
+
+     EcoSys
+     EcoSys's  primary  competition  in effluent gas treatment is from companies
+focused on water and combustion  treatment  methods.  The primary water scrubber
+competitor is Delatech,  while combustion scrubber  competitors are Delatech and
+Alzeta. Dry scrubber competitors include CS-GmbH,  Ebara, Japan Pionics, and the
+Edwards Division of British Oxygen Corporation.
+
+     NovaMOS
+     NovaMOS's primary  competitors in CVD materials and delivery systems in the
+U.S. are the Schumacher  Division of Air Products,  Advanced Delivery & Chemical
+Systems,  Inc., the Diffusion Systems Division of Olin Hunt Specialty  Products,
+Inc., and MKS Instruments,  Inc. There are several other smaller participants in
+this market.
+
+     There are no immediate competitors to the patented SDS Safe Delivery Source
+product.  Several gas companies provide product in high pressure containers that
+compete with the process capability of SDS.
+
+     Epitronics
+     High  performance  semiconductors  are a new and rapidly  emerging  area of
+technology.  The technology has attracted the interest of a wide variety of both
+large and small companies. Potential competitors include Kobe Steel, which has a
+high  performance  electronics  subsidiary,   and  Westinghouse,   which  has  a
+substantial silicon carbide  electronics  effort.  Several smaller companies are
+also developing high performance semiconductor products, including Cree Research
+(silicon  carbide)  and IBIS  Technology  (SIMOX  wafers).  Nichia  Chemical,  a
+Japanese  company,  sells very bright blue LEDs and is  developing a solid-state
+blue laser. Cree Research is selling blue LEDs based on silicon carbide,  and is
+trying to produce  commercial  quantities  of bright  blue LEDs based on gallium
+nitride.  Other groups,  including  Hewlett-Packard,  APA Optics, Inc., and SDL,
+Inc. are also working on blue optoelectronics, using similar technology.
+                                       12
+
+     PixTech,  Inc, SI Diamond Technology Inc., FED Corporation,  and others are
+attempting to develop  alternative field emission flat panel display products in
+competition with CTC.
+
+
+     Government Contracts
+     ATMI  participates  in U.S.  government  funded  research  and  development
+contracts.  As of December 31, 1996, the Company had received  aggregate  awards
+since its inception of approximately $55 million from U.S. government  agencies,
+including  approximately  $46  million  recognized  as revenue  by ATMI  through
+December 31, 1996.  These  contracts fund continued CVD technology  development,
+development of high  performance  semiconductor,  ferroelectric  thin films, and
+devices for specific  applications,  while  offsetting  the cost of research and
+development.  Government  contract  revenues  were  about  $9,846,000  in  1996,
+$8,712,000 in 1995, and  $7,018,000 in 1994.  This is about 21%, 29%, and 36% of
+ATMI's total revenues in those years. The government may terminate  contracts at
+its convenience.
+
+     In April 1993, the Collaborating Group of IBM, Texas Instruments and Micron
+Technology  was awarded a $5 million  contract  (subsequently  increased to $5.7
+million) from ARPA to develop  next-generation  capacitor  thin films for DRAMs.
+The  Collaborating  Group  contributed  matching  funds  and  agreed to make any
+technology developed under the contract available to the other group members.
+
+     ATMI has numerous  contracts from the U.S. Air Force, the Ballistic Missile
+Defense  Organization  ("BMDO"),  and the National Science  Foundation  ("NSF"),
+supporting  development of CVD core  technology for the deposition of dielectric
+materials and their uses in alternative applications,  such as optical switching
+and infrared sensing.
+
+     ATMI  receives  funding for research  into high  performance  semiconductor
+programs.  Funds come from the U.S. Navy,  BMDO, the U.S. Army,  ARPA,  NSF, the
+Department  of  Energy,  and NASA in each of the four  primary  technical  areas
+required for device development: substrate manufacture, thin film deposition and
+characterization, device processing and device design.
+
+     The Office of Naval Research ("ONR"),  supports efforts to grow and prepare
+surfaces of high  performance and silicon carbide thin films.  The Army supports
+the development of high  performance  contacting  technology,  a key step in any
+manufacturing  process  for high  performance  devices.  High  performance  cold
+cathode technology has received  significant support from both BMDO (ATMI, prime
+contractor)  and ARPA (CTC,  prime  contractor).  ATMI will  continue  to submit
+proposals to various government entities for additional research and development
+funding.
+
+     Backlog
+     As of December  31,  1996,  ATMI had firm  backlog of  approximately  $16.5
+million  consisting  of  approximately  $8.2 million of product  orders and $8.3
+million of  executed  and funded  research  contracts.  This  compares to a firm
+backlog  level of  approximately  $14.8  million as of December 31, 1995,  which
+consisted  of  approximately  $4.5 million of product  orders and  approximately
+$10.3 million of executed and funded research contracts.
+
+     ATMI  considers  orders  for  products  shippable  within six months of the
+backlog date and fully executed and funded  research  contract  awards as of the
+backlog date as firm  backlog.  SDS product  backlog is not  included  since the
+product is sold and shipped to Matheson  for  distribution  to the  ultimate end
+user.
+                                       13
+
+     Patents and Proprietary Rights
+     ATMI  protects  its  technology  by,  among  other  things,  filing  patent
+applications  for  technology  considered  important to the  development  of its
+business.  It also relies upon trade secrets,  unpatented  know-how,  continuing
+technological  innovation and the aggressive pursuit of licensing  opportunities
+to help develop and maintain its competitive position.
+
+     ATMI and its divisions have been awarded 68 U.S. patents and currently have
+72 U.S. patent applications  pending.  Foreign  counterparts of certain of these
+applications  have  been  filed  or may be filed at an  appropriate  time.  ATMI
+decides on a case-by-case  basis whether,  and in what  countries,  it will file
+foreign  counterparts  of a U.S. patent  application.  ATMI holds licenses to 12
+U.S. patents.  ATMI's U.S.  patents expire between  September 2006 and February
+2015. The U.S. patents licensed to ATMI expire during the period from March 2006
+through February 2013.
+
+     ATMI's ability to compete  effectively with other companies will depend, in
+part,  on its  ability to maintain  the  proprietary  nature of its  technology.
+Although ATMI has been awarded, has filed applications for, or has been licensed
+under numerous patents in the United States and foreign countries,  there can be
+no assurance as to the degree of  protection  afforded by these patents or as to
+the likelihood that pending patents will be issued.
+
+     The Company requires all employees and most consultants, outside scientific
+collaborators,   sponsored   researchers   and   other   advisors   to   execute
+confidentiality  agreements  upon the  commencement  of employment or consulting
+relationships   with  ATMI.  These  agreements  provide  that  all  confidential
+information  developed or made known to the individual  during the course of the
+individual's  relationship  with the Company is to be kept  confidential and not
+disclosed  to third  parties  except in  specific  circumstances.  All of ATMI's
+employees have entered into agreements providing for the assignment of rights to
+inventions made by them while in the employ of the Company.
+
+     Epigrade, Scram, Novapure, EcoSys, EcoSys (logo), Vector Technology, Vector
+(logo), Advanced Technology Materials (logo),  Phoenix, ReCAT, NovaMOS,  Sparta,
+Guardian,  Epitronics,  NovaSource,  VaporSource,  and SDS are trademarks of the
+Company.
+
+     Research and Development
+     ATMI's research and development  expenditures are  substantially  funded by
+external sources,  including various agencies of the federal  government.  Total
+sums expended for research and development in the years ended December 31, 1996,
+1995  and 1994  were  approximately  $15,968,000,  $11,697,000  and  $9,566,000,
+respectively.  Of  those  amounts,  approximately  $8,341,000,   $7,491,000  and
+$6,151,000,  respectively,  were externally funded and are classified as cost of
+contract revenues on ATMI's Consolidated Financial Statements, and approximately
+$7,627,000,  $4,206,000 and $3,415,000,  respectively,  were  internally  funded
+expenditures  by the Company and are  classified  as  research  and  development
+operating expenses on ATMI's Consolidated Financial Statements.
+
+
+     Environmental Regulation
+     The Company uses,  generates and  discharges  toxic,  volatile or otherwise
+hazardous chemicals and wastes in its research and development and manufacturing
+activities. Therefore, the Company is subject to a variety of federal, state and
+local governmental regulations related to the storage, use and disposal of these
+materials. The Company believes that it has all the permits necessary to conduct
+its business.  However, the failure to comply with present or future regulations
+could result in fines being imposed on the Company,  suspension of production or
+a cessation  of  operations.  While the Company  believes  that it has  properly
+handled  its  hazardous  materials  and  wastes and has not  contributed  to any
+on-site  contamination  or environmental  condition at any of its premises,  the
+premises  in  Danbury,  CT may have  been  contaminated  prior to the  Company's
+occupancy.
+                                       14
+
+The  Company  is  not  aware  of  any  environmental  investigation,
+proceeding  or action by federal or state  agencies  involving  these  premises.
+However,   under  certain  federal  and  state  statutes  and   regulations,   a
+governmental agency may seek recovery and response costs from both operators and
+owners of property where releases of hazardous  substances  have occurred or are
+ongoing.  The prior occupant of the premises has agreed to indemnify the Company
+for remediation costs in connection with any pre-existing, on-site contamination
+or  environmental  condition.  However,  there  can be no  assurance  that  this
+indemnification  will  prove  adequate  to cover any  liability  imposed  on the
+Company  related to the  environmental  condition of the premises or the cost of
+defending an  environmental  action,  either of which could be substantial.  The
+Company's  activities  may  also  result  in its  being  subject  to  additional
+regulation.  Such regulations  could require the Company to acquire  significant
+additional  equipment  or to incur  other  substantial  expenses  to comply with
+environmental regulations.  Any failure by the Company to control the use of, or
+to restrict  adequately the discharge of, hazardous  substances could subject it
+to substantial financial liabilities and could have a material adverse effect on
+the Company's business, operating results and financial condition.
+
+     Employees
+     As of December 31, 1996 ATMI employed a total of 188 individuals, including
+80 in sales and  administration,  51 in  operations  and 51 who are  principally
+employed in research and development.  Thirty-eight employees hold Ph.D. degrees
+and twenty-one hold other advanced degrees in electrical engineering,  materials
+science,  chemistry,  physics or related fields. None of the Company's employees
+are covered by collective  bargaining  agreements.  ATMI has not experienced any
+work stoppages and considers its relations with its employees to be strong.
+
+
+
+Item 2.  Properties.
+
+     ATMI is located in  Danbury,  Connecticut  where it leases a 72,000  square
+foot facility in Commerce Park. The Company occupies this facility under a lease
+which  expires on August 30,  2005.  ATMI  believes  its  existing  facility  is
+adequate and suitable for its current needs,  although it plans to significantly
+expand its production capability, and potential manufacturing space as needed.
+
+     EcoSys  leases a 25,000  square  foot  facility  in San  Jose,  California,
+expiring  March 2002.  ATMI  believes this facility is adequate and suitable for
+current and anticipated EcoSys' needs.
+
+     Epitronics  leases a 15,000  square  foot  facility  in  Phoenix,  Arizona,
+expiring  August 1999.  ATMI believes this facility is adequate and suitable for
+current and anticipated Epitronics' needs.
+
+
+
+Item 3.  Legal Proceedings.
+
+     ATMI is not a party  to any  material  litigation  and is not  aware of any
+pending or threatened  litigation that could have a material adverse effect upon
+its business, operating results, or financial condition.
+
+
+Item 4.  Submission of Matters to a Vote of Security Holders.
+
+     No  matter  was  submitted  to a vote  of  security  holders,  through  the
+solicitation  of proxies or otherwise,  during the fourth  quarter of the fiscal
+year ended December 31, 1996.
+                                       15
+
+
+
+                                    PART II.
+
+Item 5.  Market for Registrant's Common Equity and Related Stockholder Matters.
+
+     ATMI's  common  stock is traded on The  Nasdaq  National  Market  under the
+symbol ATMI.  The  following  table sets forth the high and low sales prices for
+the common stock as reported on the Nasdaq for the periods indicated.
+
+                                                               
+                                                            High        Low
+                                                            ----        ---
+           1995
+           ----
+           January 1 - March 31                           $  8.13    $  5.13
+           April 1 - June 30                                10.50       6.63
+           July 1 - September 30                            16.00      10.00
+           October 1 - December 31                          14.38       9.25
+
+           1996
+           ----
+           January 1 - March 31                            $12.75    $  9.63
+           April 1 - June 30                                15.88      10.38
+           July 1 - September 30                            13.88      10.75
+           October 1 - December 31                          18.50      12.25
+
+
+     As of February 28, 1997, there were approximately  4,700  stockholders,  of
+which approximately 250 were holders of record.
+
+     ATMI has never  paid cash  dividends  on its  capital  stock and  currently
+intends to retain future earnings,  if any, for use in its business.  Therefore,
+ATMI does not anticipate  paying any cash dividends in the  foreseeable  future.
+Certain of the Company's  financing  arrangements  contain  prohibitions  on the
+payment of dividends  without the lender's  consent or in  conjunction  with the
+Company's failure to comply with various financial covenants.
+
+     The Transfer Agent and Registrar for ATMI Common Stock is Boston EquiServe,
+L.P. formerly known as The First National Bank of Boston.
+                                       16
+
+Item 6.         Selected Financial Data.
+
+     The consolidated  statement of operations data set forth below with respect
+to the years ended December 31, 1996, 1995 and 1994 and the consolidated balance
+sheet data at December 31, 1996 and 1995 are derived from,  and are qualified by
+reference to, the audited  Consolidated  Financial Statements included elsewhere
+in this report and should be read in conjunction with those financial statements
+and notes thereto.  The consolidated  statement of operations data for the years
+ended  December  31, 1993 and 1992 and the  consolidated  balance  sheet data at
+December  31,  1994,  1993 and  1992 are  derived  from  consolidated  financial
+statements  not included  herein.  Amounts for 1993 and all previous  years have
+been restated to give effect to the  acquisition of Vector,  which was accounted
+for as a pooling of interests.
+
+
+
+Consolidated Statement of Operations Data:
+(in thousands, except per share data)
+                                         Year Ended December 31,
+                                         -----------------------
+                                                         
+                               1996      1995       1994        1993       1992
+                               ----      ----       ----        ----       ----
+Product revenues            $36,504   $21,336   $ 12,538    $  7,174    $ 4,383
+Contract revenues             9,846     8,712      7,223       6,070      4,888
+                              -----     -----      -----       -----      -----
+    Total revenues           46,350    30,048     19,761      13,244      9,271
+Cost of revenues             24,281    17,099     11,990       8,243      6,459
+                             ------    ------     ------       -----      -----
+Gross profit                 22,069    12,949      7,771       5,001      2,812
+Operating expenses:
+    Research and development  7,627     4,206      3,415       1,864      1,260
+    Selling, general,
+      and administrative     11,510     8,558      5,588       3,772      3,066
+                             ------     -----      -----       -----      -----
+    Total operating expenses 19,136    12,764      9,003       5,636      4,326
+                             ------    ------      -----       -----      -----
+Operating income (loss)       2,933       185     (1,231)       (635)    (1,514)
+Other income, net               628       503      3,991          35         86
+                                ---       ---      -----          --         --
+Income (loss) before taxes
+   and minority interest      3,561       688      2,760        (600)    (1,428)
+Income taxes                    239       134        124         219        108
+                                ---       ---        ---         ---        ---
+Income (loss) before
+   minority interest          3,321       554      2,636        (819)    (1,536)
+Minority interest                 0         0          0         269        380
+                                  -         -          -         ---        ---
+Net income (loss)             3,321       554      2,636        (550)    (1,156)
+                              =====       ===      =====        ====     ======
+Net income (loss)
+   per share (1)            $  0.35   $  0.07   $   0.35    ($  0.10)   ($ 0.23)
+                            =======   =======   ========    ========    =======
+
+Weighted average
+   shares outstanding (1)     9,359     8,074      7,595       5,473      5,009
+                              =====     =====      =====       =====      =====
+
+
+
+
+                                                December 31,
+                                                ------------
+                                                        
+                                1996      1995      1994     1993      1992
+                                ----      ----      ----     ----      ----
+Consolidated Balance Sheet Data:
+(in thousands)
+
+Cash, cash equivalents,
+  and marketable securities     $21,406   $25,465   $12,692  $13,444   $  4,538
+Working capital                  27,103    26,224    13,341   14,050      4,678
+Total assets                     50,118    49,798    21,251   20,170     10,029
+
+Long-term obligations,
+   less current portion           5,004     5,434     1,236      896      1,465
+Minority interest                  --        --        --      3,179      3,447
+Redeemable convertible
+   preferred stock                 --        --        --       --        7,982
+Stockholders' equity
+   (deficiency)                 36,393    32,897    14,785   12,099      (6,440)
+
+
+     (1) The  calculation  of net income  (loss) per share and weighted  average
+shares  outstanding  gives effect to: (i) shares issued in conjunction  with the
+1994  acquisition of Vector as if the acquisition  occurred prior to all periods
+presented,  (ii) the 1993  conversion of all  outstanding  shares of Convertible
+Preferred Stock into 4,040,039 shares of Common Stock and (iii) the 1993 payment
+of a dividend of 76,102 shares of Common Stock to certain holders of Convertible
+Preferred  Stock  effective  upon the closing of the  Company's  initial  public
+offering,  in each case for all periods  presented  although  such  inclusion is
+antidilutive.
+
+                                       17
+
+
+
+Item 7.
+     Management's  Discussion and Analysis of Financial Condition and Results of
+     Operations
+
+Overview
+
+     Founded in 1986,  ATMI  generates  revenues from product sales and contract
+research. Most product sales are point-of-use environmental equipment, specialty
+materials,  and  delivery  systems  for the  semiconductor  industry.  ATMI also
+receives royalties for certain product sales from third parties.
+
+     Since  1986,  a  significant  portion  of  ATMI's  revenues  has come  from
+contracts  with United States  government  agencies.  The programs in which ATMI
+participates  may extend for several  years,  but are usually  funded  annually.
+There can be no assurance  that the  government  will continue its commitment to
+programs to which ATMI's  development  projects are  applicable or that ATMI can
+compete successfully to obtain program funding.
+
+     ATMI has  used a  targeted  acquisition  strategy  to  assist  in  building
+critical mass and market position in the niches the Company serves. In 1994 ATMI
+acquired  Vector,  and in conjunction with the sale of Novapure product lines to
+Millipore in September 1994, formed EcoSys by merging the retained operations of
+Novapure with those of Vector.  In 1995, ATMI acquired the Guardian product line
+from Messer  Greisheim  Industries and folded that product line into EcoSys.  In
+1995, ATMI acquired  Epitronics  Corporation,  and in early 1996,  combined that
+business  with  the  formerly  known  Diamond  Electronics  division  under  the
+Epitronics name.
+
+     The following table sets forth, for the periods  indicated,  the percentage
+relationship to total revenues of certain items in ATMI's consolidated statement
+of operations:
+
+
+                                                       Year Ended December 31,
+                                                       -----------------------
+                                                                 
+                                                       1996      1995      1994
+                                                       ----      ----      ----
+Product revenue .................................      78.8%     71.0%     63.5%
+Contract revenue ................................      21.2      29.0      36.5
+                                                       ----      ----      ----
+      Total revenues ............................     100.0     100.0     100.0
+Cost of revenues ................................      52.4      56.9      60.7
+                                                       ----      ----      ----
+Gross profit ....................................      47.6      43.1      39.3
+      Research and development ..................      16.5      14.0      17.3
+      Selling, general, and administrative ......      24.8      28.5      28.3
+                                                       ----      ----      ----
+            Total operating expenses ............      41.3      42.5      45.6
+                                                       ----      ----      ----
+Operating income (loss) .........................       6.3       0.6      (6.3)
+Other income, net................................       1.4       1.6      20.2
+                                                        ---       ---      ----
+Income before taxes..............................       7.7       2.2      13.9
+Income taxes.....................................       0.5       0.4       0.6
+                                                        ---       ---       ---
+Net income.......................................       7.2%      1.8%     13.3%
+
+                                       18
+
+
+
+
+     The following table sets forth revenues,  cost of revenues and gross profit
+for products and contracts, as a percentage of each category:
+
+
+
+                                                     Year Ended December 31,
+                                                     -----------------------
+                                                                 
+                                               1996           1995         1994
+                                               ----           ----         ----
+Products:
+  Revenues ........................           100.0%         100.0%       100.0%
+  Cost of revenues ................            43.7           45.0         46.6
+                                               ----           ----         ----
+Gross profit ......................            56.3%          55.0%        53.4%
+Contracts:
+  Revenues ........................           100.0%         100.0%       100.0%
+  Cost of revenues ................            84.7           86.0         85.2
+                                               ----           ----         ----
+Gross  profit .....................            15.3%          14.0%        14.8%
+
+
+
+Results of Operations
+Years Ended December 31, 1996, 1995, and 1994.
+
+     Revenues.  In 1996,  ATMI's total revenues  improved 54.3% to approximately
+$46,350,000 from $30,048,000 in 1995. Total revenues for 1995 were 52.1% greater
+than 1994's $19,761,000.  Product sales were $36,504,000, up 71.1% in 1996, from
+1995's product sales of $21,336,000. Product sales for 1996 were 78.8% of ATMI's
+total revenues,  and in 1995, 71.0%. In turn, 1995 showed a 70.2% increase above
+product sales of $12,538,000 in 1994. Product sales in 1994 were 63.4% of ATMI's
+total revenues.
+
+     EcoSys effluent  treatment product sales led ATMI's product revenue growth.
+With its technology  leadership and full service philosophy in the environmental
+niche of the  semiconductor  market,  EcoSys managed to increase market share in
+the face of a softening  capital  equipment  market.  Sales to Pacific Rim-based
+companies  continued to be strong. The December 1995 acquisition of the Guardian
+product line was also responsible for a portion of the revenue growth.
+
+     This year, sales of effluent gas treatment  products were approximately 54%
+of  ATMI's  revenues,   about   $25,076,000.   Last  year,  EcoSys   contributed
+$16,889,000,  about  56% of  revenues.  In  1994,  51% of  ATMI's  total  sales,
+$10,078,000,  were EcoSys product sales. While not a significant factor to date,
+a continued slowdown in capital equipment spending in the semiconductor industry
+could have a negative effect on EcoSys revenue growth during 1997.
+
+     The SDS  product  line  has  begun  to  have a  significant  impact  on the
+Company's  revenue  growth.  The revenue  from this product line changed in late
+1996 from a royalty stream to a product revenue steam. As a result,  the sale of
+this product represented  approximately 9% of total revenues in 1996, up from 3%
+for the entire 1995 year's revenues.
+
+     General  increases in government  funding of ATMI research  resulted in the
+growth  of  contract  revenues.  For  1996,  government  funding  grew  13.0% to
+$9,846,000,  from $8,712,000 in 1995 and increased 20.6% in 1995 from $7,222,000
+in 1994.  The  increased  research  funding  in 1996 was  primarily  focused  on
+materials  development,  device  processing and device design  activities within
+NovaMOS and  Epitronics.  The 1995  growth was  primarily  related to  increased
+funding of substrate fabrication and materials development projects.
+                                       19
+
+     Gross  Profit.   ATMI's  gross  profit  improved  this  year  by  70.4%  to
+$22,069,000  compared to 1995,  when gross profit of $12,949,000 had grown 66.6%
+from  $7,771,000 in 1994. As a percentage of revenues,  gross profit improved to
+47.6% in 1996 from 43.1% in 1995 and increased in 1995 from 39.3% in 1994.
+
+     In 1996,  ATMI's sales mix  continued to shift  toward  greater  volumes of
+high-margin  products.  Consequently,  our product revenue gross margin improved
+75.3% to $20,565,000  from  $11,728,000 in 1995 and increased 75.0% in 1995 from
+$6,700,000 in 1994. Product gross margin improved to 56.3% of revenues,  up from
+55.0% in 1995 and  53.4% in 1994.  The  improved  product  margins  in 1996 were
+attributed  primarily to the  significant  increases in royalties in  connection
+with SDS product line growth.  Additionally,  sales of the SDS product commenced
+late in the year when the Company began manufacturing the product and recognized
+margins higher than the average ATMI product margin.  The effect of the SDS more
+than offset some slight  declines in margin  realized on sale of EcoSys products
+due to geographic and product mix shifts to comparatively lower margin sales.
+
+     Gross profit on contract  revenue  increased in 1996 by 23.3% to $1,505,000
+from  $1,221,000 in 1995 which was an increase of 14.0% over 1994 at $1,071,000.
+Gross margin on  contracts  over the last three years have  remained  relatively
+stable.  As a percent of contract  revenues,  gross margin increased to 15.3% in
+1996  from  14.0% in 1995  which was a  decrease  from  14.8% in 1994.  Contract
+margins can vary slightly from year to year based on the mix of cost-type,  firm
+fixed  price  and  cost  share   arrangements.   Additionally,   different   fee
+arrangements  and  indirect  cost  absorption  can  contribute  to  some  margin
+variability.
+
+     Research  and  Development  Expenses.  ATMI  targets  areas to maintain its
+competitive  advantage.  For  1996,  our  R&D;  spending  rose  significantly  to
+$7,627,000,  up 81.3% from last year.  Primary  drivers for the increase in 1996
+was  expansion  of product  development  efforts  within  EcoSys  and  increased
+spending to expand and protect the SDS  technology  portfolio.  R&D;  expenses of
+$4,206,000 in 1995 was an increase of 23.2% from 1994 R&D; of $3,415,000.  R&D; as
+a percentage of revenues has increased to 16.5% in 1996,  compared with 14.0% in
+1995, which was a decrease from 17.3% of revenues in 1994.
+
+     Selling,  General,  and  Administrative  Expenses.  Increasing in line with
+ATMI's  growth,  ATMI's  variable  selling  costs grew in 1996.  ATMI also added
+administrative  staff in 1996 to support  revenue growth and incurred  increased
+costs related to the businesses acquired in 1995. As a result, the 1996 S,G&A;
+expenses of $11,510,000,  were approximately 34.5% above last year's expenses of
+$8,558,000  which in turn were up 53.2% from 1994 S,G&A;  expenses of $5,588,000.
+The growth in 1995 was due again to variable  selling cost increases and also to
+the  expansion  of the  Company's  marketing  staff.  S,G&A; as a  percentage  of
+revenues has decreased to 24.8% in 1996,  compared with 28.5% in 1995, which was
+a slight increase from 28.3% of revenues in 1994.
+
+     Other Income,  Net. Most of ATMI's other income stems from interest income,
+offset by interest expense on the Company's outstanding debt. In 1996, net other
+income  grew  by  24.8%  to  $628,000.  The  Company's  invested  cash  balances
+throughout  1996 were  significantly  higher  than in 1995 due to the  Company's
+public offering in October 1995.  Increased  interest  expense in 1996 partially
+offset the effect of the increased  interest earned on cash investments.  In
+1995, net other income of $503,000 grew by 29% from the 1994 amount of $390,000,
+exclusive of 1994's non-recurring  transactions.  Again the 1995 interest income
+growth was due to having the proceeds of the October 1995  offering for the last
+quarter  of  the  year.  The  1994   non-recurring   transaction   involved  the
+restructuring  of the Novapure  joint  venture and the sale of assets for a $4.6
+million gain.  Offsetting this gain were transaction and consolidation  expenses
+of $1 million for the restructuring,  acquiring Vector, and combining Vector and
+Novapure into EcoSys.
+                                       20
+
+     Income Taxes. ATMI's income tax expense related primarily to state taxes on
+income generated,  partially offset by the utilization of loss carryforwards and
+available state tax credits. Minimal federal taxes paid in 1996 and 1995 related
+to  alternative  minimum  taxes  arising  from  the  use of net  operating  loss
+carryforwards.  Income  tax  expense  in 1996 was  $239,000,  up 78.4%  from the
+$134,000 in 1995 which, in turn, were up 8.5% from $124,000 in 1994.
+
+Liquidity and Capital Resources
+
+     The 1996 year was ATMI's first in generating cash from operations. Net cash
+generated of $4,280,000 was due  principally to the increased  profitability  of
+the  Company  for the  year.  In 1995,  ATMI  used net  cash for  operations  of
+$1,226,000,  primarily  to fund a  significant  increase in accounts  receivable
+because of end-of-the-year  product shipments.  In 1994,  $1,342,000 in net cash
+was used in operations, primarily funding ATMI operating losses.
+
+     The amount of the Company's  working capital has not changed  significantly
+since the closing of the 1995 public  offering.  Working capital was $27,103,000
+at December 31, 1996, compared to $26,224,000 at December 31, 1995.
+
+     The Company's  investing  activities include capital  expenditures in 1996,
+1995, and 1994 of $4,694,000, $3,604,000 and $1,785,000,  respectively. The 1996
+capital  expenditures  were  primarily  focused on  manufacturing  expansion for
+EcoSys and NovaMOS and laboratory construction for customer application work for
+EcoSys.  The 1995 and 1994  capital  was  spent  on  renovations  and  leasehold
+improvements for the Danbury and San Jose facilities,  upgrades to the Company's
+information systems and purchase of laboratory equipment.
+
+     Among  other  investing  activities  for  1996,  ATMI  sold  $4,886,000  in
+marketable  securities and made a $4 million payment in connection with the 1995
+acquisition  of Guardian.  During  1995,  ATMI made a $1 million  investment  in
+Candescent  Technologies  Corporation (formerly Silicon Video Corporation),  and
+purchased  $11,213,000 of marketable  securities with the proceeds received from
+the 1995 public  offering.  When the Company  restructured  Novapure  and sold a
+portion of its assets in 1994, ATMI received net proceeds of approximately  $2.5
+million.
+
+     Through the end of 1996,  ATMI had used $2.0 million from capital leases in
+financing  capital  equipment  purchases.  Financial  institutions have provided
+collateral-based   loans  for  $3.3  million.   The  State  of  Connecticut  has
+contributed  loans of almost $2.0 million.  About $6.6 million was been extended
+to ATMI by parties to the Company's acquisition activities.  At year end, nearly
+$5.6 million of loans and financing remained  outstanding.  Notes payable extend
+through June 2002 with interest  rates from 5.4% to 9.5%.  ATMI made payments of
+$1,144,000  on notes  payable this year.  Last year,  notes paid were  $741,000,
+while in 1994, payments totaled $1,050,000.  In December 1996, ATMI was extended
+a $10  million  unsecured  line of  credit by its  commercial  bank to assist in
+financing future activities.
+
+     ATMI believes the cash generated from operations and the proceeds from last
+year's common stock offering  together with existing sources of liquidity,  will
+satisfy  projected working capital and cash  requirements,  at least through the
+end of 1998.  However,  ATMI believes the level of financial resources available
+to it is an important competitive factor in its industry and may seek additional
+capital  prior  to  the  end of  that  period.  The  Company  considers  raising
+additional capital on an on-going basis as market factors and its needs suggest.
+Additionally,  ATMI considers,  on a continuing basis, potential acquisitions of
+technologies  and  businesses  complementary  to its current  business which may
+require additional cash.
+                                       21
+
+Inflation
+
+     During the last three years,  inflation has not had a significant impact on
+ATMI's operating results.
+
+Safe Harbor Statement
+
+     Statements  which  are not  historical  facts in this  report  are  forward
+looking statements, made on a good faith basis. Such forward looking statements,
+including those  concerning the Company's  expectations  for demand and sales of
+new and existing products, semiconductor industry and market segment growth, and
+market and technology opportunities, all involve risk and uncertainties.  Actual
+results may differ  materially  from  forward  looking  statements,  for reasons
+including,  but not limited to, changes in the pattern of semiconductor industry
+growth or the markets the Company sells products for,  customer  interest in the
+Company's products,  product and market  competition,  delays or problems in the
+development and  commercialization  of the Company's products,  or technological
+change affecting the Company's core thin film competencies.
+
+
+Item 8.  Financial Statements and Supplementary Data.
+
+     The Report of Independent Auditors,  the consolidated  financial statements
+and financial  statement  schedule that are listed in the Index to  Consolidated
+Financial  Statements and Financial  Statement  Schedule are included  herein on
+pages F-1 through F-16.
+
+Item 9. Changes in and Disagreements with Accountants on Accounting and
+Financial Disclosure.
+
+     There have been no changes in or disagreements with accountants required to
+be reported herein.
+                                       22
+
+
+
+                                    PART III
+
+Item 10.  Directors and Executive Officers of the Registrant
+
+The executive officers and directors of the Company are as follows:
+
+
+                            
+Name                       Age    Position with the Company
+- ----                       ---    -------------------------
+Eugene G. Banucci, Ph.D.   53     President, Chief Executive Officer,
+                                     Chairman of the Board and Director
+Peter S. Kirlin, Ph.D.     36     Executive Vice President
+Duncan W. Brown, Ph.D.     44     Vice President and Director,
+                                     President of Epitronics
+Daniel P. Sharkey          40     Vice President, Chief Financial Officer
+                                     and Treasurer
+Ward C. Stevens, Ph.D.     42     Vice President and Secretary
+Nicholas J. Wood           33     Vice President - Marketing
+Mark A. Adley              37     Director
+Gary A. Andersen           60     Director
+John A. Armstrong, Ph.D.   62     Director
+Robert S. Hillas           47     Director
+Stephen H. Mahle           51     Director
+
+
+     Eugene  G.  Banucci,  Ph.D.,  a  founder  of the  Company,  has  served  as
+President,  Chief Executive Officer,  Chairman of the Board and a director since
+1986.  Previously,  Dr.  Banucci served in a variety of executive and managerial
+positions.  From 1984 to 1986, he was a director of American Cyanamid  Company's
+Chemical Research Division,  with  responsibility for the research,  development
+and technical service activities of the Chemicals Group.
+
+     Peter S.  Kirlin,  Ph.D.,  has served as  Executive  Vice  President of the
+Company  since  December  1995.  From 1991 to 1995,  Dr.  Kirlin  served as Vice
+President of Microelectronics  and General Manager of the NovaMOS division,  and
+from 1988 to 1991, he was Director of  Superconductor  Materials and Electronics
+for the Company.  Prior to joining  ATMI,  Dr.  Kirlin was a Project  Leader and
+Research  Engineer for American  Cyanamid  Company.  Dr. Kirlin has written more
+than 30 published articles and holds 7 issued U.S. patents.
+
+     Duncan W. Brown,  Ph.D.,  a founder of ATMI, has served as a Vice President
+since 1986 and as a Director since 1990.  Dr. Brown was also named  President of
+Epitronics  Corporation  in March  1996.  From  1983 to 1986,  Dr.  Brown  was a
+Research  Chemist at American  Cyanamid  Company.  Previously,  Dr.  Brown was a
+Postdoctoral  Fellow  in  the  Departments  of  Chemistry  at  MIT  and  Harvard
+University,  and an Academic  Associate at IBM's  Research  Division.  Dr. Brown
+holds 15 issued U.S. patents and has published several technical articles.
+
+     Daniel P. Sharkey has served as Chief Financial  Officer since joining ATMI
+in 1990. He was also elected Vice  President  and  Treasurer in September  1993.
+From 1987 to 1990, Mr. Sharkey was Vice President of Finance and  Administration
+for Adage, Inc., a manufacturer of high-performance computer graphics terminals.
+From 1983 to 1987, he was Corporate Controller for CGX Corporation.  Previously,
+Mr. Sharkey served as Audit Supervisor for KPMG Peat Marwick.
+                                       23
+
+     Ward C. Stevens,  Ph.D.,  a founder of ATMI, has served as a Vice President
+since 1986 and served as a Director  from 1986 to 1990.  Prior to joining  ATMI,
+Dr. Stevens was a Materials  Scientist and Project  Leader at American  Cyanamid
+Company and a Materials  Scientist at Celanese  Research  Company.  Dr.  Stevens
+holds  12  issued  U.S.  patents  and  is  the  author  of  numerous  scientific
+publications.
+
+     Nicholas J. Wood has served as the Company's Vice President-Marketing since
+August  1995.  From 1985 to 1995,  Mr.  Wood  served  in a variety  of sales and
+marketing positions with Intel Corporation. Most recently, from 1992 to 1995, he
+served as Northern European Marketing Manager.
+
+     Mark A. Adley has served as a director  of the Company  since  1991.  Since
+1996,  Mr.  Adley has been a Managing  Director at Credit  Suisse  First  Boston
+Corporation  where he was a Director from 1994 to 1996.  From 1992 through 1993,
+Mr.  Adley  served  as  an  investment  manager  for  Clipper  Asset  Management
+Corporation, the General Partner of The Clipper Group, L.P. ("Clipper").  During
+1991,  Mr. Adley served as an  investment  manager for Clipper.  Mr. Adley was a
+Director at CS First Boston  Merchant  Bank during 1990 and, at The First Boston
+Corporation,  was a Vice  President from 1989 to 1990 and an Associate from 1985
+to 1988.
+
+     Gary A.  Andersen has served as a director of the Company  since 1994.  Mr.
+Andersen  was  President,   Chief  Executive   Officer  and  a  director  of  RF
+Monolithics,  Inc., a manufacturer  of products  based on surface  acoustic wave
+technology,  from 1986 to 1996.  Previously,  Mr. Andersen served as Director of
+National  Accounts at Valid Logic  Systems,  National  Sales  Manager for Memory
+Systems at Mostek Corporation and OEM Marketing Manager at Intel Memory Systems.
+
+     John A.  Armstrong,  Ph.D.  has served as a director of the  Company  since
+1993.  Dr.  Armstrong  is  presently  a  visiting  professor  of  physics at the
+Massachusetts  Institute of  Technology.  Previously,  he was Vice  President of
+Science and Technology for IBM from 1987 until his retirement in 1993.
+
+     Robert S. Hillas has served as a director of the  Company  since 1987.  Mr.
+Hillas has been a Managing  Director of E.M.  Warburg,  Pincus & Co., Inc. since
+1993.  From  1985 to  1992,  Mr.  Hillas  served  as a  General  Partner  of DSV
+Management  Ltd.,  the General  Partner of DSV  Partners  IV, a venture  capital
+limited partnership, and from 1981 to 1992, as a General Partner of DSV Partners
+III, a venture capital limited partnership.
+
+     Stephen H. Mahle has served as a director of the Company  since March 1996.
+Mr.  Mahle has been  President  of the Brady  Pacing  Business,  a  division  of
+Medtronic,  Inc.,  since  1995.  From  1989 to 1995,  Mr.  Mahle  served as Vice
+President  and General  Manager of the Brady Pacing  Business.  Previously,  Mr.
+Mahle  served  in a variety  of  marketing  and  product  development  roles for
+Medtronic, Inc.
+
+     All directors hold office until the next annual meeting of the stockholders
+of the Company or until their  successors  have been duly elected and qualified.
+Executive  officers serve at the discretion of the Company's Board of Directors.
+There are no family relationships among the executive officers and directors nor
+are there any arrangements or  understandings  between any executive officer and
+any other person pursuant to which the executive officer was selected.
+
+Section 16(a)  Beneficial Ownership Reporting Compliance
+
+     Section 16(a) of the Securities Exchange Act of 1934, as amended,  requires
+the Company's  executive officers and directors and persons who beneficially own
+more than ten percent of the Company's Common Stock to file reports of ownership
+and changes in ownership  with the  Securities  and Exchange  Commission.  Based
+solely on reports and other  information  submitted by the  executive  officers,
+directors  and such  beneficial  owners,  the Company  believes  that during the
+fiscal year ended December 31, 1996, all such reports were timely filed.
+                                       24
+
+
+Item 11.  Executive Compensation
+
+
+Summary Compensation
+
+     The  following   table  sets  forth  certain   information   regarding  the
+compensation  paid by the Company to the Company's Chief  Executive  Officer and
+each of the other four most highly  compensated  executive officers for services
+in all capacities to the Company and its  subsidiaries for the fiscal year ended
+December 31, 1996.
+
+
+                           SUMMARY COMPENSATION TABLE
+
+
+                                                         Long Term
+                                                       Compensation
+                                                          Awards
+                                   Annual Compensation    ------
+                                   -------------------  Securities    All Other
+                                                        Underlying    Compen-
+Name and Principal Position   Year  Salary($) Bonus($)  Options(#)  sation($)(1)
+- ---------------------------   ----  ------------------  ----------  ------------
+                                                          
+Eugene G. Banucci             1996  181,300    40,000         --         2,121
+  President, Chief Executive  1995  155,250    40,000     35,000         2,875
+     Officer and Chairman     1994  145,300    40,000         --         1,530
+     of the Board
+
+Peter S. Kirlin               1996  111,100    30,000         --            --
+   Executive Vice President   1995   96,560    35,000     25,000           400
+                              1994   91,300    20,000         --            --
+
+Nicholas J. Wood (2)          1996  121,200    15,000         --            --
+   Vice President - Marketing 1995   41,667    16,526     36,000            --
+                              1994       --        --         --            --
+
+Daniel P. Sharkey             1996   110,000   20,000         --         1,678
+   Vice President, Chief      1995   103,000   25,000     15,000         1,583
+     Financial Officer        1994    98,000   20,000         --           529
+     and Treasurer
+
+Ward C. Stevens               1996   101,000   25,000         --           890
+   Vice President, Secretary  1995    96,000   10,000      5,000         1,823
+                              1994    93,000   10,000         --           579
+
+
+     (1) Represents  premiums paid for life  insurance and long term  disability
+policies  of which the  Company is not the  beneficiary  and  flexible  spending
+contributions toward health care costs not covered by Company plans.
+
+     (2) Mr. Wood joined the Company on August 28, 1995.
+                                       25
+
+
+
+Option Exercises and Year-End Values
+
+     The following table sets forth information concerning option holdings as of
+December  31,  1996  with  respect  to the  individuals  named  in  the  Summary
+Compensation Table.
+
+
+                 AGGREGATED OPTION EXERCISES IN LAST FISCAL YEAR
+                        AND FISCAL YEAR-END OPTION VALUES
+
+                                    Number of Securities   Value of Unexercised
+                  Shares           Underlying Unexercised  in-the Money Options
+                Acquired           Options at FY-End (#)     at FY-End ($)(1)
+                   on     Value    ---------------------     ----------------
+Name            Exercise Realized   Exercisable         Exercisable
+                   (#)     ($)              Unexercisable         Unexercisable
+- -------------   --------------------------------------------------------------
+                                                     
+Eugene G. Banucci     --        --   103,975  30,400     1,651,194     238,100
+Peter S. Kirlin ..   6,000   73,679   54,234  25,540       847,573     236,057
+Nicholas J. Wood .    --        --     7,200  28,800        39,600     158,400
+Daniel P. Sharkey    4,000   50,222   69,875  21,000     1,103,247     214,750
+Ward C. Stevens ..   9,375  121,245   74,725   5,400     1,231,315      44,850
+
+     (1) Based on the fair  market  value of the  Company's  Common  Stock as of
+December 31, 1996 ($17.25) minus the exercise price of the options.
+
+Non-Competition Agreements
+
+     Eugene G. Banucci, Duncan W. Brown, Ward C. Stevens and Peter S. Kirlin are
+parties to agreements with the Company containing  covenants not to compete with
+the Company during their employment and for two years thereafter.
+
+Director Compensation
+
+     The Company's directors do not receive any cash compensation for service on
+the Board of Directors or any committee  thereof but are reimbursed for expenses
+incurred in connection with attending meetings of the Board of Directors and any
+committee thereof. In October 1993, the Company granted options for the purchase
+of  22,500  shares  of the  Company's  Common  Stock  to  John A.  Armstrong  in
+consideration  of consulting  services  performed for the Company.  The exercise
+price of the options is $3.55 per share,  which was the fair market value of the
+Company's  Common Stock on the date of grant,  and the options vest ratably over
+five years on each of the first five anniversary dates of the grant date. In May
+1994,  the  Company  granted  options for the  purchase of 22,500  shares of the
+Company's  Common Stock to Gary A. Andersen in  consideration of his services on
+the Board of  Directors.  The exercise  price of the options is $5.00 per share,
+which was the fair market  value of the  Company's  Common  Stock on the date of
+grant,  and the options  vest  ratably over five years on each of the first five
+anniversary  dates of the grant date.
+
+                                       26
+
+     In December  1994, the Company  granted  options for the purchase of 22,500
+shares of the Company's Common Stock to Robert S. Hillas in consideration of his
+services on the Board of Directors.  The exercise  price of the options is $5.50
+per share,  which was the fair market value of the Company's Common Stock on the
+date of grant, and the options were immediately vested as to 50% of the grant in
+consideration  of past  service on the Board of  Directors  and vested as to the
+remaining 50% of the grant on December 9, 1995. In May 1995, the Company granted
+options for the purchase of 22,500 shares of the Company's  Common Stock to Mark
+A.  Adley in  consideration  of his  services  on the  Board of  Directors.  The
+exercise  price of the  options  is $8.50 per share,  which was the fair  market
+value of the Company's  Common Stock on the date of grant,  and the options were
+immediately  vested as to 40% of the grant in  consideration  of past service on
+the Board of Directors  and the  remaining  60% vest ratably over three years on
+each of the first three  anniversary dates of the grant date. In March 1996, the
+Company  granted  options  for the  purchase of 22,500  shares of the  Company's
+Common Stock to Stephen H. Mahle in  consideration  of his services on the Board
+of Directors.  The exercise price of the options is $10.50 per share,  which was
+the fair market value of the  Company's  Common Stock on the date of grant,  and
+the options vest  ratably over five years on each of the first five  anniversary
+dates of the grant date.
+
+                                       27
+
+
+
+Item 12.  Security Ownership of Certain Beneficial Owners and Management
+
+     The following  table sets forth certain  information  regarding  beneficial
+ownership  of the  Company's  Common  Stock as of February  28, 1997 by (i) each
+person  known by the Company to own  beneficially  more than five percent of the
+outstanding  Common  Stock of the  Company,  (ii) each  director of the Company,
+(iii) each executive officer named in the Summary  Compensation  Table, and (iv)
+all  directors  and  executive  officers  of the  Company as a group.  Except as
+otherwise  indicated,  all shares are owned  directly.  Except as  indicated  by
+footnote,  and subject to community property laws where applicable,  the persons
+named in the table have sole  voting and  investment  power with  respect to all
+shares of Common Stock indicated.
+
+
+
+                                         Shares      Percent
+                                       Beneficially    of
+                                          Owned       Class
+                                          -----       -----
+Name and Address of Beneficial Owner
+- ------------------------------------
+                                                
+J.P. Morgan & Co.,
+  Incorporated (1)
+  60 Wall Street
+  New York, NY 10260 ..............     1,120,950     12.7%
+
+Eugene G. Banucci (2) ............        314,691      3.5%
+Ward C. Stevens (3) ...............       178,764      2.0%
+Duncan W. Brown (4) ...............       172,771      1.9%
+Daniel P. Sharkey (5) .............        69,875       *
+Peter S. Kirlin (5) ...............        54,234       *
+Robert S. Hillas (6) ..............        30,977       *
+Mark A. Adley (7) .................        16,500       *
+John A. Armstrong (5) .............        13,500       *
+Gary A. Andersen (5) ..............         9,000       *
+Nicholas J. Wood (5) ..............         7,200       *
+Stephen H. Mahle (8) ..............         4,600       *
+
+All directors and executive officers
+  as a group (11 persons) (9) .....       872,112      9.4%
+
+
+*less than 1%
+
+     (1)  The  shares  shown  as  beneficially  owned  by  J.P.  Morgan  &  Co.,
+Incorporated  were those reported as beneficially  owned by it as of January 31,
+1997 in Amendment  No. 3 to its Schedule 13G filed with the SEC.  Such  schedule
+indicates  that J.P.  Morgan & Co.,  Incorporated  has sole  voting  power  with
+respect  to  701,100  shares  and sole  dispositive  power  with  respect to all
+1,120,950 shares.
+
+     (2) Includes  103,975  shares  issuable  upon  exercise of options that are
+exercisable within 60 days of February 28, 1997 and 5,659 shares either owned by
+Dr.  Banucci's  spouse or issuable  upon  exercise of options  within 60 days of
+February 28, 1997 by Dr.  Banucci's  spouse.  Dr. Banucci  disclaims  beneficial
+ownership of the shares held by his spouse.
+                                       28
+
+     (3)  Includes  74,725  shares  issuable  upon  exercise of options that are
+exercisable within 60 days of February 28, 1997 and 5,537 shares either owned or
+issuable  upon  exercise of options  within 60 days of February  28, 1997 by Dr.
+Steven's spouse. Dr. Stevens disclaims  beneficial  ownership of the shares held
+by his spouse.
+
+     (4)  Includes  69,637  shares  issuable  upon  exercise of options that are
+exercisable within 60 days of February 28, 1997 and 4,634 shares either owned or
+issuable  upon  exercise of options  within 60 days of February  28, 1997 by Dr.
+Brown's spouse. Dr. Brown disclaims  beneficial  ownership of the shares held by
+his spouse.
+
+     (5) Consists  entirely of shares issuable upon exercise of options that are
+exercisable within 60 days of February 28, 1997.
+
+     (6)  Includes  11,250  shares  issuable  upon  exercise of options that are
+exercisable within 60 days of February 28, 1997.
+
+     (7)  Includes  18,000  shares  issuable  upon  exercise of options that are
+exercisable within 60 days of February 28, 1997. Does not include 189,500 shares
+beneficially  owned by  Merchant  Investments,  Inc.  ("Merchant").  Mr. Mark A.
+Adley,  a director of the  Company,  is employed by Credit  Suisse  First Boston
+Corporation,  a  wholly-owned  subsidiary of Credit  Suisse First  Boston,  Inc.
+("CSFBI"),  which  indirectly  wholly  owns  Merchant.   Pursuant  to  an  Asset
+Management  Agreement  among  CSFBI,  certain  affiliates  of  CSFBI  (including
+Merchant) and The Clipper  Group,  L.P.  ("Clipper"),  Clipper  manages  certain
+investments for such persons, including these shares. Under the Asset Management
+Agreement,  Clipper  has sole power to vote  these  shares but does not have the
+power (sole or shared) to dispose of any such shares.  Mr. Adley  disclaims  any
+beneficial ownership of the shares owned by Merchant.
+
+     (8)  Includes  4,500  shares  issuable  upon  exercise of options  that are
+exercisable within 60 days of February 28, 1997.
+
+     (9) Includes  446,057 shares  issuable to executive  officers and directors
+pursuant to options which are  exercisable  within 60 days of February 28, 1997.
+Does not include an aggregate of 189,500  shares as to which a certain  director
+disclaims beneficial ownership (See Note (7)).
+
+Item 13.  Certain Relationships and Related Transactions
+
+     There are no relationships or transactions required to be reported herein.
+
+                                       29
+
+
+
+
+                                     PART IV
+
+
+Item 14. Exhibits, Financial Statement Schedule, and Reports on Form 8-K.
+
+
+(a) (1) and (2) Financial Statements and Schedule
+
+     The report of independent auditors,  consolidated  financial statements and
+financial  statement  schedules  listed in the Index to  Consolidated  Financial
+Statements and Financial Statement Schedule on page F-1 hereof are filed as part
+of this report, commencing on page F-2 hereof.
+
+     All other financial statement schedules not listed in the Index are omitted
+as the required information is not applicable or the information is given in the
+financial statements or related notes.
+
+
+(a) (3) Exhibits
+
+     3.01 (a)  Restated  Certificate  of  Incorporation,  filed in  Delaware  on
+December 1, 1993 (Filed as Exhibit 3.01 (a) to the  Company's  Form 10-K for the
+year  ended  December  31,  1993,  File   No.0-22756   ("1993  Form  10-K")  and
+incorporated herein by reference)
+
+     (b)  Certificate  of Amendment  to Restated  Certificate  of  Incorporation
+(Filed as Exhibit 3.01 to Form 10-Q for the quarter  ended June 30,  1995,  File
+No.0-22756 ("June 30, 1995 Form 10-Q") and incorporated herein by reference)
+
+     3.02 Bylaws  effective  on  December 1, 1993 (Filed as Exhibit  3.02 (a) to
+1993 Form 10-K and incorporated herein by reference)
+
+     4.01 Specimen  Certificate  representing  shares of Common Stock,  $.01 par
+value,  of the registrant  (Filed as Exhibit 4.01 to the Company's  Registration
+Statement or amendments  thereto on Form S-1,  Registration  No. 33-69634 ("Form
+S-1") and  incorporated  herein by  reference)  10.01 (a) Teaming  Agreement for
+DARPA Contract Proposal and Resulting Program Relating to Barium  Titanate-Based
+DRAM Technology  dated August 10,1992  between  Advanced  Technology  Materials,
+Inc.,  IBM,  Texas  Instruments,  Micro  Semiconductor,  Inc.  and Lam  Research
+Corporation  (Filed as Exhibit 10.04 (a) to Form S-1 and incorporated  herein by
+reference)
+
+     (b) Amendment No. 1 to the Teaming  Agreement dated November 5, 1992 (Filed
+as Exhibit 10.04 (b) to Form S-1 and incorporated herein by reference)
+
+     (c) Amendment No. 2 to the Teaming  Agreement dated February 4, 1993 (Filed
+as Exhibit 10.04 (c) to Form S-1 and incorporated herein by reference)
+
+     (d) Agreement with the United States  Defense  Advanced  Research  Projects
+Agency  (DARPA)  dated  April  8,  1993  re:  "Ultra-Dense  Capacitor  Materials
+Processing  Partnership" for $5,020,194  (Filed as Exhibit 10.04 (d) to Form S-1
+and incorporated herein by reference)
+
+     10.02 Form of Key Employee Agreement between Advanced Technology Materials,
+Inc. and each of Eugene G. Banucci,  Duncan W. Brown,  Ward C. Stevens and Peter
+S.  Kirlin  (Filed  as  Exhibit  10.05 to Form S-1 and  incorporated  herein  by
+reference)
+
+     10.03 (a) License,  Marketing and Development  Agreement  between  Advanced
+Technology  Materials,  Inc. and Millipore  Corporation  dated November 17, 1987
+(Filed as Exhibit 10.07 (a) to Form S-1 and incorporated herein by reference)
+
+                                       30
+
+     (b)  Agreement  of  Amendment,  Amendment  #1  to  License,  Marketing  and
+Development  Agreement  dated June 27,  1991 (Filed as Exhibit 10.07 (b) to Form
+S-1 and incorporated herein by reference)
+
+     (c)  Agreement  of  Amendment,  Amendment  #2  to  License,  Marketing  and
+Development  Agreement dated October 1, 1992 (Filed as Exhibit 10.07 (c) to Form
+S-1 and incorporated herein by reference)
+
+     (d)  Agreement  of  Amendment,  Amendment  #3  to  License,  Marketing  and
+Development  Agreement  dated  September 26, 1994 (Filed as Exhibit 10.06 (d) to
+Form 10-K for the year ended  December 31, 1994,  File No.  0-22756  ("1994 Form
+10-K") and incorporated herein reference)
+
+     10.04 (a) Letter Agreement between Advanced Technology Materials,  Inc. and
+Silicon Valley Bank dated September 29, 1994 (Filed as Exhibit 10.08 (a) to 1994
+Form 10-K and incorporated herein by reference)
+
+     (b) Promissory  Note from Advanced  Technology  Materials,  Inc. to Silicon
+Valley Bank dated  September  7, 1994  (Filed as Exhibit  10.08 (b) to 1994 Form
+10-K and incorporated herein by reference)
+
+     (c) Negative Pledge Agreement by and between Advanced Technology Materials,
+Inc. and Silicon  Valley Bank dated August 31, 1994 (Filed as Exhibit  10.08 (c)
+to 1994 Form 10-K and incorporated herein by reference)
+
+     10.05  Agreement of Lease between Melvyn J. Powers and Mary P. Powers d/b/a
+M&M; Realty and  Advanced  Technology  Materials,  Inc.  dated  December 23, 1994
+(Filed as Exhibit 10.09 to 1994 Form 10-K and incorporated herein by reference)
+
+     10.06 Lease Agreement between Montague Oaks Associates,  Phase III and ATMI
+EcoSys  Corporation  dated February 7, 1995 (Filed as Exhibit 10.10 to 1994 Form
+10-K and incorporated herein by reference)
+
+     10.07 (a) Loan and Financing  Agreement by and between Advanced  Technology
+Materials,  Inc. and the Connecticut  Development  Authority dated June 27, 1995
+(Filed as Exhibit 10.01(a) to June 30, 1995 Form 10-Q)
+
+     (b)  Promissory  Note  from  Advanced  Technology  Materials,  Inc.  to the
+Connecticut  Development  Authority  dated June 27, 1995 (Filed as Exhibit 10.01
+(b) to June 30, 1995 Form 10-Q)
+
+     (c) Security Agreement by and between Advanced Technology  Materials,  Inc.
+and the Connecticut  Development Authority dated June 27, 1995 (Filed as Exhibit
+10.01(c) to June 30, 1995 Form 10-Q)
+
+     (d) Stock  Subscription  Warrant  granted  to the  Connecticut  Development
+Authority  dated June 27, 1995 (Filed as Exhibit  10.01(d) to June 30, 1995 Form
+10-Q)
+
+     10.08 (a) Letter Agreement between Advanced Technology Materials,  Inc. and
+Silicon Valley Bank dated  September 22, 1995 (Filed as Exhibit  10.08(d) to the
+Company's  Form 10-K for the  December 31, 1995,  File No.  0-22756  ("1995 Form
+10-K") and incorporated herein by reference)
+
+     (b) Promissory  Note from Advanced  Technology  Materials,  Inc. to Silicon
+Valley Bank dated September 22, 1995 (Filed as Exhibit 10.08(d) to the 1995 Form
+10-K and incorporated herein by reference)
+
+     10.09 Loan  Agreement  between  Advanced  Technology  Materials,  Inc.  and
+Silicon Valley Bank dated December 27, 1996 (Filed herewith)
+
+     11.01 Statement re: computation of per share earnings (Filed herewith)
+
+     21.01 Subsidiaries of the registrant (Filed herewith)
+
+     23.01 Consent of Ernst & Young LLP (Filed herewith)
+
+     27.01 Financial Data Schedule (Filed herewith)
+
+
+
+b) Reports on Form 8-K
+
+         None
+                                       31
+
+
+
+                                       F-1
+
+   Index to Consolidated Financial Statements and Financial Statement Schedule
+
+
+Report of Independent Auditors                                             F-2
+
+Consolidated Balance Sheet at December 31, 1996 and 1995                   F-3
+
+Consolidated Statement of Income for the years ended December 31, 1996,
+1995 and 1994                                                              F-4
+
+Consolidated Statement of Stockholders' Equity for the years
+ended December 31, 1996, 1995 and 1994                                     F-5
+
+Consolidated Statement of Cash Flows for the years
+ended December 31, 1996, 1995 and 1994                                     F-6
+
+Notes to Consolidated Financial Statements                                 F-7
+
+
+Financial Statement Schedule
+
+Schedule II - Valuation and qualifying accounts                           F-16
+
+                                       F-1
+
+
+
+                         Report of Independent Auditors
+
+
+The Board of Directors and Stockholders of
+Advanced Technology Materials, Inc.
+
+
+     We have audited the  accompanying  consolidated  balance  sheet of Advanced
+Technology  Materials,  Inc. as of December  31, 1996 and 1995,  and the related
+consolidated statements of income,  stockholders' equity and cash flows for each
+of the three  years in the period  ended  December  31,  1996.  Our audits  also
+included the financial  statement  schedule  listed in the Index at Item 14 (a).
+These financial  statements and schedule are the responsibility of the Company's
+management.  Our  responsibility  is to express  an  opinion on these  financial
+statements and schedule based on our audits.
+
+     We conducted  our audits in accordance  with  generally  accepted  auditing
+standards.  Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material
+misstatement.  An audit includes examining, on a test basis, evidence supporting
+the amounts and disclosures in the financial statements.  An audit also includes
+assessing the  accounting  principles  used and  significant  estimates  made by
+management,  as well as evaluating the overall financial statement presentation.
+We believe that our audits provide a reasonable basis for our opinion.
+
+     In our opinion,  the consolidated  financial  statements  referred to above
+present fairly, in all material respects, the consolidated financial position of
+Advanced  Technology  Materials,  Inc.  at December  31, 1996 and 1995,  and the
+consolidated  results of its operations and its cash flows for each of the three
+years in the period ended  December  31,  1996,  in  conformity  with  generally
+accepted  accounting  principles.  Also, in our opinion,  the related  financial
+statement  schedule,   when  considered  in  relation  to  the  basic  financial
+statements  taken as a whole,  presents  fairly  in all  material  respects  the
+information set forth therein.
+
+
+
+
+
+
+ERNST & YOUNG LLP
+
+
+Stamford, Connecticut
+February 14, 1997
+                                      F-2
+
+
+
+
+
+                       Advanced Technology Materials, Inc.
+                           Consolidated Balance Sheet
+                           --------------------------
+
+                                                                December 31,
+Assets                                                     1996            1995
+- ------                                                     ----            ----
+                                                             
+Current assets:
+Cash and cash equivalents (Note 1)                 $  4,437,015    $  3,609,265
+Marketable (Notes 1 and 2)                           16,969,073      21,855,473
+securities
+Accounts receivable, net of allowance
+ for doubtful accounts
+ of $141,504 in 1996, $93,491 in 1995 (Note 3)        9,377,777       9,233,015
+Inventories (Notes 1 and 4)                           4,541,282       2,647,142
+Other                                                   500,324         345,486
+                                                        -------         -------
+Total current assets                                 35,825,471      37,690,381
+
+
+Property and equipment, net (Notes 1 and 5)           8,102,218       5,575,343
+
+Long-term investment (Note 6)                         1,000,000       1,000,000
+Goodwill and other long term assets,
+ net (Notes 1 and 11)                                 5,190,758       5,532,216
+                                                      ---------       ---------
+                                                   $ 50,118,447    $ 49,797,940
+                                                   ============    ============
+
+
+Liabilities and stockholders' equity
+Current liabilities:
+Accounts payable                                   $  3,469,530    $  3,121,355
+Accrued expenses                                      1,996,587       1,799,322
+Accrued commissions                                   1,378,888         984,443
+Accrued payroll and benefits                            465,280         210,717
+Notes payable, current portion (Note 7)                 621,463       4,725,238
+Other                                                   790,261         625,495
+                                                        -------         -------
+Total current liabilities                             8,722,009      11,466,570
+
+Notes payable, less current portion (Note 7)          4,944,517       5,257,155
+Other long-term liabilities                              59,382         177,086
+
+Stockholders' equity: (Note 10)
+Preferred stock, par value $.01:
+  1,000,000 shares authorized;
+  none issued and outstanding                                --              --
+Common stock, par value $.01:
+  15,000,000 shares authorized;
+issued and outstanding 8,775,810
+  in 1996 and 8,721,61                                   87,758          87,216
+Additional paid-in capital                           37,234,277      37,060,652
+Accumulated deficit                                    (929,496)     (4,250,739)
+                                                       --------      ----------
+Total stockholders' equity                           36,392,539      32,897,129
+                                                     ----------      ----------
+                                                   $ 50,118,447    $ 49,797,940
+                                                   ============    ============
+
+See accompanying notes.
+                                      F-3
+
+
+
+
+
+
+                       Advanced Technology Materials, Inc.
+                        Consolidated Statement of Income
+                        --------------------------------
+
+                                                  Year ended December 31
+                                                  ----------------------
+                                           1996            1995            1994
+                                           ----            ----            ----
+                                                          
+Revenues (Note 1):
+    Product revenues               $ 36,503,728    $ 21,336,408    $ 12,538,246
+    Contract revenues                 9,845,973       8,711,924       7,222,403
+                                      ---------       ---------       ---------
+Total revenues                       46,349,701      30,048,332      19,760,649
+
+Cost of revenues:
+    Cost of product revenues         15,939,051       9,608,831       5,838,310
+    Cost of contract revenues         8,341,455       7,490,568       6,151,215
+                                      ---------       ---------       ---------
+Total cost of revenues               24,280,506      17,099,399      11,989,525
+                                     ----------      ----------      ----------
+Gross profit                         22,069,195      12,948,933       7,771,124
+
+Operating expenses:
+    Research and development (Note 1) 7,626,534       4,205,997       3,414,536
+    Selling, general,
+      and administrative             11,509,827       8,557,730       5,588,171
+                                     ----------       ---------       ---------
+                                     19,136,361      12,763,727       9,002,707
+                                     ----------      ----------       ---------
+Operating income (loss)               2,932,834         185,206      (1,231,583)
+
+Interest income                       1,113,548         737,948         501,884
+Interest expense (Note 7)              (485,660)       (234,951)       (111,612)
+Other income, net (Notes 11 and 12)        --              --         3,601,042
+                                      ---------       ---------       ---------
+                                        627,888         502,997       3,991,314
+
+Income before taxes                   3,560,722         688,203       2,759,731
+
+Income taxes (Note 9)                   239,479         134,157         123,600
+                                        -------         -------         -------
+Net income                         $  3,321,243    $    554,046    $  2,636,131
+                                   ============    ============    ============
+
+Net income per share (Note 1)      $       0.35    $       0.07    $       0.35
+                                   ============    ============    ============
+Weighted average shares outstanding
+  (Note 1)                            9,359,021       8,074,032       7,595,193
+                                      =========       =========       =========
+
+
+
+
+
+
+See accompanying notes.
+                                      F-4
+
+
+
+
+
+
+                       Advanced Technology Materials, Inc.
+                 Consolidated Statement of Stockholders' Equity
+                 ----------------------------------------------
+
+                                           Additional
+                               Common       Paid-in    Accumulated
+                               Stock        Capital     Deficit       Total
+                              ---------   ----------  -----------   ----------
+                                                        
+
+Balance at December 31, 1993    $69,406  $19,470,767  $(7,440,916)  $12,099,257
+
+Issuance of 24,440 common shares
+pursuant to the exercise of
+employee stock options              244       11,529         --          11,773
+
+Issuance of 74,017 common shares
+pursuant to the exercise of
+warrants                            740       36,760         --          37,500
+
+Net income                         --           --      2,636,131     2,636,131
+                              ---------    ---------    ---------     ---------
+
+Balance at December 31, 1994     70,390   19,519,056   (4,804,785)   14,784,661
+
+Issuance of 137,571 common shares
+pursuant to the exercise of
+employee stock options            1,376      111,979         --         113,355
+
+Sale of 1,525,000 common shares,
+net of issuance costs            15,250   17,177,317         --      17,192,567
+
+Issuance of 20,000 common shares
+pursuant to the acquisition of
+Epitronics                          200      202,300         --         202,500
+
+Compensation from the issuance of
+common stock options               --         50,000         --          50,000
+
+Net income                         --           --        554,046       554,046
+                              ---------    ---------    ---------     ---------
+
+
+Balance at December 31, 1995     87,216   37,060,652   (4,250,739)   32,897,129
+
+Issuance of 54,199 common shares
+pursuant to the exercise of
+employee stock options              542      173,625         --         174,167
+
+Net income                         --           --      3,321,243     3,321,243
+                              ---------    ---------    ---------     ---------
+Balance at December 31, 1996    $87,758  $37,234,277  $  (929,496)  $36,392,539
+                                =======  ===========  ===========   ===========
+
+
+See accompanying notes.
+
+                                      F-5
+
+
+
+
+
+
+                       Advanced Technology Materials, Inc.
+                      Consolidated Statement of Cash Flows
+                      ------------------------------------
+
+
+                                                  Year ended December 31,
+                                                  -----------------------
+                                              1996           1995          1994
+                                              ----           ----          ----
+                                                            
+Operating activities
+Net income                              $3,321,243       $554,046    $2,636,131
+Adjustments to reconcile net income to net cash
+ provided (used) by operating activities
+  Depreciation and amortization          2,295,336      1,409,086     1,058,950
+  Gain on restructuring of joint venture      --             --      (4,609,634)
+  Stock option compensation                   --           50,000          --
+  Gain on disposal of property and equipment  --             --         (20,626)
+  Changes in operating assets and liabilities
+   Increase in accounts receivable        (144,762)    (3,774,193)     (904,666)
+   Increase in inventory                (2,118,192)      (478,952)     (553,327)
+   Increase in other assets               (215,263)      (134,087)      (16,196)
+   Increase in accounts payable            348,175        595,692       423,895
+   Increase in accrued expenses            846,273        324,345       730,414
+   (Decrease) increase in
+     other liabilities                     (52,938)       227,927       (86,669)
+
+Total adjustments                          958,629     (1,780,182)   (3,977,859)
+                                           -------     ----------    ----------
+Net cash provided (used)
+ by operating activities                 4,279,872     (1,226,136)   (1,341,728)
+                                         ---------     ----------    ----------
+Investing activities
+ Capital expenditures                   (4,694,246)    (3,604,139)   (1,784,946)
+ Long-term investment                         --       (1,000,000)         --
+ Sale (purchase) of
+   marketable securities, net            4,886,400    (11,212,815)    2,432,635
+ Payments to Vector shareholders              --             --         (93,309)
+ Payments for acquisitions              (4,000,000)      (550,000)         --
+ Proceeds from sale of assets              597,970           --            --
+ Net cash received from
+   joint venture restructuring                --             --       2,457,308
+                                         ---------     ----------    ----------
+ Net cash (used) provided
+   by investing activities              (3,209,876)   (16,366,954)    3,011,688
+                                        ----------    -----------     ---------
+Financing activities
+ Proceeds from issuance of notes payable   727,216      2,588,169     1,011,438
+ Principal payments on notes payable    (1,143,629)      (741,133)   (1,049,605)
+ Proceeds from sale of common stock           --       17,192,567          --
+ Proceeds from exercise of stock options
+ and warrants                              174,167        113,355        49,273
+                                           -------        -------        ------
+
+Net cash (used) provided
+   by financing activities                (242,246)    19,152,958        11,106
+                                          --------     ----------        ------
+
+Net increase in cash and cash equivalents  827,750      1,559,868     1,681,066
+Cash and cash equivalents, beginning
+ of year                                 3,609,265      2,049,397       368,331
+                                         ---------      ---------       -------
+Cash and cash equivalents, end of year  $4,437,015     $3,609,265    $2,049,397
+                                        ==========     ==========    ==========
+
+
+
+See accompanying notes.
+
+                                      F-6
+
+
+
+
+                       Advanced Technology Materials, Inc.
+                   Notes to Consolidated Financial Statements
+
+1. Summary of Significant Accounting Policies
+
+Company's Activities
+
+     The activities of Advanced Technology Materials,  Inc. and its subsidiaries
+(the  Company")  are  focused  on  providing   products  and  services  to  the
+semiconductor  industry. The Company is engaged in the development,  manufacture
+and sale of equipment and materials based on the Company's  proprietary chemical
+vapor  deposition  ("CVD")  technologies.  Revenues are derived from the sale of
+point-of-use  environmental  equipment  and  specialty  materials  and  delivery
+systems for the semiconductor  industry.  The Company also derives revenues from
+contract  research  and  development  activities  related  to  high  performance
+semiconductor  materials  and  devices and  royalties  generated  under  various
+license agreements.
+
+Principles of Consolidation
+
+     The  consolidated  financial  statements  include the  accounts of Advanced
+Technology Materials,  Inc. and all wholly and majority owned subsidiaries.  All
+significant  intercompany  accounts and  transactions  have been  eliminated  in
+consolidation.
+
+Revenue Recognition
+
+     Product revenues are recognized upon shipment of goods.  Contract  revenues
+under fixed-price and cost-reimbursement-type contracts are recognized using the
+percentage of completion  method based upon costs incurred and estimated  future
+costs.  Contract revenues from the U.S.  Government were $9,845,973,  $8,711,924
+and  $7,018,455  for  the  years  ended  December  31,  1996,   1995,  and  1994
+respectively.
+
+Use of Estimates
+
+     The  preparation of the financial  statements in conformity  with generally
+accepted  accounting  principles  requires  management  to  make  estimates  and
+assumptions  that affect the amounts  reported in the financial  statements  and
+accompanying notes. Actual results may differ from those estimates.
+
+Research and Development
+
+     Research and development costs,  including  materials,  labor, and overhead
+related to  self-funded  projects  and cost sharing  arrangements  with the U.S.
+Government, are expensed as incurred.
+
+Cash and Cash Equivalents
+
+     The Company  considers  all highly  liquid  investments  with a maturity of
+three months or less when purchased to be cash equivalents.
+
+Marketable Securities
+
+     Marketable securities are classified as available for sale and are reported
+at fair value, which approximates  cost.  Management  determines the appropriate
+classification  of debt  securities at the time of purchase and and  reevaluates
+such designation as of each balance sheet date.
+                                      F-7
+
+
+
+
+                       Advanced Technology Materials, Inc.
+                   Notes to Consolidated Financial Statements
+                                   (continued)
+
+
+     The  cost of  securities  sold is based on the  specific  reevaluates  such
+designation as of each balance sheet date. The cost of securities  sold is based
+on the specific  identification method. Interest on these securities is included
+in interest income.
+
+Inventories
+
+     Inventories  are  stated at the  lower of cost or  market on the  first-in,
+first-out (FIFO) method.
+
+Property and Equipment
+
+     Property and equipment is stated at cost.  Depreciation and amortization of
+property  and  equipment  is computed  using the  straight-line  method over the
+estimated useful lives of the assets, which vary from three to ten years.
+
+Taxes
+
+     The Company  accounts  for income  taxes in  accordance  with  Statement of
+Financial Accounting Standards No. 109, "Accounting for Income Taxes" (FAS 109).
+Under FAS 109, the  liability  method is used in  accounting  for income  taxes.
+Under this method, deferred tax assets and liabilities are determined based upon
+differences  between financial reporting and tax basis of assets and liabilities
+and are  measured  using the  enacted  tax rates and laws that will be in effect
+when the differences are expected to reverse.
+
+Fair Values of Financial Instruments
+
+     Fair  values  of cash  and cash  equivalents,  short-term  investments  and
+short-term  debt  approximate  cost due to the short period of time to maturity.
+The fair value of long term debt approximates the carrying amount.
+
+Long Lived Assets
+
+     The Company reviews on a periodic basis the value of its long-lived  assets
+to  determine  whether an  impairment  exists.  At December  31,  1996,  no such
+impairment  existed.  Goodwill  and other  long term  assets  are  stated net of
+accumulated amortization of $292,500 and $75,386 at December 31, 1996 and 1995,
+respectively.
+
+Stock Based Compensation
+
+     Effective in fiscal year 1996,  the company  adopted  Financial  Accounting
+Statement No. 123,  "Accounting  for Stock-Based  Compensation."  This statement
+defines a fair value based method of accounting for employee stock  compensation
+plans.  However,  it also allows an entity to  continue to measure  compensation
+cost for those plans in accordance with Accounting Principle Board (APB) Opinion
+No.  25,  "Accounting  for  Stock  Issued  to  Employees."  Under  APB  No.  25,
+compensation cost is the excess, if any, of the quoted market price of the stock
+at the grant date over the amount the  employee  must pay to acquire  the stock.
+The  company  has  elected  to  continue  to  account  for  its  employee  stock
+compensation  plans under APB No. 25. Pro forma  disclosures of net earnings and
+earnings  per share,  as if the fair value based method of  accounting  had been
+applied, are presented in Note 10.
+
+Per Share Data
+
+     Earnings  per common share are  computed  using the  treasury  stock method
+based  on the  weighted  average  number  of  common  shares  and  common  stock
+equivalent shares  outstanding  during the period.  Shares outstanding have been
+restated to include those shares that would have been issued in connection  with
+the Vector  acquisition (see Note 11) in each of the periods  presented.  Shares
+from the assumed  exercise of options and  warrants  granted by the Company have
+been included in the computations of earnings per share for all periods,  unless
+their inclusion would be antidilutive.
+                                      F-8
+
+
+2. Marketable Securities
+
+
+Marketable securities are comprised of the following:
+
+                                                            December 31,
+                                                            ------------
+
+                                                        1996               1995
+                                                        ----               ----
+                                                              
+U.S. Government Obligations ..............        $9,537,690        $14,080,978
+Corporate Obligations ....................         7,431,383          7,774,495
+                                                   ---------          ---------
+                                                 $16,969,073        $21,855,473
+                                                 ===========        ===========
+
+
+     All of the Company's marketable securities have maturities of less than two
+years.
+
+
+3. Accounts Receivable
+
+     Amounts due from  various  agencies of the United  States  Government  were
+approximately  22% of accounts  receivable  for both December 31, 1996 and 1995,
+respectively. Unbilled accounts receivable amounted to $757,172 and $586,358 and
+customer  advances,  included in other  liabilities,  amounted  to $275,653  and
+$446,995 at December 31, 1996 and 1995, respectively.
+
+     Credit is extended to commercial  customers based on an evaluation of their
+financial   condition  and  collateral  is  not  generally   required.   Certain
+transactions  with foreign  customers  are  supported by letters of credit.  The
+Company  maintains an allowance for doubtful accounts at a level that management
+believes is sufficient to cover potential credit losses.
+
+
+4. Inventories
+
+
+
+Inventories are comprised of the following:
+
+                                                        December 31,
+                                                        ------------
+                                                      1996                 1995
+                                                      ----                 ----
+                                                               
+Raw materials                                   $4,143,818           $2,252,841
+Work in process                                    686,898              614,069
+Finished goods                                     369,846               59,291
+                                                   -------               ------
+                                                 5,200,562            2,926,201
+
+Obsolescence reserve                              (659,280)            (279,059)
+                                                  --------             --------
+                                                $4,541,282           $2,647,142
+                                                ==========           ==========
+
+
+                                      F-9
+
+
+
+5. Property and Equipment
+
+
+Property and equipment is comprised of the following:
+                                                          December 31,
+                                                          ------------
+                                                      1996                 1995
+                                                      ----                 ----
+                                                               
+Machinery and equipment ..............         $11,610,508           $8,734,575
+Furniture and fixtures ...............             708,072              565,020
+Leasehold improvements ...............           3,516,401            2,218,837
+                                                 ---------            ---------
+                                                15,834,981           11,518,432
+Accumulated depreciation
+   and amortization ..................          (7,732,763)          (5,943,089)
+                                                ----------           ----------
+                                                $8,102,218           $5,575,343
+                                                ==========           ==========
+
+
+     Depreciation  expense for the years ended December  31,1996,  1995 and 1994
+was $1,895,142, $1,333,700 and $1,058,950, respectively.
+
+6. Long-Term Investment
+
+     On April 1, 1995, the Company purchased $1,000,000 of convertible preferred
+stock of Candescent  Technologies  Corporation  ("CTC"),  formerly Silicon Video
+Corporation,  a San Jose-based  developer of flat panel displays.  This stock is
+convertible into common shares on a one-to-one  basis and has certain  dividend,
+liquidation,  and voting rights equivalent with other preferred  stockholders of
+CTC.  In  conjunction  with  this  investment,  the  Company  has  expanded  its
+collaboration  with  CTC to  include  further  joint  research  and  development
+programs and manufacturing  rights related to certain  components of CTC's "Thin
+CRT." The investment is recorded at cost.
+
+7. Notes Payable
+
+
+Notes payable consist of the following:
+                                                             December 31,
+                                                             ------------
+                                                        1996             1995
+                                                        ----             ----
+                                                               
+Note payable in conjunction
+ with acquisition of Guardian Systems,
+ bearing interest at 5.4%,
+ due on January 4, 1996  .....................     $      --         $4,000,000
+Note payable in conjunction with
+ acquisition of Guardian Systems,
+ bearing interest at 8.5% and 8.25%
+ at December 31, 1996 and 1995, due
+ in three annual installments
+ beginning January 1, 1999 ...................       2,000,000        2,000,000
+Term loan with Connecticut state
+ agency, bearing interest at 6% at
+ December 31, 1996 and 1995,
+ respectively, due through June 2002 .........       1,300,000        1,300,000
+Term loan with Connecticut state
+ agency, bearing interest at 5%,
+ due on April 1, 2001 ........................         500,000             --
+Equipment credit line with a
+ commercial bank, bearing interest
+ at 9% and 9.5% at December 31, 1996
+ and 1995, respectively, due through
+ June 2000 ...................................       1,701,453        2,018,808
+Other notes payable ..........................          64,527          663,585
+                                                        ------          -------
+                                                     5,565,980        9,982,393
+Less current portion .........................        (621,463)      (4,725,238)
+                                                      --------       ----------
+                                                    $4,944,517       $5,257,155
+                                                    ==========       ==========
+
+                                      F-10
+
+
+
+The approximate aggregate debt maturities are as follows:
+
+                                               
+Year ending December 31:
+         1997                                     $  621,463
+         1998                                        687,056
+         1999                                      1,246,011
+         2000                                        933,562
+         2001                                      1,344,731
+         thereafter                                  733,157
+                                                     -------
+                                                  $5,565,980
+                                                  ==========
+
+
+     The  seven-year  term  loan of  $1,300,000  is  collateralized  by  various
+equipment,  leasehold  improvements and renovations in the Company's Connecticut
+facility.
+
+     The Company's  equipment  credit lines bear interest at prime plus 1/2% per
+annum and are  collateralized  by certain  assets.  The Company is in compliance
+with  the  credit  line  covenants,  including  maintaining  certain  liquidity,
+leverage, and tangible net worth levels.
+
+     In December,  1996,  the Company  obtained a $10 million  unsecured line of
+credit  with  a  commercial  bank  which  permits  borrowing  levels  tied  to a
+percentage of accounts  receivable and inventories.  This line bears interest at
+prime (with LIBOR  options)  and expires on  December  26,  1997.  There were no
+borrowings under this line at December 31, 1996.
+
+     Interest  paid was  $481,129,  $239,482  and  $111,612  for the years ended
+December 31, 1996, 1995 and 1994, respectively.
+
+8. Leases
+
+     The  Company  leases  office and  manufacturing  facilities  under  several
+operating  leases.  The lease for its Danbury,  Connecticut  facility expires in
+August  2005 while the EcoSys San Jose,  California  facility  lease  expires in
+March 2002.  Rental  expense was  $889,594,  $435,908 and $345,976 for the years
+ended December 31, 1996, 1995 and 1994, respectively.
+
+     The following is a schedule of future  minimum lease payments for operating
+leases as of December 31, 1996:
+
+
+                                                                 
+                                                                    Operating
+Year ending December 31:                                             Leases
+- ------------------------                                             ------
+         1997                                                       $   875,356
+         1998                                                           765,886
+         1999                                                           763,734
+         2000                                                           685,865
+         2001                                                           694,096
+         thereafter                                                   1,826,849
+                                                                      ---------
+Total minimum lease payments                                         $5,611,786
+                                                                     ==========
+
+                                      F-11
+
+
+
+9. Income Taxes
+
+     At December 31, 1996, the Company had loss  carryforwards for United States
+federal  income tax  purposes  of  approximately  $2,800,000  and  research  and
+development tax credit carryforwards of approximately  $326,000 expiring in 2001
+through  2010.  It also had  alternative  minimum  tax credit  carryforwards  of
+approximately  $85,000, with no expiration.  For state tax purposes, the Company
+had loss  carryforwards  of approximately  $1,800,000  expiring between 1997 and
+2000.
+
+     Significant components of the Company's deferred tax assets and liabilities
+are as follows:
+
+
+                                                           December 31,
+                                                           ------------
+                                                       1996           1995
+                                                       ----           ----
+                                                         
+Deferred tax assets:
+   Accrued liabilities ......................      $139,000       $282,000
+   Net operating loss carryforwards
+    and tax credits .........................       829,000      1,823,000
+   Inventory reserves .......................       577,000        281,000
+   Other, net ...............................       161,000        482,000
+                                                    -------        -------
+                                                  1,706,000      2,868,000
+Deferred tax liabilities - none .............             -              -
+
+Net deferred tax assets .....................     1,706,000      2,868,000
+Valuation allowance .........................    (1,706,000)    (2,868,000)
+                                                 ----------     ----------
+Amount recognized in the financial statements   $         -    $         -
+
+
+     The reconciliation of income tax computed at the U.S. federal statutory tax
+rates to the Company's tax expense is:
+
+
+                                             1996           1995           1994
+                                             ----           ----           ----
+                                                              
+U.S. statutory rate .............      $1,210,600       $233,900       $935,700
+State income taxes ..............         317,500        149,700         81,900
+Net operating loss
+ carryforward utilization .......      (1,263,100)      (263,600)      (894,000)
+Other, net ......................         (25,271)        14,157           --
+                                          -------         ------         ------
+                                         $239,479       $134,157       $123,600
+                                         ========       ========       ========
+
+
+
+10. Stockholders' Equity
+
+     In October  1995,  the  Company  completed a public  offering of  1,600,000
+shares of common  stock at $12.25  per share.  Net  proceeds  to the  Company of
+$17,192,567  were from 1,525,000  shares sold by the Company while 75,000 shares
+were sold for various  selling  shareholders.  Costs of the offering,  including
+underwriting commissions, amounted to $1,488,683.
+
+     An  amendment  of  the  Company's  Restated  Certificate  of  Incorporation
+approved by its shareholders in May 1995,  provided for an increase in the
+Company's authorized common shares to 15,000,000.
+
+                                      F-12
+
+
+
+Stock Plans
+
+     In May 1995, the Company's  shareholders  approved the adoption of the 1995
+Stock Plan  ("1995  Plan"),  which  provides  for the  granting of up to 500,000
+nonqualified  stock  options,   "incentive  stock  options"  (ISOs")  and  stock
+appreciation rights to employees, directors and consultants of the Company.
+
+     The Company's 1987 Stock Plan (the "1987 Plan"),  as amended,  provides for
+the granting of up to 1,115,833  nonqualified stock options and "incentive stock
+options" ("ISOs").
+
+     Under the terms of both stock plans,  nonqualified  options granted may not
+be at a price of less than 50% of the fair market value of the common stock, and
+ISOs granted may not be at a price of less than 100% of fair market value of the
+common stock on the date of grant.
+
+     Options are  generally  exercisable  commencing  one year after the date of
+grant at the rate of 20% per annum on a cumulative basis.  Nonqualified  options
+expire up to ten years and one  month  from the date of grant,  and ISOs  expire
+five to ten years from the date of grant.
+
+
+
+                                                     Number of      Option price
+                                                      Shares         per share
+                                                      ------         ---------
+                                                             
+Options outstanding at December 31, 1993 ........      724,046       $.28-$7.00
+  Granted .......................................      156,900      $5.00-$6.38
+  Canceled ......................................      (22,910)      $.44-$7.00
+  Exercised .....................................      (24,440)      $.28-$ .53
+                                                       -------       ---- -----
+
+Options outstanding at December 31, 1994 ........      833,596       $.28-$7.00
+  Granted .......................................      305,950     $6.88-$13.88
+  Canceled ......................................      (27,670)      $.53-$6.38
+  Exercised .....................................     (137,571)      $.28-$5.50
+                                                      --------       ---- -----
+
+Options outstanding at December 31, 1995 ........      974,305      $.28-$13.88
+  Granted .......................................       92,500     $9.88-$17.63
+  Canceled ......................................      (53,590)     $.53-$12.50
+  Exercised .....................................      (54,999)     $.28-$12.50
+                                                       -------      ---- ------
+Options outstanding at December 31, 1996 ........      958,216      $.28-$17.63
+                                                       =======      ==== ======
+
+     At December  31,  1996,  options for 567,066  shares are  exercisable,  and
+options  for  239,043  shares are  available  for grant.  The  weighted  average
+exercise  price of options are $4.99 and $3.43 for 1996 and 1995,  respectively.
+The weighted average remaining contractual life of these options is 6.5 years.
+
+     If compensation expense for the Company's plans had been determined for all
+stock option  grants based on the fair value at the grant dates for awards under
+those plans, consistent with the method described in SFAS No. 123, the Company's
+net  income and  earnings  per share  would  have been  reduced to the pro forma
+amounts indicated below:
+
+
+                                       1996                  1995
+                                       ----                  ----
+                                                     
+      Net earnings:                $3,000,000              $488,000
+      Earnings per share:              $.32                   $.06
+
+                                      F-13
+
+     During the initial  phase-in  period,  as required by SFAS No. 123, the pro
+forma amounts were  determined  based on the stock option  grants  subsequent to
+January  1,  1995.  Therefore,  the  pro  forma  amounts  presented  may  not be
+indicative of the effects of compensation  cost on net earnings and earnings per
+share in future years due to the timing of stock option  grants and  considering
+that options generally vest over a five year period.
+
+     The fair value of each option grant, for pro forma disclosure  purposes was
+estimated on the date of grant using the Black-Scholes option pricing model with
+the following weighted average assumptions for 1996 and 1995:
+
+
+                                                  1996                 1995
+                                                  ----                 ----
+                                                            
+     Expected dividend yield                      none                 none
+     Risk free interest rate                     6.25%                6.10%
+     Expected volatility                         54.6%                58.2%
+     Expected life of options                7.5 years            7.5 years
+
+     The weighted  average fair value of stock options  granted in 1996 and 1995
+was $8.21 and $6.72, respectively.
+
+Warrants
+
+     In  connection  with its  initial  public  offering,  the  Company  granted
+warrants to its  underwriters  to purchase  131,250  common shares at $11.25 per
+share,  which became exercisable on November 23, 1994 and expire on November 23,
+1998.  Additional  warrants  have  been  granted  to  agencies  of the  State of
+Connecticut  in connection  with certain loan  agreements  with those  agencies.
+These warrants are for an aggregate of 70,000 shares at exercise  prices ranging
+from $10.13 to $11.25, of which 30,000 are vested as of December 31, 1996.
+
+
+11. Mergers and Acquisitions
+
+     On December 30, 1995, the Company acquired certain assets pertaining to the
+Guardian Systems ("Guardian") product line of Messer Greisheim Industries,  Inc.
+for  $6,000,000.   In  connection  with  this  purchase,  the  Company  recorded
+approximately  $4,900,000  in goodwill to be amortized  over twenty  years.  The
+Guardian  product  line  consists  of  thermal  destruction  units  used  in the
+treatment of effluent in the semiconductor industry. The product line has become
+part of the Company's Ecosys operation.
+
+     During 1995,  the Company also  acquired  the assets of two  businesses  in
+exchange for 20,000 shares of its Common Stock,  $550,000 in cash and a $700,000
+promissory  note bearing  interest at prime plus 1%, payable in equal  quarterly
+installments  beginning in September 1995. In 1996, one of those  businesses was
+subsequently  sold,  the  $700,000  promissory  note was paid in full and a note
+receivable of  approximately  $498,000 was recorded.  This note receivable bears
+interest at 8% and is payable on October 31, 1999.
+
+     The pro forma unaudited  results of operations for the years ended December
+31, 1995 and 1994,  assuming the purchase of all the above  businesses  had been
+consummated as of the beginning of each period presented, are as follows:
+                                      F-14
+
+
+
+                                                         1995               1994
+                                                         ----               ----
+                                                               
+Revenues .................................        $35,466,000        $25,660,000
+Net income ...............................            813,000          2,371,000
+Net income per common share ..............               $.10               $.31
+
+     On September  15, 1994,  the Company  issued  698,505  shares of its Common
+Stock and  $93,309 in cash in  exchange  for all of the  issued and  outstanding
+shares  of  common  stock  of  Vector.   In  connection  with  this  acquisition
+approximately  $1.0 million of costs were charged to other  income,  net,  which
+were  non-recurring  in nature and  consisted  primarily of  professional  fees,
+compensation  costs, and provisions for miscellaneous  costs associated with the
+integration and consolidation of Vector with the Company.
+
+     The Vector acquisition was treated as a pooling of interests.  For the nine
+months  ended  September  30, 1994 prior to the  acquisition,  revenues  and net
+income of  Vector  included  in the  financial  statements  are  $3,149,037  and
+$207,604.
+
+
+12. Asset Sale and Restructuring Agreement
+
+     On September 28, 1994, the Company executed an Asset Sale and Restructuring
+Agreement whereby certain assets of a majority owned subsidiary,  valued at $.02
+million,  were sold in exchange  for  approximately  $2.7  million in cash and a
+royalty  on future  sales of  certain  products.  A gain of  approximately  $4.6
+million was recognized as a result of the transaction which is included in other
+income,  net.  Revenue  generated by these assets was  $4,568,955.  The net loss
+incurred was $25,528 for the period from January 1, 1994 to September 28, 1994.
+
+
+13.  Geographic Data
+
+     During 1996 and 1995, the Company had export sales of approximately 31% and
+29%,  respectively.  Sales to Asia,  primarily Korea, were approximately 27% and
+24% of the Company's revenues.
+
+
+
+Quarterly Results of Operations (unaudited)
+
+(Thousands of Dollars, except per share amounts)
+
+1996                          --------------Quarter-----------------       Year
+- ----                                                                       ----
+                               First     Second      Third     Fourth
+                               -----     ------      -----     ------
+                                                          
+Net sales ...............    $10,062    $12,376    $12,145    $11,767    $46,350
+Gross profit ............      4,780      6,122      5,786      5,381     22,069
+Net income ..............        469        640        975      1,237      3,321
+
+Income per share ........       $.05       $.07       $.10       $.13       $.35
+
+
+
+
+1995                            -------------Quarter-----------------      Year
+- ----                                                                       ----
+                               First     Second      Third     Fourth
+                               -----     ------      -----     ------
+                                                         
+Net sales ................    $6,066     $7,185     $7,996     $8,801   $30,048
+Gross profit .............     2,520      3,102      3,343      3,984    12,949
+Net income (loss) ........      (158)       166        302        345       554
+
+Income (loss) per share ..     $(.02)      $.02       $.03       $.04      $.07
+
+                                      F-15
+
+
+
+
+
+                                   Schedule II
+
+                       ADVANCED TECHNOLOGY MATERIALS, INC.
+                         VALUATION & QUALIFYING ACCOUNTS
+
+                                    Balance at
+                                    Beginning   Charged to            Balance at
+ Year Ended                           of          Cost/                  End of
+ ----------                         Period       Expense   Deductions   Period
+                                    ------       -------   ----------   ------
+                                                          
+December 31, 1994
+   Allowance for doubtful accounts  $ 42,399    $ 48,045   $  8,003   $ 82,441
+   Inventory obsolescence reserve    139,117     215,100     77,849    276,368
+December 31, 1995
+   Allowance for doubtful accounts    82,441      62,000     50,950     93,491
+   Inventory obsolescence reserve    276,368     126,776    124,085    279,059
+December 31, 1996
+   Allowance for doubtful accounts    93,491      60,000     11,987    141,504
+   Inventory obsolescence reserve    279,059     380,221          0    659,280
+
+                                      F-16
+
+
+
+
+
+                                   SIGNATURES
+
+     Pursuant  to the  requirements  of  Section  13 or 15(d) of the  Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on
+its behalf by the undersigned, thereunto duly authorized.
+
+Advanced Technology Materials, Inc.
+
+March 26, 1997
+By    /S/ Eugene G. Banucci
+      Eugene G. Banucci, Ph.D., President, Chief Executive
+      Officer, Chairman of the Board and Director
+
+
+     Pursuant  to the  requirements  of  Section  13 or 15(d) of the  Securities
+Exchange Act of 1934, this report has been signed below by the following persons
+on behalf of the registrant and in the capacities and on the dates indicated.
+
+
+Signature                      Title                                      Date
+- ---------                      -----                                      ----
+                                                                  
+                               President, Chief Executive
+                               Officer, Chairman of the Board
+/S/ Eugene G. Banucci          and Director                             3/26/97
+Eugene G. Banucci, Ph.D.
+
+                               Vice President, Chief Financial
+                               Officer and Treasurer (Chief
+/S/ Daniel P. Sharkey          Accounting Officer)                      3/26/97
+Daniel P. Sharkey
+
+
+                               Vice President, President-
+/S/ Duncan W. Brown            Epitronics, and Director                 3/26/97
+Duncan W. Brown, Ph.D.
+
+
+                               Director
+/S/ Mark A. Adley                                                       3/26/97
+Mark A. Adley
+
+
+                               Director
+/S/ Gary Andersen                                                       3/26/97
+Gary Andersen
+
+
+                               Director
+/S/ John A. Armstrong                                                   3/26/97
+John A. Armstrong, Ph.D.
+
+
+                               Director
+/S/ Robert S. Hillas                                                    3/26/97
+Robert S. Hillas
+
+
+                               Director
+/S/ Stephen H. Mahle                                                    3/26/97
+Stephen H. Mahle
+
+                                      S-1
+
+
+
+
+
+                    EXHIBIT INDEX
+
+
+
+Exhibit
+ No.      Description
+ ---      -----------
+       
+10.09     Loan  Agreement  between  Advanced  Technology  Materials,  Inc.  and
+           Silicon Valley Bank dated December 27, 1996
+
+11.01     Statement re: computation of earnings per common share
+
+21.01     Subsidiaries of the registrant
+
+23.01     Consent of Ernst & Young LLP
+
+27.01     Financial Data Schedule

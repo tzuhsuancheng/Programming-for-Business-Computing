@@ -1,0 +1,3130 @@
+10-K
+1
+FORM 10-K FOR THE PERIOD ENDED DECEMBER 31, 1996
+
+
+   1
+ 
+================================================================================
+ 
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON D.C. 20549
+                            ------------------------
+                                   FORM 10-K
+ 
+[X]   ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(D) OF THE SECURITIES EXCHANGE
+      ACT OF 1934 FOR THE FISCAL YEAR ENDED DECEMBER 31, 1996 OR
+ 
+[ ]   TRANSITION REPORT PURSUANT TO SECTION 13 OF 15(D) OF THE SECURITIES
+      EXCHANGE ACT OF 1934 FOR THE TRANSITION PERIOD FROM             TO
+                  .
+ 
+                           COMMISSION FILE NUMBER 0-27598
+ 
+                                 IRIDEX CORPORATION
+               (EXACT NAME OF REGISTRANT AS SPECIFIED IN ITS CHARTER)
+ 
+
+                                           
+                   DELAWARE                                     77-0210467
+         (STATE OR OTHER JURISDICTION                        (I.R.S. EMPLOYER
+      OF INCORPORATION OR ORGANIZATION)                   IDENTIFICATION NUMBER)
+
+ 
+                    340 PIONEER WAY, MOUNTAIN VIEW CA  94041
+                          (ADDRESS OF PRINCIPAL
+               EXECUTIVE OFFICES)                 (ZIP CODE)
+ 
+                                 (415) 962-8100
+              (REGISTRANT'S TELEPHONE NUMBER, INCLUDING AREA CODE)
+ 
+                            ------------------------
+          Securities registered pursuant to Section 12(b) of the Act:
+                                      NONE
+ 
+          Securities registered pursuant to Section 12(g) of the Act:
+                         Common Stock, $0.01 Par Value
+                            ------------------------
+     Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days.  Yes [X]     No [ ]
+ 
+     Indicate by check mark if disclosure of delinquent filers pursuant to Item
+405 of Regulation S-K is not contained herein, and will not be contained, to the
+best of registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K.  [ ]
+ 
+     The aggregate market value of the voting stock held by non-affiliates of
+the Registrant as of February 28, 1997, was approximately $24,488,907 based on
+the closing price reported for such date on the Nasdaq National Market System.
+For purposes of this disclosure shares of Common Stock held by each executive
+officer and director and by each holder of 5% or more of the outstanding shares
+of Common Stock have been excluded from this calculation because such persons
+may be deemed to be affiliates. This determination of affiliate status is not
+necessarily a conclusive determination for other purposes.
+ 
+     As of February 28, 1997, Registrant had 6,372,148 shares of Common Stock
+outstanding.
+                            ------------------------
+                      DOCUMENTS INCORPORATED BY REFERENCE
+ 
+     Parts of the Proxy Statement for the Registrant's 1997 Annual Meeting of
+Stockholders (the "Proxy Statement") are incorporated by reference into Part III
+of this Annual Report on Form 10-K.
+ 
+================================================================================
+   2
+ 
+                                     PART 1
+ 
+ITEM 1.  BUSINESS
+ 
+GENERAL
+ 
+     IRIDEX Corporation ("IRIDEX" or the "Company") is the leading worldwide
+provider of semiconductor-
+based laser systems used to treat eye diseases, including the three leading
+causes of irreversible blindness. The Company's current OcuLight SL, OcuLight
+SLx and OcuLight GL Laser Photocoagulator systems (the "OcuLight System")
+consist of a small, portable laser console and interchangeable delivery devices,
+including disposable products. Since its first shipment in 1990, more than 1,300
+OcuLight Systems have been sold worldwide, primarily to hospitals for use by
+ophthalmic specialists. In the second half of 1996, the Company introduced the
+OcuLight GL, a new semiconductor-based visible-light laser photocoagulator
+system designed to appeal to the broader office-based ophthalmology market. The
+Company believes that its systems are more portable, more economical and have a
+greater degree of reliability and flexibility than competing photocoagulator
+systems which use traditional vacuum tube-based technology.
+ 
+     IRIDEX Corporation was incorporated in California in February 1989 as IRIS
+Medical Instruments, Inc., and changed its name to IRIDEX Corporation and
+reincorporated in Delaware in January 1996. IRIDEX conducts most of its business
+through its wholly-owned operating subsidiary, IRIS Medical Instruments, Inc.
+The Company's executive offices are located at 340 Pioneer Way, Mountain View,
+California 94041, and its telephone number is (415) 962-8100. As used in this
+Form 10-K, the terms "Company" and "IRIDEX" refer to IRIDEX Corporation, a
+Delaware corporation, and, when the context so requires, its wholly-owned
+subsidiaries, IRIS Medical Instruments, Inc. and Light Solutions Corporation,
+both California corporations.
+ 
+THE IRIDEX STRATEGY
+ 
+     The Company's objective is to become a worldwide leader in developing,
+manufacturing, marketing and selling innovative and cost-effective medical
+products to detect and treat eye disease. The key elements of the Company's
+strategy are:
+ 
+     Continue to Broaden Product Lines.  In 1996, the Company introduced a new
+visible layer system, the OcuLight GL, for ophthalmology, which significantly
+expanded the market opportunity for the Company's products. In 1997, the Company
+plans to introduce a new product, the DioLite 532, for dermatology. The
+characteristics of both of these new products are similar to those which have
+made the Company's previous products successful, such as low cost ownership,
+reliability, and portability.
+ 
+     Develop and Validate New Applications.  The Company is seeking to develop
+and validate treatments that are less costly, reduce complications and achieve
+better clinical results than existing treatments. The Company's products are
+currently being used in multiple studies in the United States and
+internationally to demonstrate the clinical benefits of its technology in
+disease treatment. Examples of these studies include a multi-site program to
+prophylactically treat age-related macular degeneration and an international
+study which is evaluating the use of the Company's G-Probe as a primary
+treatment for glaucoma.
+ 
+     Continue to Enhance Products.  A core strength of the Company has been its
+regular introduction of new delivery devices and product upgrades which have
+enhanced the benefits of the Company's infrared laser system. The Company
+intends to continue its investment in research and development to improve the
+performance of its systems as well as to develop additional technologies which
+can more cost effectively address the needs of the ophthalmic market. To enhance
+the Company's research and development efforts, the Company collaborates with an
+extensive network of ophthalmic academic leaders who provide input and advice,
+as well as assist in validating the efficacy of new products and applications.
+ 
+     Provide Total Disease Management.  The Company intends to pursue both
+therapeutic and adjunctive diagnostic systems. An adjunctive diagnostic system
+is used either to screen and identify more patients who require therapy or
+objectively assess the adequacy of therapy. The Company believes that a
+significant opportunity exists to provide diagnostic equipment to the ophthalmic
+and optometric communities. The
+ 
+                                        1
+   3
+ 
+Company intends to pursue its entrance into this diagnostic market through both
+internal development and selected acquisitions. By pursuing therapeutic and
+diagnostic systems, the Company intends to provide total disease management.
+ 
+     Develop New Markets through Strategic Alliances.  The Company intends to
+establish strategic alliances in order to expedite and lower the cost of
+developing and bringing to market new products, both to the ophthalmology market
+and to markets not currently addressed by the Company's products. Through these
+alliances, the Company will seek access to technologies that it does not
+currently possess. In May 1996, the Company signed a Co-Development Agreement
+with PDT, Inc., ("PDT") a company engaged in the development of photodynamic
+drugs and applications, to provide lasers to activate certain photodynamic drugs
+which are currently being developed by PDT.
+ 
+PRODUCTS
+ 
+     The Company utilizes a systems approach to product design. Each system
+includes a console, which generates the laser energy, and a number of
+interchangeable peripheral delivery devices, including disposables, for use in
+specific clinical applications. This approach allows customers to purchase a
+basic system and add additional delivery devices as their needs expand or as the
+Company develops new applications. This system approach also brings
+economies-of-scale to the Company's product development and manufacturing
+efforts since each application does not require the design and manufacture of
+complete stand-alone products.
+ 
+     Consoles.  The Company's laser consoles incorporate the economic and
+technical benefits of semiconductor technology, which is the basis of the
+Company's semiconductor-based laser systems.
+ 
+          Infrared Photocoagulator Console.  These OcuLight photocoagulator
+     consoles are available in two infrared output power ranges: the OcuLight SL
+     at 2 Watts and the OcuLight SLx at 3 Watts. Each console weighs 14 pounds,
+     has dimensions of 4"H x 12"W x 12"D, draws a maximum of 60 Watts of wall
+     power, and requires no external air or water cooling. Consoles have United
+     States list prices ranging from $19,900 to $26,500.
+ 
+          Visible Photocoagulator Console:  In September 1996, the Company
+     introduced a new semiconductor-
+     based photocoagulator which delivers visible laser light, the OcuLight GL.
+     This new console weighs 15 pounds, has dimensions of 6"H x 12"W x 12"D,
+     draws a maximum of 300 Watts of wall power and requires no external air or
+     water cooling. Consoles have a United States list price of $27,500.
+ 
+     Peripheral Delivery Devices.  The Company's versatile family of consoles
+and delivery devices has been designed to allow the addition of new capabilities
+with a minimal incremental investment by simply purchasing a new interchangeable
+delivery device. The Company has developed both disposable and nondisposable
+delivery devices and expects to continue to develop additional devices.
+ 
+          TruFocus Laser Indirect Ophthalmoscope.  The indirect ophthalmoscope
+     is worn on the physician's head and is used to treat peripheral retinal
+     disorders, particularly in infants or adults requiring treatment in the
+     supine position. This product can be used both for diagnosis and treatment
+     at the point-of-care and has a United States list price of $8,800.
+ 
+          Slit Lamp Adapter.  These adapters allow the physician to utilize a
+     standard slit lamp for both diagnosis and treatment. A slit lamp adapter
+     can be installed by the doctor in several minutes converting any of the 42
+     variations of a standard diagnostic slit lamp into a therapeutic
+     photocoagulator delivery system. Slit lamp adapters are used for treatment
+     of both retinal and glaucomal diseases and have United States list prices
+     from $6,000 to $6,500.
+ 
+          Operating Microscope Adapter.  These adapters allow the physician to
+     utilize a standard operating microscope for both diagnosis and treatment.
+     These devices are similar to slit lamp adapters except they are oriented
+     horizontally and therefore can be used to deliver retinal photocoagulation
+     to a supine patient. The United States list price of the adapter is $7,500.
+ 
+          EndoProbe.  The EndoProbe is used for endophotocoagulation, a retinal
+     treatment performed in the hospital operating room or surgery center. These
+     sterile disposable probes are available in straight, tapered, angled and
+     fluted styles and have a United States list price of $150 to $185.
+ 
+                                        2
+   4
+ 
+          G-Probe.  The G-Probe is used to treat medically and surgically
+     uncontrolled glaucoma, in many instances replacing cyclocryotherapy, or
+     freezing of the eye. The G-Probe's non-invasive procedure takes about five
+     minutes, is done to an anesthetized eye in the doctor's office and results
+     in less pain and fewer adverse side effects than cyclocryotherapy. The
+     G-Probe is a sterile disposable product and has a United States list price
+     of $200.
+ 
+          DioPexy Probe.  The DioPexy Probe is a hand-held instrument which is
+     used to treat retinal tears and breaks transsclerally noninvasively through
+     the sclera as an alternative method of attaching the retina. Advantages
+     include increased precision, less pain and less inflammation than
+     traditional cryotherapy. The DioPexy Probe has a United States list price
+     of $2,500.
+ 
+     The Company is currently developing a new system with PDT. This system will
+emit a laser beam to activate a photodynamic drug being developed by PDT in
+order to achieve a therapeutic result. PDT intends to enter into a strategic
+alliance with a pharmaceutical company to assist in clinical studies,
+commercialization and sale of their product. The Company expects that, if
+successful, the development of this product and the receipt of the appropriate
+regulatory approval thereof will take at least 3 years.
+ 
+     The following chart lists the eye diseases which can be treated using the
+Company's photocoagulator systems, including the preferred delivery devices. The
+selection of delivery device is often determined by the severity and location of
+the disease.
+ 
+
+
+          CONDITION                  PROCEDURE             CONSOLE           DELIVERY DEVICES
+- -----------------------------  ----------------------    -----------    --------------------------
+                                                               
+AMD..........................  Retinal                   Infrared &     Slit Lamp Adapter
+                               Photocoagulation          Visible
+Diabetic Retinopathy
+  Macular Edema..............  Grid Retinal              Infrared &     Slit Lamp Adapter &
+                               Photocoagulation          Visible        Operating Microscope
+                                                                        Adapter
+                               Focal Retinal             Visible        Slit Lamp Adapter
+                               Photocoagulation
+  Proliferative..............  Pan-Retinal               Visible &      Slit Lamp Adapter,
+                               Photocoagulation          Infrared       Operating Microscope
+                                                                        Adapter, Laser Indirect
+                                                                        Ophthalmoscope, EndoProbe
+Glaucoma
+  Primary Open-Angle.........  Trabeculoplasty           Visible        Slit Lamp Adapter
+                                                         Infrared
+  Angle-closure..............  Iridotomy(1)              Visible &      Slit Lamp Adapter
+                                                         Infrared
+  Uncontrolled...............  Transscleral              Infrared       G-Probe
+                               Cyclophotocoagulation
+Retinal Detachment...........  Retinopexy Retinal        Infrared &     Slit Lamp Adapter, Laser
+                               Photocoagulation          Visible        Indirect Ophthalmoscope,
+                                                                        Operating Microscope
+                                                                        Adapter, EndoProbe
+                               Transcleral Retinal       Infrared       DioPexy Probe
+                               Photocoagulation
+Retinopathy of Prematurity...  Retinal                   Infrared       Laser Indirect
+                               Photocoagulation                         Ophthalmoscope
+Ocular Tumors Retinal........  Photocoagulation          Infrared       Slit Lamp Adapter,
+                                                                        Operating Microscope
+                                                                        Adapter, Laser Indirect
+                                                                        Ophthalmoscope
+
+ 
+- ---------------
+(1) This indication is under an Investigational Device Exemption in the United
+    States.
+ 
+                                        3
+   5
+ 
+RESEARCH AND DEVELOPMENT
+ 
+     The Company's research and development activities are performed internally
+by its research and development staff comprised of 11 individuals and is
+supplemented by consultants with specialized expertise. Research and development
+efforts are directed toward both development of new products and development of
+new applications using existing products. Additionally, the Company is currently
+developing a new product that will address the dermatology market. The Company's
+expenditures for research and development totaled approximately $1,286,000,
+$742,000 and $629,000 in 1996, 1995 and 1994, respectively. The Company has
+close working relationships with ophthalmic researchers and clinicians around
+the world who provide new ideas, test the feasibility of these new ideas, and
+assist the Company in validating new products and new applications before they
+are introduced.
+ 
+     The Company is supporting pre-clinical and clinical studies to develop new
+photocoagulation treatments and applications. The objectives of developing new
+applications are to expand the number of patients who can be treated, to more
+effectively treat diseases, to treat earlier in the treatment regimen and to
+reduce the side-effects of treatment. Examples include:
+ 
+          Age-Related Macular Degeneration.  The Company is supporting a
+     multi-center clinical trial which is testing a prophylactic treatment of
+     age-related macular degeneration. This treatment involves the use of
+     infrared light that passes through the sensory retina without damaging it.
+     Favorable results would greatly expand the number of patients who can be
+     effectively treated.
+ 
+          Glaucoma.  A preliminary study is underway which is evaluating the use
+     of the G-Probe as a first-line treatment modality for various glaucomas.
+     Favorable results from this study would indicate that the G-Probe may be
+     used earlier in the treatment regimen.
+ 
+          Diabetic Retinopathy.  Studies are underway which treat diabetic
+     retinopathy with minimal impact photocoagulation without damaging the
+     sensory retina, with the objective of causing regression of the disease
+     with less loss of vision than argon-based laser therapy.
+ 
+          Ocular Tumors.  Clinical studies are being conducted to treat ocular
+     tumors with infrared lasers which appear to result in fewer side effects
+     than with conventional therapies.
+ 
+     During 1996 the Company leveraged the technology used in the OcuLight GL
+and developed a new product which is intended to be used in the dermatology
+market to treat vascular and pigmented skin lesions, the DioLite 532. The
+Company has submitted a 510(k) notification with the FDA for the DioLite 532.
+The DioLite 532, will weigh 15 pounds with dimensions of 6"H x 12"W x 12"D, and
+deliver up to 3 Watts of pulsed laser power through a variety of fiber optic
+delivery device handpieces. See "-- Government Regulation."
+ 
+CUSTOMERS AND CUSTOMER SUPPORT
+ 
+     The Company's products are currently sold to ophthalmologists including
+glaucoma specialists, retinal specialists and pediatric ophthalmologists. Other
+customers include research and teaching hospitals, government installations,
+surgi-centers and hospitals with ophthalmic facilities. To a lesser extent,
+these products are sold to general ophthalmologists. No customer or distributor
+accounted for 10% or more of total sales in 1996, 1995 or 1994. See
+"Management's Discussion and Analysis of Financial Condition and Results of
+Operations."
+ 
+     The Company is continuing its efforts to broaden its customer base through
+the development of new products and new applications. The Company currently
+estimates that there are approximately 15,000 ophthalmologists in the United
+States and 45,000 internationally who are each potential customers.
+Additionally, the Company estimates that there are approximately 4,800 and
+18,000 hospitals in the United States and internationally, respectively, as well
+as approximately 2,200 ambulatory surgical centers in the United States which
+potentially represent multiple unit sales. Because independent ophthalmologists
+frequently practice at their own offices as well as through affiliation with
+hospitals or other medical centers, each independent ophthalmologist, hospital
+and medical center is a potential customer for the Company's products. The
+Company is seeking to broaden its customer base by developing new diagnostic
+products directed at addressing the needs of the 30,000 optometrists in the
+United States and 15,000 optometrists internationally.
+ 
+                                        4
+   6
+ 
+     The Company seeks to provide superior customer support and service. A
+24-hour, seven day a week, telephone service line is maintained to service
+customers. If the problem cannot be diagnosed and resolved by telephone, a
+replacement unit is shipped overnight to domestic customers and the problem unit
+is returned to the Company. The small size and rugged design allows for
+economical shipment and quick response to customers almost anywhere in the
+world.
+ 
+SALES AND MARKETING
+ 
+     To support its sales process, the Company conducts marketing programs which
+include direct mail, trade shows, public relations, advertising in trade and
+academic journals and newsletters. The Company annually participates in
+approximately 50 trade shows or meetings in the United States and 65 trade shows
+or meetings internationally. These meetings allow the Company to present its
+products to existing as well as to prospective buyers. While the sales cycle
+varies from customer to customer, it averages 12 months and typically ranges
+from two to 24 months. The Company's sales and marketing organization is based
+at the Company's corporate headquarters in Mountain View, California with area
+sales managers located in Georgia, Massachusetts, Ohio, Texas, California and
+Maryland.
+ 
+     International product sales represented 49.6%, 48.7% and 48.7% of the
+Company's sales in fiscal 1996, 1995 and 1994, respectively. The Company's
+products are sold internationally through its 39 independent distributors into
+64 countries and in the United States through its direct sales force.
+International sales are administered through the Company's corporate
+headquarters in Mountain View, California, along with two area sales managers.
+The Company's distribution agreements with its international distributors are
+generally exclusive and typically can be terminated by either party without
+cause on 90 days notice. See "Management's Discussion and Analysis of Financial
+Condition and Results of Operations -- Factors That May Affect Future
+Results -- Dependence on International Sales."
+ 
+     The Company believes that educating patients and physicians about the
+long-term health benefits and cost-effectiveness of diagnosis and treatment of
+diseases that cause blindness at an early stage is critical to market acceptance
+of the Company's products. The Company believes that the trend toward management
+of health care costs in the United States will lead to increased awareness of
+and emphasis on disease prevention, and cost-effective treatments and, as a
+result, will increase demand for its laser products as well as its prospective
+diagnostic products. The Company works with its customers to enhance its ability
+to identify new applications for its products, validate new procedures using its
+products, respond more effectively to new ophthalmic procedures and expedite
+regulatory approvals of new products and applications. Customers include key
+opinion leaders who tend to be the heads of the ophthalmic departments or to be
+associated with these universities in the capacity of professors. These
+luminaries in the field of ophthalmology are key to the successful introduction
+of new technologies and their subsequent acceptance by the general market.
+Acceptance of the Company's products by these early adopters is key to the
+Company's strategy in the validation of its technology. In addition, the Company
+believes that widespread adoption of laser platforms based on infrared light by
+general ophthalmologists will require educating them about the performance
+characteristics of the infrared laser as compared to the argon laser.
+ 
+COMPETITION
+ 
+     Competition in the market for devices used for ophthalmic treatments is
+intense and is expected to increase. The principal competitive factors in the
+Company's market include product performance characteristics and functionality,
+ease of use, scalability, durability and cost. The Company's principal direct
+competitors are Coherent, Inc., Nidek, Inc. ("Nidek"), HGM Medical Laser
+Systems, Inc., Carl Zeiss, Inc. ("Zeiss") and Keeler Instruments, Inc.
+("Keeler"). Of these companies, only Nidek, Zeiss and Keeler currently offer a
+semiconductor-based photocoagulator system, and substantially all of them sell
+argon-based lasers which are the predominant photocoagulator sold in the
+ophthalmic market. All of the Company's competitors have substantially greater
+financial, engineering, product development, manufacturing, marketing and
+technical resources than the Company. Such companies also have greater
+recognition and a larger installed base than the Company. In addition, these
+companies have long-standing established relationships with current and
+potential customers of the Company.
+ 
+                                        5
+   7
+ 
+OPERATIONS
+ 
+     A significant portion of the Company's manufacturing is subcontracted to
+third parties, with the Company only performing value-added functions. Most of
+these sub-contractors are located within 10 miles of the Company's Mountain
+View, California facility. The Company is in the process of implementing
+policies and procedures which are intended to allow the Company to receive ISO
+9001 certification. ISO 9001 is an international series of standards dealing
+with quality system requirements developed company-wide to demonstrate a
+company's capability and commitment to quality and an assessment of that
+capability by external parties.
+ 
+     The Company relies on third parties to manufacture substantially all of the
+components used in the Company's products, although the Company assembles
+critical subassemblies as well as the final product at its facility in Mountain
+View. There are risks associated with the use of independent manufacturers,
+including unavailability of or delays in obtaining adequate supplies of
+components and potentially reduced control of quality, production costs and the
+timing of delivery. Any failures by such third parties to adequately perform may
+delay the submission of products for regulatory approval, impair the Company's
+ability to deliver products on a timely basis, or otherwise impair the Company's
+competitive position. Establishing its own capabilities to manufacture these
+components would require significant scale-up expenses and additions to
+facilities and personnel and could significantly decrease the Company's profit
+margins.
+ 
+     The Company has qualified two or more sources for most of the components
+used in its products. Certain semiconductor diodes purchased from SDL, Inc.
+("SDL") for the OcuLight GL are not readily available from other suppliers.
+During the second half of 1996, SDL was unable to meet the Company's delivery
+requirements on a timely basis. These delays and delivery shortfalls have
+continued through the first quarter of 1997. The Company has been actively
+qualifying a second source for this product and expects to begin shipment of
+products containing components from this second source in the second quarter of
+1997. The Company has had to qualify new suppliers for other components as well.
+The process of qualifying new suppliers may be lengthy, may often require
+redesigning of the Companys' products and no assurance can be given that sources
+would be available to the Company on a timely basis or on terms that are
+acceptable. The Company does not have long-term or volume purchase agreements
+with any of its suppliers and currently purchases components on a purchase order
+basis. The Company's business, financial condition and results of operations
+would be adversely affected if it is unable to obtain components (including
+those provided by SDL) in the quantities required at a reasonable cost and on a
+timely basis or if it could not expand manufacturing capacity to meet demand or
+if operations at its single facility were disrupted.
+ 
+     International regulatory bodies often establish varying regulations
+governing product standards, packaging requirements, labeling requirements,
+tariff regulations, duties and tax requirements. As a result of the Company's
+sales in Europe, the Company was required to receive a "CE" mark certification,
+an international symbol of quality and compliance with applicable European
+medical device directives. Although the Company has received a CE mark
+certification for the OcuLight SL platform, and has self-certified CE compliance
+for the OcuLight GL, there can be no assurance that the Company will be
+successful in meeting new certification requirements in the future or in
+obtaining such certifications for its new products. Any failure to obtain
+required certifications would have a material adverse effect on the Company's
+business, results of operations and financial condition.
+ 
+PATENTS AND PROPRIETARY RIGHTS
+ 
+     The Company's success and ability to compete is dependent in part upon its
+proprietary information. The Company relies on a combination of patents, trade
+secrets, copyright and trademark laws, nondisclosure and other contractual
+agreements and technical measures to protect its intellectual property rights.
+The Company files patent applications to protect technology, inventions and
+improvements that are significant to the development of its business. The
+Company has been issued six United States patents on the technologies related to
+its products and processes one of which it co-owns. The Company has applied for
+two additional patents related to its solid state laser products. There can be
+no assurance that any of the Company's patent applications will issue as
+patents, that any patents now or hereafter held by the Company will offer any
+degree of protection, or that the Company's patents or patent applications will
+not be challenged, invalidated or circumvented in the future. Moreover, there
+can be no assurance that the Company's competitors, many of
+ 
+                                        6
+   8
+ 
+which have substantial resources and have made substantial investments in
+competing technologies, will not seek to apply for and obtain patents that will
+prevent, limit or interfere with the Company's ability to make, use or sell its
+products either in the United States or in international markets.
+ 
+     In addition to patents, the Company relies on trade secrets and proprietary
+know-how which it seeks to protect, in part, through proprietary information
+agreements with employees, consultants and other parties. The Company's
+proprietary information agreements with its employees and consultants contain
+industry standard provisions requiring such individuals to assign to the Company
+without additional consideration any inventions conceived or reduced to practice
+by them while employed or retained by the Company, subject to customary
+exceptions. There can be no assurance that proprietary information agreements
+with employees, consultant and others will not be breached, that the Company
+would have adequate remedies for any breach, or that the Company's trade secrets
+will not otherwise become known to or independently developed by competitors.
+ 
+     The laser and medical device industry is characterized by frequent
+litigation regarding patent and other intellectual property rights and companies
+in the medical device industry have employed intellectual property litigation to
+gain a competitive advantage. Numerous patents are held by others, including
+academic institutions and competitors of the Company. Because patent application
+are maintained in secrecy in the United States until patents are issued and
+maintained in secrecy for a period of time outside the United States, the
+Company has not conducted any searches to determine whether the Company's
+technology infringes any patents or patent applications. The Company has from
+time to time been notified of, or has otherwise been made aware of claims that
+it may be infringing upon patents or other proprietary intellectual property
+owned by others. If it appears necessary or desirable, the Company may seek
+licenses under such patents or proprietary intellectual property. Although
+patent holders commonly offer such licenses, no assurance can be given that
+licenses under such patents or intellectual property will be offered or that the
+terms of any offered licenses will be reasonable or will not adversely impact
+the Company's operating results. Any claims, with or without merit, could be
+time-consuming, result in costly litigation and diversion of technical and
+management personnel, cause shipment delays or require the Company to develop
+non-infringing technology or to enter into royalty or licensing agreements.
+Although patent and intellectual property disputes in the medical device area
+have often been settled through licensing or similar arrangements, costs
+associated with such arrangements may be substantial and could include ongoing
+royalties. An adverse determination in a judicial or administrative proceeding
+or failure to obtain necessary licenses could prevent the Company from
+manufacturing and selling its products, which would have a material adverse
+effect on the Company's business, results of operations and financial condition.
+Conversely, litigation may be necessary to enforce patents issued to the
+Company, to protect trade secrets or know-how owned by the Company or to
+determine the enforceability, scope and validity of the proprietary rights of
+others. Both the defense and prosecution of intellectual property suits or
+interference proceedings are costly and time consuming.
+ 
+GOVERNMENT REGULATION
+ 
+     The medical devices to be marketed and manufactured by the Company are
+subject to extensive regulation by FDA and by foreign governments. Pursuant to
+the Federal Food, Drug and Cosmetic Act of 1976, as amended, and the regulations
+promulgated thereunder (the "FDA Act"), FDA regulates the clinical testing,
+manufacture, labeling, distribution and promotion of medical devices.
+Noncompliance with applicable requirements can result in, among other things,
+fines, injunctions, civil penalties, recall or seizures of products, total or
+partial suspension of production, failure of the government to grant premarket
+clearance or approval for devices, withdrawal of marketing approvals, and
+criminal prosecution. FDA also has the authority to request repair, replacement
+or refund of the cost of any device manufactured or distributed by the Company.
+ 
+     In the United States, medical devices are classified into one of three
+classes (Class I, II or III), on the basis of the controls deemed necessary by
+FDA to reasonably assure their safety and effectiveness. Under FDA regulations,
+Class I devices are subject to general controls (for example, labeling,
+premarket notification and adherence to good manufacturing practices ("GMPs"))
+and Class II devices are subject to general and special controls (for example,
+performance standards, postmarket surveillance, patient registries, and FDA
+guidelines). Generally, Class III devices are those which must receive premarket
+approval (or "PMA") by the FDA to ensure their safety and effectiveness.
+ 
+                                        7
+   9
+ 
+     Before a new device can be introduced into the market, the manufacturer
+must generally obtain marketing clearance through either a 510(k) premarket
+notification or an application. A 510(k) clearance will be granted if the
+submitted information establishes that the proposed device is "substantially
+equivalent" to a legally marketed Class I or II medical device, or to a Class
+III medical device for which the FDA has not called for a PMA. The FDA may
+determine that a proposed device is not substantially equivalent to a legally
+marketed device, or that additional information or data are needed before a
+substantial equivalence determination can be made. A request for additional data
+may require that clinical studies of the device's safety and efficacy be
+performed.
+ 
+     Commercial distribution of a device for which a 510(k) notification is
+required can begin only after FDA issues an order finding the device to be
+"substantially equivalent" to a predicate device. The FDA has recently been
+requiring a more rigorous demonstration of substantial equivalence than in the
+past. It generally takes from four to twelve months from the date of submission
+to obtain a 510(k) clearance, but it may take longer.
+ 
+     A "not substantially equivalent" determination, or a request for additional
+information, could delay the market introduction of new products that fall into
+this category and could have a materially adverse effect on the Company's
+business, financial condition and results of operations. For any of the
+Company's products that are cleared through the 510(k) process, modifications or
+enhancements that could significantly affect the safety or efficacy of the
+device or that constitute a major change to the intended use of the device will
+require new 510(k) submissions.
+ 
+     A PMA application must be filed if a proposed device is not substantially
+equivalent to a legally marketed Class I or Class I device, or if it is a Class
+III device for which FDA has called for PMAs. A PMA application must be
+supported by valid scientific evidence which typically includes extensive data,
+including human clinical trial data to demonstrate the safety and effectiveness
+of the device. The PMA application must also contain the results of all relevant
+bench test, laboratory and animal studies, a complete description of the device
+and its components, and a detailed description of the methods, facilities and
+controls used to manufacture the device. In addition, the submission may require
+the proposed labeling, advertising literature and training methods.
+ 
+     Upon receipt of a PMA application, the FDA makes a threshold determination
+as to whether the application is sufficiently complete to permit a substantive
+review. If the FDA determines that the PMA application is sufficiently complete
+to permit a substantive review, the FDA will accept the application for filing.
+Once the submission is accepted for filing, the FDA begins an in-depth review of
+the PMA. An FDA review of a PMA application generally takes one to two years
+from the date the PMA application is accepted for filing, but may take
+significantly longer. The review time is often significantly extended by the FDA
+asking for more information or clarification of information already provided in
+the submission. During the review period, an advisory committee, typically a
+panel of clinicians, will likely be convened to review and evaluate the
+application and provide recommendations to the FDA as to whether the device
+should be approved. FDA is not bound by the recommendations of the advisory
+panel. Toward the end of the PMA review process, FDA generally will conduct an
+inspection of the manufacturer's facilities to ensure that the facilities are in
+compliance with applicable GMP requirements.
+ 
+     If FDA's evaluations of both the PMA application and the manufacturing
+facilities are favorable, FDA will either issue an approval letter or an
+approvable letter, which usually contains a number of conditions which must be
+met in order to secure final approval of the PMA. When and if those conditions
+have been fulfilled to the satisfaction of FDA, the agency will issue a PMA
+approval letter, authorizing commercial marketing of the device for certain
+indications. IF FDA's evaluation of the PMA application or manufacturing
+facilities are not favorable, FDA will deny approval of the PMA application or
+issue a "no-approval letter." FDA may also determine that additional clinicals
+trials are necessary, in which case PMA approval may be delayed for several
+years while additional clinical trials are conducted and submitted in an
+amendment to the PMA. The PMA process can be expensive, uncertain and lengthy
+and a number of devices for which FDA approval has been sought by other
+companies have never been approved for marketing.
+ 
+     If human clinical trials of a device are required in connection with either
+a 510(k) notification or a PMA, and the device presents a "significant risk,"
+the sponsor of the trial (usually the manufacturer or the distributor of the
+device) is required to file an investigational device exemption ("IDE")
+application prior to
+ 
+                                        8
+   10
+ 
+commencing human clinical trials. The IDE application must be supported by data,
+typically including the results of animal and laboratory testing. If the IDE
+application is reviewed and approved by the FDA and one or more appropriate
+institutional review boards ("IRBs"), human clinical trials may begin at a
+specific number of investigational sites with a specific number of patients, as
+approved by the FDA. If the device presents a "nonsignificant risk" to the
+patient, a sponsor may begin the clinical trial after obtaining approval for the
+study by one or more appropriate IRBs.
+ 
+     The Company has obtained 510(k) clearance for its OcuLight SL, OcuLight SLx
+and OcuLight GL consoles and a number of peripheral delivery devices including
+the EndoProbe, the Laser Indirect Ophthalmoscope, the Slit Lamp Adapter, the
+G-Probe and the DioPexy Probe, for photocoagulation of tissues and structures in
+the eye in the treatment of various retinal and glaucoma diseases. The Company
+has also made certain modifications to the Slit Lamp Adapter that the Company
+has determined do not require the submission of a new 510(k) notification.
+However, there can be no assurance that the FDA would agree with the Company's
+determination that a 510(k) notification is not required for the Slit Lamp
+Adapter modifications nor that FDA would not require the Company to submit a new
+510(k) notification for the modification. If the FDA requires the Company to
+submit a new 510(k) notification for the modified Slit Lamp Adapter, the Company
+may be prohibited from marketing the modified device until the 510(k)
+notification is cleared by the FDA.
+ 
+     In July 1991 the Company submitted a 510(k) notification to obtain
+clearance for use of its Slit Lamp Adapter for use in iridectomy and other
+indications. After conducting an initial review of the submission, the FDA
+indicated that clinical data would be required in order for the agency to make a
+substantial equivalence determination regarding use of the device for
+iridectomy. As a result, the Company obtained FDA approval of an investigational
+device exemption ("IDE") to conduct clinical studies of the Slit Lamp Adapter
+for iridectomy. Although the Company obtained IDE approval in September 1992, to
+date, no patients have been recruited for the study. There can be no assurance
+that once clinical data are collected and submitted to the FDA, that they will
+be adequate to establish substantial equivalence, that the FDA will not require
+additional clinical data, or that the FDA will grant 510(k) clearance in a
+timely manner, if at all.
+ 
+     The Company has also established a strategic alliance with PDT to
+manufacture a device designed to photoactivate an ophthalmic drug currently
+under development by PDT. PDT is responsible for obtaining the required
+regulatory approvals. Under FDA's combination products policy, the ophthalmic
+drug and photoactivating device may be considered a drug-device combination
+product and, therefore, be required to undergo the new drug approval process.
+The steps required before a new drug can be commercially distributed in the
+United States include (1) conducting appropriate pre-clinical laboratory and
+animal tests, (2) submitting to the FDA an application for an investigational
+new drug ("IND"), which must become effective before clinical trials may
+commence, (3) conducting well-controlled human clinical trials that establish
+the safety and effectiveness of the drug, (4) filing with the FDA a new drug
+application ("NDA") and (5) obtaining FDA approval of the NDA prior to any
+commercial distribution of the drug. The new drug approval process is expensive,
+lengthy and uncertain and many new drug products have never been approved for
+marketing. There can be no assurance that an approved NDA would not be required
+for the ophthalmic drug and photoactivating device as a combination product or,
+if required, that such approval could be obtained. In addition, there can be no
+assurance that the FDA would not require separate premarket clearance for the
+photoactivating device through either a 510(k) notification or a PMA or, if
+required, that such premarket clearance or approval could be obtained.
+ 
+     The Company has submitted a 510(k) notification for the DioLite 532, a new
+product which is intended to be used in the dermatology market to treat vascular
+and pigmented skin lesions. The DioLite 532 is a Class II medical device and
+human clinical trials are not expected to be required in connection with the
+510(k) notification, however, there can be no assurance that the FDA will not
+require clinical data, or that the FDA will grant 510(k) clearance in a timely
+manner, if at all.
+ 
+     Any products manufactured or distributed by the Company pursuant to FDA
+clearances or approvals are subject to pervasive and continuing regulation by
+FDA, including recordkeeping requirements and reporting of adverse experiences
+with the use of the device. Device manufacturers are required to register their
+establishments and list their devices with FDA and certain state agencies, and
+are subject to periodic
+ 
+                                        9
+   11
+ 
+inspections by FDA and certain state agencies. The FDA Act requires devices to
+be manufactured in accordance with GMP regulations which impose certain
+procedural and documentation requirements upon the Company with respect to
+manufacturing and quality assurance activities. FDA has proposed changes to the
+GMP regulations which, if finalized, would likely increase the cost of complying
+with GMP requirements.
+ 
+     Labeling and promotion activities are subject to scrutiny by FDA and in
+certain instances, by the Federal Trade Commission. The FDA actively enforces
+regulations prohibiting marketing of products for unapproved uses. The Company
+and its products are also subject to a variety of state laws and regulations in
+those states or localities where its products are or will be marketed. Any
+applicable state or local regulations may hinder the Company's ability to market
+its products in those states or localities. Manufacturers are also subject to
+numerous federal, state and local laws relating to such matters as safe working
+conditions, manufacturing practices, environmental protection, fire hazard
+control and disposal of hazardous or potentially hazardous substances. There can
+be no assurance that the Company will not be required to incur significant costs
+to comply with such laws and regulations now or in the future or that such laws
+or regulations will not have a material adverse effect upon the Company's
+ability to do business.
+ 
+     Exports of products that have market clearance from FDA do not require FDA
+export approval. However, some foreign countries require manufacturers to
+provide an FDA certificate for products for export ("CPE") which requires the
+device manufacturer to certify to the FDA that the product has been granted
+premarket clearance in the United States and that the manufacturing facilities
+appeared to be in compliance with GMPs at the time of the last GMP inspection.
+The FDA will refuse to issue a CPE if significant outstanding GMP violations
+exist.
+ 
+     Exports of products subject to the 510(k) notification requirements, but
+not yet cleared to market, are permitted without FDA approval provided certain
+requirements are met. Unapproved products subject to the PMA requirements cannot
+be exported unless approved by FDA for export. To obtain FDA export approval
+certain requirements must be met and information must be provided to the FDA,
+including documentation demonstrating that the product is approved for import
+into the country to which it is to be exported and, in some instances, safety
+data from animal or human studies. There can be no assurance that the FDA will
+grant export approval when such approval is necessary, or that countries to
+which the devices are to be exported will approve the devices for import.
+Failure of the Company to obtain CPEs, meet FDA's export requirements, or obtain
+FDA export approval when required to do so, could have a material adverse effect
+on the Company's business, financial condition and results of operations.
+ 
+     The introduction of the Company's products in foreign markets will also
+subject the Company to foreign regulatory clearances which may impose additional
+substantial costs and burdens. International sales of medical devices are
+subject to the regulatory requirements of each country. The regulatory review
+process varies from country to country. Many countries also impose product
+standards, packaging requirements, labeling requirements and import restrictions
+on devices. In addition, each country has its own tariff regulations, duties and
+tax requirements. Approval by the FDA and foreign government authorities is
+unpredictable and uncertain, and no assurance can be given that the necessary
+approvals or clearances will be granted on a timely basis or at all. Delays in
+receipt of, or a failure to receive, such approvals or clearances, or the loss
+of any previously received approvals or clearances, could have a material
+adverse effect on the business, financial condition and results of operations of
+the Company.
+ 
+     The Company's products are subject to continued and pervasive regulation by
+FDA and other foreign an domestic regulatory authorities. Changes in existing
+requirements or adoption of new requirements or policies could adversely affect
+the ability of the Company to comply with regulatory requirements. Failure to
+comply with regulatory requirements could have a material adverse effect on the
+Company's business, financial condition and results of operations. There can be
+no assurance that the Company will not be required to incur significant costs to
+comply with laws and regulations in the future or that laws or regulations will
+not have a material adverse effect upon the Company's business, financial
+condition or results of operations.
+ 
+                                       10
+   12
+ 
+REIMBURSEMENT
+ 
+     The Company's products are typically purchased by doctors, clinics,
+hospitals and other users, which bill various third-party payors, such as
+governmental programs and private insurance plans, for the health care services
+provided to their patients. Third-party payors carefully review and are
+increasingly challenging the prices charged for medical products and services.
+Reimbursement rates from private companies vary depending on the procedure
+performed, the third-party payor, the insurance plan and other factors. Medicare
+reimburses hospitals on a prospectively-determined fixed amount for the costs
+associated with an in-patient hospitalization based on the patient's discharge
+diagnosis, and reimburses physicians a prospectively-determined fixed amount
+based on the procedure performed, regardless of the actual costs incurred by the
+hospital or physician in furnishing the care and unrelated to the specific
+devices used in that procedure. Third-party payors are increasingly scrutinizing
+whether to cover new products and the level of reimbursement for covered
+products. While the Company believes that the laser procedures using its
+products have generally been reimbursed, payors may deny coverage and
+reimbursement for the Company's products if they determine that the device was
+not reasonable and necessary for the purpose for which used, was investigational
+or not cost-effective. Additionally, there can be no assurance that PDT will be
+able to obtain coverage for its use of drugs with the Company's OcuLight
+Systems, or that the reimbursement will be adequate to cover the treatment
+procedure. Failure by doctors, clinics, hospitals and other users of the
+Company's products to obtain adequate reimbursement for use of the Company's
+products from third-party payors, and/or changes in government legislation or
+regulation or in private third-party payors' policies toward reimbursement for
+procedures employing the Company's products could have a material adverse effect
+on the Company's business, results of operations and financial condition.
+Moreover, the Company is unable to predict what legislation or regulation, if
+any, relating to the health care industry or third-party coverage and
+reimbursement may be enacted in the future, or what effect such legislation or
+regulation may have on the Company.
+ 
+PRODUCT LIABILITY AND INSURANCE
+ 
+     The Company may be subject to product liability claims in the future. The
+Company's products are highly complex, used to treat extremely delicate eye
+tissue and are often used in situations where there is a high risk of serious
+injury or adverse side effects. In addition, although the Company recommends
+that its disposable products only be used once and so prominently labels these
+disposables, the Company believes that certain customers may reuse these
+disposables. Were such a disposable not adequately sterilized by the customer
+between such uses, a patient could suffer serious consequences, possibly
+resulting in a suit against the Company for damages. Accordingly, the
+manufacture and sale of medical products entails significant risk of product
+liability claims. Although the Company maintains product liability insurance
+with coverage limits of $5.0 million per occurrence and an annual aggregate
+maximum of $6.0 million, there can be no assurance that the coverage of the
+Company's insurance policies will be adequate. Such insurance is expensive and
+in the future may not be available on acceptable terms, if at all. A successful
+claim brought against the Company in excess of its insurance coverage could have
+a material adverse effect on the Company's business, results of operations and
+financial condition. To date, the Company has not experienced any product
+liability claims.
+ 
+BACKLOG
+ 
+     The Company generally ships its products within a few days after acceptance
+of a customer's purchase order. Accordingly, the Company does not believe that
+its backlog at any particular time is indicative of future sales levels.
+ 
+EMPLOYEES
+ 
+     At December 31, 1996, the Company had a total of 58 full time employees,
+including 21 in operations, 20 in sales and marketing, 11 in research and
+development and 6 in finance and administration. The Company also employs, from
+time to time, a number of temporary and part-time employees as well as
+consultants on a contract basis. At December 31, 1996, the Company employed
+three such persons. The Company intends to hire additional personnel during the
+next twelve months in each of these areas. The Company's future success will
+depend in part on its ability to attract, train, retain and motivate highly
+qualified employees, who are in
+ 
+                                       11
+   13
+ 
+great demand. There can be no assurance that the Company will be successful in
+attracting and retaining such personnel. The Company's employees are not
+represented by an collective bargaining organization, and the Company has never
+experienced a work stoppage or strike. The Company considers its employee
+relations to be good. See "Management's Discussion and Analysis of Financial
+Condition and Results of Operations -- Factors That May Affect Future
+Results -- Dependence on Key Personnel."
+ 
+EXECUTIVE OFFICERS OF THE COMPANY
+ 
+     The executive officers of the Company and their ages as of December 31,
+1996 were as follows:
+ 
+
+
+                   NAME                      AGE                         POSITION
+- -------------------------------------------  ---     ------------------------------------------------
+                                               
+Theodore A. Boutacoff......................  49      President, Chief Executive Officer and Director
+James L. Donovan...........................  59      Chief Financial Officer and Director
+Eduardo Arias..............................  52      Senior Vice President, World-wide Sales
+David M. Buzawa............................  44      Vice President, Product Development
+Robert Haddad..............................  49      Vice President, Operations
+
+ 
+     Mr. Boutacoff co-founded the Company with Messrs. Arias, Buzawa, Donovan
+and Chang and, since February 1989, has served as its President, Chief Executive
+Officer and a member of its Board of Directors. Prior to co-founding the
+Company, Mr. Boutacoff held various positions, including Director of New
+Business and Clinical Development, Director of Marketing and Director of
+Regulatory Affairs, with the Medical Division of Coherent, Inc., a manufacturer
+of laser systems for science, medicine and industry. Mr. Boutacoff holds a B.S.
+degree in civil engineering from Stanford University.
+ 
+     Mr. Donovan co-founded the Company and, since February 1989, except in the
+period June to November 1996, has served as its Chief Financial Officer and a
+member of its Board of Directors. Prior to co-founding the Company, Mr. Donovan
+served as General Manager of its Medical Division and Chief Financial Officer of
+Coherent, Inc. Mr. Donovan holds a B.S. degree in business administration from
+Southern Oregon State College.
+ 
+     Mr. Arias co-founded the Company and since April 1989 has served as Vice
+President, Sales & Marketing until September 1991 when he was promoted to the
+position of Senior Vice President, International Sales. Prior to co-founding the
+Company, Mr. Arias held various positions, including Director of Marketing and
+Sales, Medical Group and Director of International Operations, at Coherent, Inc.
+ 
+     Mr. Buzawa co-founded the Company in February 1989 and, since such date,
+has managed the Company's Product Development group, serving since February 1993
+as the Vice President, Product Development. Prior to co-founding the Company,
+Mr. Buzawa held various positions, including Project Engineer, with Coherent,
+Inc. Mr. Buzawa holds a B.A. degree in general science from the University of
+Rochester.
+ 
+     Mr. Haddad joined the Company in March 1991 as Controller and was appointed
+Vice President, Operations in April 1992. From March 1989 to February 1991, Mr.
+Haddad served as Director of Operations of Abekas Video Systems, an electronic
+design and manufacturing company. Mr. Haddad holds a B.S. degree in industrial
+engineering from California State Polytechnic University and a M.B.A. degree in
+finance from Sacramento State University. Mr. Haddad has indicated his intention
+to leave the Company by March 31, 1997.
+ 
+     Additionally, Robert Kamenski joined the Company as Vice President, Finance
+and Administration on March 12, 1997. Prior to joining the Company, Mr. Kamenski
+was Chief Financial Officer and Vice President of Finance and Administration
+with TeleSensory Corporation. Mr. Kamenski holds a B.B.A. degree in accounting
+from the University of Wisconsin-Milwaukee and is a member of the American
+Institute of CPAs.
+ 
+ITEM 2.  PROPERTIES
+ 
+     The Company is relocating its operating facilities and has entered into an
+noncancelable operating lease commencing in March 1997 for 37,000 square feet of
+space in Mountain View, California. These buildings will
+ 
+                                       12
+   14
+ 
+house manufacturing, research and development and serve as the Company's
+headquarter offices. The lease term expires in 2002 and contains a renewal
+option.
+ 
+     Management believes that its new facilities will be adequate for its
+current needs and that suitable additional space or alternative space will be
+available in the future on commercially reasonable terms as needed.
+ 
+ITEM 3.  LEGAL PROCEEDINGS
+ 
+     None.
+ 
+ITEM 4.  SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+ 
+     No matters were submitted to a vote of security holders during the fourth
+quarter of the fiscal year covered by this report.
+ 
+                                    PART II
+ 
+ITEM 5.  MARKET FOR REGISTRANT'S COMMON EQUITY AND RELATED STOCKHOLDER MATTERS
+ 
+MARKET INFORMATION FOR COMMON EQUITY
+ 
+     The Company's Common Stock has been traded on the Nasdaq National Market
+System under the symbol "IRIX" since the Company's initial public offering on
+February 15, 1996. The following table sets forth for the periods indicated the
+high and low closing prices for the Common Stock.
+ 
+
+
+                                                                    HIGH         LOW
+                                                                   -------     -------
+                                                                         
+        FISCAL 1996
+          First Quarter (from February 15, 1996).................  $10.875     $ 9.750
+          Second Quarter.........................................  $16.750     $10.250
+          Third Quarter..........................................  $15.500     $ 6.875
+          Fourth Quarter.........................................  $ 9.500     $ 6.250
+        FISCAL 1997
+          First Quarter (through March 13, 1997).................  $ 8.250     $ 4.750
+
+ 
+     On March 13, 1997 the closing price on the Nasdaq National Market for the
+Company's Common Stock was $7.00 per share. As of December 31, 1996, there were
+approximately 103 holders of record of the Company's Common Stock.
+ 
+DIVIDEND POLICY
+ 
+     The Company has never paid cash dividends on its Common Stock. The Company
+currently intends to retain any earnings for use in its business and does not
+anticipate paying cash dividends in the foreseeable future. In addition, the
+payment of cash dividends by the Company to its stockholders is currently
+prohibited by the Company's bank line of credit. See Note 4 of Notes to
+Consolidated Financial Statements.
+ 
+ITEM 6.  SELECTED FINANCIAL DATA
+ 
+     The following selected consolidated financial data as of and for the years
+ended December 31, 1992, 1993, 1994, 1995 and 1996 have been derived from and
+are qualified by reference to, the consolidated financial statements of the
+Company audited by Coopers & Lybrand L.L.P., independent accountants. The
+selected consolidated financial data as of December 31, 1992 and 1993 have been
+derived from the Company's audited financial statements not included herein.
+These historical results are not necessarily indicative of the results of
+operations to be expected for any future period.
+ 
+                                       13
+   15
+ 
+     The data set forth below are qualified by reference to, and should be read
+in conjunction with Item 7. Management's Discussion and Analysis of Financial
+Condition and Results of Operations, and the consolidated financial statements
+included in Item 8. Financial Statements and Supplementary Data.
+ 
+
+
+                                                             YEAR ENDED DECEMBER 31,
+                                               ---------------------------------------------------
+                                                1992       1993       1994       1995       1996
+                                               ------     ------     ------     ------     -------
+                                                      (IN THOUSANDS, EXCEPT PER SHARE DATA)
+                                                                            
+CONSOLIDATED STATEMENT OF OPERATIONS DATA:
+Sales........................................  $4,515     $5,564     $7,182     $8,801     $12,364
+Cost of sales................................   2,071      2,280      2,423      2,798       4,899
+                                               ------     ------     ------     ------     -------
+  Gross profit...............................   2,444      3,284      4,759      6,003       7,465
+                                               ------     ------     ------     ------     -------
+Operating expenses:
+  Research and development...................     499        528        629        742       1,286
+  Selling, general and administrative........   2,303      2,601      3,383      3,787       5,197
+  Nonrecurring charge for acquisition of
+     technology(1)...........................      --         --         --         80          --
+                                               ------     ------     ------     ------     -------
+     Total operating expenses................   2,802      3,129      4,012      4,609       6,483
+                                               ------     ------     ------     ------     -------
+Income (loss) from operations................    (358)       155        747      1,394         982
+Other income (expense), net..................     (13)       (24)        (1)        58         699
+                                               ------     ------     ------     ------     -------
+Income (loss) before benefit from (provision
+  for) income taxes..........................    (371)       131        746      1,452       1,681
+Benefit from (provision for) income taxes....      --         --      1,039       (452)       (676)
+                                               ------     ------     ------     ------     -------
+Net income (loss)............................  $ (371)    $  131     $1,785     $1,000     $ 1,005
+                                               ======     ======     ======     ======     =======
+Net income (loss) per share (2)..............  $(0.27)    $ 0.03     $ 0.40     $ 0.22     $  0.16
+                                               ======     ======     ======     ======     =======
+Shares used in per share calculation(2)......   1,374      4,521      4,515      4,630       6,478
+                                               ======     ======     ======     ======     =======
+
+ 
+
+
+                                                                  DECEMBER 31,
+                                               ---------------------------------------------------
+                                                1992       1993       1994       1995       1996
+                                               ------     ------     ------     ------     -------
+                                                                 (IN THOUSANDS)
+                                                                            
+CONSOLIDATED BALANCE SHEET DATA:
+Cash, cash equivalents and available-for-sale
+  securities.................................  $  483     $  269     $  684     $1,227     $15,114
+Working capital..............................  $1,439     $1,554     $2,973     $4,339     $15,577
+Total assets.................................  $2,392     $2,603     $4,436     $6,395     $23,707
+Total stockholders' equity...................  $1,511     $1,642     $3,436     $4,685     $21,478
+
+ 
+- ---------------
+(1) Reflects the write-off from the purchase of in process of research and
+    development. See Note 2 of Notes to Consolidated Financial Statements.
+ 
+(2) See Note 1 of Notes to Consolidated Financial Statements for an explanation
+    of shares used in per share calculation.
+ 
+                                       14
+   16
+ 
+ITEM 7.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+OF OPERATIONS
+ 
+     The discussion in Management's Discussion and Analysis of Financial
+Condition and Results of Operations contains trend analysis and other
+forward-looking statements within the meaning of Section 27A of the Securities
+Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934,
+as amended. Actual results could differ materially from those set forth in such
+forward looking statements as a result of the factors set forth under "Factors
+That May Affect Future Results" and other risks detailed from time to time in
+the Company's reports filed with the Securities and Exchange Commission.
+ 
+OVERVIEW
+ 
+     The Company is the leading worldwide provider of semiconductor-based
+photocoagulator systems used to treat eye diseases, including the three leading
+causes of irreversible blindness. The Company's current OcuLight Systems consist
+of a semiconductor-based infrared laser console (the "OcuLight SL" and "OcuLight
+SLx") and a semiconductor-based visible laser console (the "OcuLight GL") along
+with interchangeable delivery devices, including disposable products. The
+OcuLight GL was first shipped for revenue in September 1996. Since 1990, when
+its first FDA cleared infrared OcuLight SL System was shipped, more than 1,300
+OcuLight Systems have been sold worldwide. During the past seven years, the
+Company has steadily expanded its product line and has introduced new products
+each year to address a broader segment of the ophthalmic market. These new
+products have contributed to increased sales levels and expansion of its
+customer base. As the installed base of its OcuLight consoles grows, the Company
+expects that sales of its disposable products may increase.
+ 
+     The Company's sales consist of the purchase price of its OcuLight System
+consoles and delivery devices, disposables and, to a lesser extent, revenues
+from service and support activities. Revenue from product sales is generally
+recognized at the time of shipment (net of allowances or discounts), while
+revenue from services is recognized upon performance of the applicable services.
+The Company's sales have increased primarily due to growth in unit sales,
+including additional unit sales resulting from the introduction of the OcuLight
+GL during the second half of 1996, greater market penetration and an expanded
+product offering. The Company believes that future growth in unit sales will be
+derived both from a growth in the market for photocoagulator products and from
+the replacement of installed photocoagulators which use vacuum tube-based
+technology.
+ 
+     Sales in the United States are derived from direct sales to end users and
+internationally are derived from sales to 39 distributors who resell to
+hospitals and physicians. Sales to international distributors are made on open
+credit terms or letters of credit and generally are not subject to a right of
+return unless the Company terminates a distributor. The Company believes its
+distributors carry minimal inventory. Although sales of the Company's products
+internationally currently are denominated in United States dollars,
+international sales are subject to a variety of risks including fluctuations in
+foreign currency exchange rates, shipping delays, generally longer receivables
+collection periods, changes in applicable regulatory policies, international
+monetary conditions, domestic and foreign tax policies, trade restrictions,
+duties and tariffs and economic and political instability. These factors are
+ameliorated somewhat because the Company has sold its products internationally
+in 65 countries. Accordingly, to date, the Company has not experienced any
+material impact on its results of operations due to fluctuations in currency
+exchange rates or the other factors set forth above.
+ 
+     Cost of sales consists primarily of the cost of purchasing components and
+sub-systems, assembling, packaging and testing components at the Company's
+facility, and the direct labor and overhead associated therewith. Cost of
+service and support consists of expenses related directly to service, support
+and training activities. Product development expenses consist primarily of
+personnel costs, materials and research support provided to clinicians at
+medical institutions developing new applications which utilize the Company's
+products. Research and development costs have been expensed as incurred. Sales,
+general and administrative expenses consist primarily of costs of personnel,
+sales commissions, travel expenses, advertising and promotional expenses,
+facilities, legal and accounting, insurance and other expenses which are not
+allocated to other departments.
+ 
+     Prior to 1995, the Company had not incurred any substantial income tax
+liability because of its historical operating losses. However, during 1996, the
+Company utilized its remaining net operating loss carryforwards and began
+incurring income taxes at statutory tax rates.
+ 
+                                       15
+   17
+ 
+RESULTS OF OPERATIONS
+ 
+     The following table sets forth certain operating data as a percentage of
+sales for the periods indicated:
+ 
+
+
+                                                                   YEAR ENDED DECEMBER 31,
+                                                                  -------------------------
+                                                                  1994      1995      1996
+                                                                  -----     -----     -----
+                                                                             
+    Sales.......................................................  100.0%    100.0%    100.0%
+    Cost of sales...............................................   33.7      31.8      39.6
+                                                                  -----     -----     -----
+      Gross profit..............................................   66.3      68.2      60.4
+                                                                  -----     -----     -----
+    Operating expenses:
+      Research and development..................................    8.8       8.4      10.4
+      Sales, general and administrative.........................   47.1      43.1      42.0
+      Nonrecurring charge for acquisition of technology.........     --       0.9        --
+                                                                  -----     -----     -----
+      Total operating expenses..................................   55.9      52.4      52.4
+                                                                  -----     -----     -----
+    Income from operations......................................   10.4      15.8       8.0
+    Other income, net...........................................     --       0.7       5.6
+                                                                  -----     -----     -----
+    Income before (provision for) benefit from income taxes.....   10.4      16.5      13.6
+    Benefit from (provision for) income taxes...................   14.5      (5.1)     (5.5)
+                                                                  -----     -----     -----
+    Net income..................................................   24.9%     11.4%      8.1%
+                                                                  =====     =====     =====
+
+ 
+     Sales.  Sales were $12.4 million, $8.8 million and $7.2 million in 1996,
+1995 and 1994, respectively, representing increases of 40.5% from 1995 to 1996
+and 22.5% from 1994 to 1995. The growth in sales in 1995 over 1994 was primarily
+attributable to increased unit volume as the Company expanded its product
+offering and broadened its customer base, offset somewhat by slight decreases in
+average selling prices. The increase in 1996 over 1995 is attributable to the
+same factors, with the addition that unit volume increase were primarily due to
+the introduction of the OcuLight GL in the second half of the year.
+International sales accounted for 49.6%, 48.7% and 48.7% in 1996, 1995 and 1994,
+respectively. The Company expects revenues from international sales to continue
+to account for a substantial portion of its sales. The lack of availability of a
+critical component utilized in the manufacture of the OcuLight GL negatively
+impacted 1996 sales. While supplies of this component have improved, delays in
+delivery and short falls in quantities ordered by the Company are continuing to
+negatively impact the Company's ability to ship its OcuLight GL product. The
+Company is currently qualifying a second source for this component and expects
+to commence shipments of products incorporating this alternative sourced
+component in the second quarter of 1997.
+ 
+     Gross Profit.  Gross profit was $7.5 million, $6.0 million and $4.8 million
+in 1996, 1995 and 1994 representing 60.4%, 68.2% and 66.3% of sales in each of
+such periods, respectively. Gross profit improved in 1995 as compared to 1994 in
+absolute dollars and as a percentage of sales primarily due to higher sales
+volume and improved economies of scale. The gross margins in 1996 compared to
+1995 were higher in absolute dollars but lower as a percentage of sales
+primarily due to the costs associated with starting up manufacturing of the new
+OcuLight GL. Increasing competition has resulted in a downward trend in average
+selling prices. The Company expects continued competitive pressure on the prices
+of its products. The Company intends to continue its efforts to reduce the cost
+of components and thereby mitigate the impact of price reductions on its gross
+margin. Margins are also expected to increase as volumes increase, critical
+components are received on schedule and costs are engineered out of the new
+product. Gross margins will fluctuate due to changes in the relative proportions
+of domestic and international sales, costs associated with future product
+introductions and a variety of other factors.
+ 
+     Research and Development.  Research and development expenses increased by
+73.3% in 1996 to $1,286,000 and by 18.0% in 1995 to $742,000 from $629,000 in
+1994, representing 10.4%, 8.4% and 8.8% of sales in these periods, respectively.
+The increase in research and development expenses in 1995 as compared to 1994
+was primarily attributable to an increase in personnel as the Company increased
+its product development
+ 
+                                       16
+   18
+ 
+efforts. During 1996, a higher level of expense was incurred primarily in
+connection with the development of the OcuLight GL and another new product
+planned for introduction during 1997.
+ 
+     Sales, General and Administrative.  Sales, general and administrative
+expenses grew by 37.2% in 1996 to $5.2 million and by 11.9% to $3.8 million in
+1995 from $3.4 million in 1994. The increases in sales, general and
+administrative expenses were primarily due to the hiring of additional sales and
+marketing employees to address new sales opportunities and to support expanding
+unit volumes, higher sales commissions and the growth in the infrastructure of
+the Company's finance, administrative and operations group which were necessary
+to support the Company's expanded operations. Costs associated with the launch
+of the OcuLight GL during 1996 also increased sale and marketing expenses during
+this period. In addition, general and administrative expenses increased due to
+recruiting and relocation costs associated with hiring a chief financial
+officer, expenses related to the Company's initial public offering in February
+1996 and the establishment of a returns and allowance reserve.
+ 
+     Nonrecurring Charge for Acquisition of Technology.  In the fourth quarter
+of 1995, the Company wrote off $80,000, or 0.9% of sales in 1995, of in-progress
+research and development costs in connection with an acquisition.
+ 
+     Interest Income.  Interest income, was $691,000, $64,000 and $22,000 in
+1996, 1995 and 1994, respectively. This income was primarily from interest
+earned on short-term investments. Increased interest income was primarily due to
+increased levels of investments.
+ 
+     Income Taxes.  The Company had an effective tax rate of 40%, 32% and (139%)
+in 1996, 1995, and 1994, respectively. The rates for 1995 and 1994 differ from
+the statutory rate of 40% primarily due to the utilization of net operating
+losses. In addition, in 1995 and 1994, the Company reversed $280,000 and
+$1,039,000 of its valuation allowance due to management's determination that it
+was more likely than not that the related deferred tax assets would be utilized.
+The Company utilized its entire remaining net operating loss carry forwards
+during 1996.
+ 
+                                       17
+   19
+ 
+SELECTED QUARTERLY OPERATING RESULTS
+ 
+     The following table represents unaudited quarterly financial information
+for the eight quarters ended December 31, 1996. Management believes this
+information has been prepared on the same basis as the audited consolidated
+financial statements appearing elsewhere in this Form 10-K and in management's
+opinion includes all necessary adjustments (consisting only of normal recurring
+adjustments) to present fairly the unaudited quarterly results when read in
+conjunction with the audited financial statements of the Company and the notes
+thereto appearing elsewhere in this Form 10-K. These operating results are not
+necessarily indicative of results of any future period. See "-- Factors That May
+Affect Future Results -- Fluctuations in Quarterly Operating Results."
+ 
+
+
+                                                                       THREE MONTHS ENDED
+                                 -----------------------------------------------------------------------------------------------
+                                 MARCH 31,    JUNE 30,    SEPT. 30,    DEC. 31,    MAR. 31,    JUNE 30,    SEP. 30,     DEC. 31,
+                                   1995         1995        1995         1995        1996        1996        1996         1996
+                                 ---------    --------    ---------    --------    --------    --------    --------     --------
+                                                              (IN THOUSANDS, EXCEPT PER SHARE DATA)
+                                                                                                
+Sales..........................   $ 2,088      $2,166      $ 2,092      $2,455      $2,417      $2,486      $2,635       $4,826
+Cost of sales..................       692         745          647         714         932         948         968        2,051
+                                   ------      ------       ------      ------      ------      ------      ------       ------
+  Gross profit.................     1,396       1,421        1,445       1,741       1,485       1,538       1,667        2,775
+                                   ------      ------       ------      ------      ------      ------      ------       ------
+Operating expenses:
+  Research and development.....       159         204          203         176         270         331         313          372
+  Sales, general and
+    administrative.............       865         905          891       1,126       1,056       1,109       1,177        1,855
+  Nonrecurring charge for
+    acquisition of
+    technology.................        --          --           --          80          --          --          --           --
+                                   ------      ------       ------      ------      ------      ------      ------       ------
+    Total operating expenses...     1,024       1,109        1,094       1,382       1,326       1,440       1,490        2,227
+                                   ------      ------       ------      ------      ------      ------      ------       ------
+Income from operations.........       372         312          351         359         159          98         177          548
+Other income, net..............        12           5           15          26          92         206         226          175
+                                   ------      ------       ------      ------      ------      ------      ------       ------
+Income before provision for
+  income taxes.................       384         317          366         385         251         304         403          723
+Provision for income taxes.....      (161)       (136)        (147)         (8)        (26)       (122)       (161)        (367)
+                                   ------      ------       ------      ------      ------      ------      ------       ------
+Net income.....................   $   223      $  181      $   219      $  377      $  225      $  182      $  242       $  356
+                                   ======      ======       ======      ======      ======      ======      ======       ======
+Net income per share...........   $  0.05      $ 0.04      $  0.05      $ 0.08      $ 0.04      $ 0.03      $ 0.04       $ 0.05
+                                   ======      ======       ======      ======      ======      ======      ======       ======
+Shares used in per share
+  calculation(1)...............     4,525       4,549        4,558       4,700       5,697       6,758       6,750        6,708
+                                   ======      ======       ======      ======      ======      ======      ======       ======
+
+ 
+
+
+                                                                    AS A PERCENTAGE OF SALES
+                                 -----------------------------------------------------------------------------------------------
+                                                                                                
+Sales..........................     100.0%      100.0%       100.0%      100.0%      100.0%      100.0%      100.0%       100.0%
+Cost of sales..................      33.1        34.4         30.9        29.1        38.6        38.1        36.7         42.5
+                                    -----       -----        -----       -----       -----       -----       -----        -----
+  Gross profit.................      66.9        65.6         69.1        70.9        61.4        61.9        63.3         57.5
+                                    -----       -----        -----       -----       -----       -----       -----        -----
+Operating expenses:
+  Research and development.....       7.6         9.4          9.7         7.2        11.2        13.3        11.9          7.7
+  Sales, general and
+    administrative.............      41.5        41.8         42.6        45.8        43.7        44.6        44.7         38.4
+  Nonrecurring charge for
+    acquisition of
+    technology.................        --          --           --         3.3          --          --          --           --
+                                    -----       -----        -----       -----       -----       -----       -----        -----
+    Total operating expenses...      49.1        51.2         52.3        56.3        54.9        57.9        56.5         46.1
+                                    -----       -----        -----       -----       -----       -----       -----        -----
+Income from operations.........      17.8        14.4         16.8        14.6         6.6         3.9         6.7         11.4
+Other income, net..............       0.6         0.2          0.7         1.1         3.8         8.3         8.6          3.6
+                                    -----       -----        -----       -----       -----       -----       -----        -----
+Income before provision for
+  income taxes.................      18.4        14.6         17.5        15.7        10.4        12.2        15.3         15.0
+Provision for income taxes.....      (7.7)       (6.2)        (7.0)       (0.3)       (1.1)       (4.9)       (6.1)        (7.6)
+                                    -----       -----        -----       -----       -----       -----       -----        -----
+Net income.....................      10.7%        8.4%        10.5%       15.4%        9.3%        7.3%        9.2%         7.4%
+                                    =====       =====        =====       =====       =====       =====       =====        =====
+
+ 
+- ---------------
+(1) For an explanation of shares used in per share calculations, see Note 1 of
+    Notes to Consolidated Financial Statements.
+ 
+                                       18
+   20
+ 
+LIQUIDITY AND CAPITAL RESOURCES
+ 
+     In February 1996, the Company sold 1,982,500 shares of its Common Stock in
+connection with its initial public offering ("IPO"). The net proceeds of this
+offering were approximately $15.7 million after deducting underwriting discounts
+and commissions and expenses of the offering. The Company has used a portion of
+the net proceeds from the IPO for purchases of inventory, leasehold improvements
+and payment of certain accrued liabilities.
+ 
+     From January 1994, the Company has funded the operations primarily from
+cash generated from operations. Net cash provided from operations totaled
+approximately $896,000 and $736,000 in 1995 and 1994, respectively, and net cash
+used in operations totaled $1,256,000 in 1996. The Company used approximately
+$10,790,000 in investing activities primarily for available-for-sale securities
+in 1996 and approximately $235,000 and $32,000 in investing activities primarily
+for the acquisition of fixed assets in 1995 and 1994, respectively. Net cash
+provided by financing activities during 1996 was $15,782,000, which consisted
+primarily of proceeds from the Company's IPO. Net cash used in financing
+activities in 1995 and 1994 consisted of approximately $118,000 and $289,000,
+respectively, primarily for the repayment of funds previously borrowed under the
+Company's bank line of credit.
+ 
+     At December 31, 1996, the Company's primary sources of liquidity included
+cash, cash equivalents and short term investments of $15.1 million. In addition,
+the Company has available $1,000,000 under its unsecured line of credit which
+bears interest at the bank's prime rate plus 0.75% and expires in September
+1997. The Company believes that, based on current estimates, its current cash
+balances, short term investments net cash provided by operating activities and
+credit facility will be sufficient to meet its working capital and capital
+expenditure requirements at least through 1997.
+ 
+     During the year ended December 31, 1996, the Company used $1.3 million in
+operating activities. Sources of cash included net income of $1.0 million offset
+by increases in inventories of $.603 million and increases in accounts
+receivable of $2.9 million. The increase in inventories is primarily due to the
+purchase of components for the OcuLight GL, shipments of which were unexpectedly
+delayed in the third quarter due to delays in receipt of FDA approval, the
+unavailability of a sole source component and to purchases of components for the
+Company's other products. During 1996, while the Company waited for FDA approval
+of the OcuLight GL, the Company built up its inventory of the OcuLight SL in
+order to be able to allocate substantial manufacturing resources to producing
+the OcuLight GL. When the introduction of the OcuLight GL was delayed due to
+delays in FDA approval and the inability to obtain certain components, the
+Company experienced increases in inventory levels and manufacturing labor
+inefficiencies. The Company expects to continue to devote most of its
+manufacturing capacity to the assembly of the OcuLight GL during the first half
+of 1997. The Company expects to reduce inventory of the OcuLight SL over the
+first half of 1997.
+ 
+FACTORS THAT MAY AFFECT FUTURE RESULTS
+ 
+     Dependence on Visible Photocoagulator.  The Company introduced a new
+semiconductor-based photocoagulator system, the OcuLight GL, in the second half
+of 1996. The Company devoted significant resources to the development and
+commercial introduction of the OcuLight GL. The Company believes that the
+continued growth of its sales, if any, will be substantially dependent upon
+sales of this visible light laser system. While the OcuLight GL has been
+successfully introduced, the Company has continued to face risks associated with
+developing and manufacturing a new product. For example, the Company experienced
+delays in its manufacturing of the OcuLight GL due to the inability of a
+supplier of a sole-source component to deliver components in volume and on a
+timely basis. The Company has worked with this supplier to resolve these
+difficulties and is also actively qualifying a second source for that component.
+The Company expects to ship products incorporating components from this second
+source by the second quarter of 1997. Other difficulties may occur, for example,
+despite testing by the Company, quality and reliability problems may arise which
+may result in reduced bookings, manufacturing rework costs, delays in collecting
+accounts receivable, additional service and warranty costs and a decline in the
+Company's competitive position. Moreover, the Company believes that
+recommendations by ophthalmologists and clinicians for use of this laser will be
+essential for its continued market acceptance. While the Company believes that
+the OcuLight GL has been
+ 
+                                       19
+   21
+ 
+generally accepted by the market, ophthalmologists and clinicians may not
+recommend this laser or related treatments unless they conclude, based upon
+clinical data and other factors, that it is a beneficial alternative to other
+technologies and treatments, including more established argon gas lasers. There
+can be no assurance that the Company will be able to manufacture this visible
+laser system has been on a cost-effective, timely basis or that it will achieve
+widespread market acceptance. Additionally, the OcuLight GL competes directly
+with established on-based and other photocoagulator systems currently sold by
+the Company's competitors and new systems being introduced by competitors and
+the Company expects to continue to experience significant competitive pressures.
+Failure of the OcuLight GL system to achieve widespread market acceptance for
+any reason would have a material adverse effect on the Company's business,
+results of operations and financial condition.
+ 
+     Dependence on Continued Market Acceptance of Infrared
+Photocoagulators.  Prior to the third quarter of 1996, substantially all of the
+Company's revenues had been derived from sales of its OcuLight Diode Laser
+Photocoagulator system (the "OcuLight SL System"), an infrared, invisible light,
+semiconductor-based laser console and interchangeable delivery devices, into the
+ophthalmic medical device market. The ophthalmic community historically has used
+argon-gas photocoagulators which produce visible light and the substantial
+majority of photocoagulators sold for ophthalmic purposes are argon-gas. Because
+sales of the Company's OcuLight SL System represent a significant portion of the
+infrared laser market, increased sales of the Company's infrared system will
+depend on the rate at which users convert to infrared photocoagulators.
+Equipment purchasing decisions may be based on a number of factors, in addition
+to price and performance. For example, many ophthalmologists have been trained
+in medical school to use visible lasers and may be reticent to change to
+infrared lasers. There can be no assurance that the OcuLight SL System will
+continue to be accepted by the market or that other competitive treatments will
+not be developed, and therefore that sales derived from the OcuLight SL System
+will continue to grow at historical rates or be sustainable at current sales
+levels. Any decline in the demand for the OcuLight SL System or any failure of
+sales derived from such products to meet the Company's expectations would have a
+material adverse effect on the business, results of operations and financial
+condition of the Company.
+ 
+     Management of Growth.  With the introduction of the OcuLight GL, the
+Company has recently experienced, and may continue to experience growth in
+production, the number of its employees, the scope of its operating and
+financial systems and the geographic area of its operations. This growth has
+resulted in new and increased responsibilities for management personnel and has
+placed and continues to place a significant strain upon the Company's
+management, operating, inventory and financial systems and resources. To
+accommodate recent growth and to compete effectively and manage future growth,
+if any, the Company has been required to continue to implement and improve
+operational, financial and management information systems, procedures and
+controls and to expand, train, motivate and manage its work force. The Company
+has been implementing a new management information system in manufacturing and
+expects to continue this implementation throughout the Company through 1997. The
+Company's future success will depend on the successful installation of this
+system as well as on the ability of its current and future executive officers to
+operate effectively, both independently and as a group. There can be no
+assurance that the Company's personnel, systems, procedures and controls will be
+adequate to support the Company's existing and future operations. Any failure to
+implement and improve the Company's operational, financial and management
+systems or to expand, train, motivate or manage employees could have a material
+adverse effect on the Company's business, results of operations and financial
+condition. Additionally, the Company is in the process of relocating to a larger
+facility. There can be no assurance that the Company's operations will not be
+disrupted during such move, possibly causing a material adverse effect on the
+Company's results of operations.
+ 
+     Dependence on Development of New Products and New Applications.  The
+Company's future success is dependent upon, among other factors, its ability to
+develop, obtain regulatory approval, manufacture and introduce on a timely and
+cost-effective basis as well as successfully sell and achieve market acceptance
+of new products and applications and enhanced versions of existing products. The
+extent of, and rate at which, market acceptance and penetration are achieved by
+future products, is a function of many variables, including price, safety,
+efficacy, reliability, marketing and sales efforts, the development of new
+applications for these products and general economic conditions affecting
+purchasing patterns. In 1996, the Company developed a
+ 
+                                       20
+   22
+ 
+new product which is intended to be used in the dermatology market to treat
+vascular and pigmented skin lesions. The new product, the DioLite 532 will
+deliver pulsed laser power through a variety of fiber optic delivery device
+handpieces. The Company has submitted a 510(k) notification for the DioLite 532.
+There can be no assurance that the FDA will not require clinical data or that
+the FDA will grant 510(k) clearance in a timely manner, if at all. Even if the
+Company's products receive FDA clearance or approval, there can be no assurance
+that such products will achieve clinical acceptance or that the Company can
+successfully manage the introduction of such product into the dermatology
+market, a market that the Company's products do not currently address and in
+which the Company has no experience. The failure of the Company to successfully
+develop and introduce new products or enhanced versions of existing products
+could have a material adverse effect on the Company's business, operating
+results and financial condition. The Company is seeking to expand the market for
+its existing and new products by working with clinicians and third parties to
+identify new applications for its products, validating new procedures which
+utilize its products and responding more effectively to new procedures. There
+can be no assurance that the Company's efforts to develop new applications for
+its products will be successful, that it can obtain regulatory approvals to use
+its products in new clinical applications in a timely manner, or at all, or gain
+satisfactory market acceptance for such new applications. Failure to develop and
+achieve market acceptance of new applications would have a material adverse
+effect on the Company's business, results of operations and financial condition.
+ 
+     Dependence on Key Manufacturers and Suppliers.  The Company relies on third
+parties to manufacture substantially all of the components used in its products,
+although the Company assembles critical subassemblies as well as the final
+product at its facility in Mountain View, California. There are risks associated
+with the use of independent manufacturers, including unavailability of or delays
+in obtaining adequate supplies of components and potentially reduced control of
+quality, production costs and the timing of delivery. The Company has qualified
+two or more sources for most of the components used in its products. Certain
+semiconductor laser components purchased from SDL, Inc. ("SDL") are not readily
+available from other suppliers. During last half 1996 and first quarter 1997 the
+Company has experienced delays in its manufacturing of the OcuLight GL due to
+the inability of SDL to deliver components in volume and on a timely basis. The
+Company is working with this supplier to resolve these difficulties and is
+actively working to qualify a second source for this component and other
+components. The Company expects to commence products incorporating this
+alternative sourced component in the second quarter of 1997. The process of
+qualifying suppliers is ongoing, particularly as new products are introduced and
+may be lengthy. The Company does not have long-term or volume purchase
+agreements with any of its suppliers and currently purchases components on a
+purchase order basis. No assurance can be given that these components will be
+available in the quantities required by the Company, on reasonable terms, or at
+all. Establishing its own capabilities to manufacture these components would
+require significant scale-up expenses and additions to facilities and personnel
+and could significantly decrease the Company's profit margins. The Company's
+business, results of operations and financial condition would be adversely
+affected if it is unable to continue to obtain components as required at a
+reasonable cost
+ 
+     Fluctuations in Quarterly Operating Results.  Although the Company has been
+profitable on an annual and quarterly basis for the last four years, the
+Company's sales and operating results have varied substantially on a quarterly
+basis and such fluctuations are expected to continue in future periods. The
+Company believes that its gross margins in 1997 will continue to be lower than
+gross margins in 1996, primarily because of increases in fixed costs incurred to
+support expansion of the Company's business, costs associated with the OcuLight
+GL and the downward trend in average selling prices, primarily due to increased
+competition. In addition, the Company expects international sales of the
+OcuLight GL to exceed domestic sales of this product during the first quarter of
+1997. The gross margins on international shipments of the OcuLight GL are
+significantly lower than the gross margins on domestic shipments of the OcuLight
+GL, primarily due distributor discounts. Additionally, the Company expects to
+continue to incur increased operating expenses in the first half of 1997
+associated with the introduction of the OcuLight GL. Such increases may result
+in lower operating margins in the first half of 1997 slightly offset by a higher
+percentage of sales to domestic customers. The ability of the Company to
+increase its operating margins during the first half of 1997 and thereafter will
+ 
+                                       21
+   23
+ 
+depend primarily on continued receipt of sole source components and
+qualification of a second source, successful and timely manufacturing of the
+OcuLight GL and continued market acceptance of the OcuLight GL as well as
+increased sales of the OcuLight SL Systems. The Company's operating results are
+affected by a number of factors, many of which are beyond the Company's control.
+Factors contributing to these fluctuations include the timing of the
+introduction and market acceptance of new products or product enhancements by
+the Company and its competitors, the cost and availability of components and
+subassemblies, changes in pricing by the Company and its competitors, the timing
+of the development and market acceptance of new applications for the Company's
+products, the relatively long and highly variable sales cycle for the Company's
+products to hospitals and other health care institutions, fluctuations in
+economic and financial market conditions and resulting changes in customers' or
+potential customers' budgets and increased product development costs. Any
+inability to obtain adequate quantities of a sole-source component for the
+OcuLight GL would adversely impact the Company's ability to ship the OcuLight
+GL. In addition to these factors, the Company's quarterly results have been and
+are expected to continue to be affected by seasonal factors. The Company
+manufactures its products to forecast rather than to outstanding purchase
+orders, and products are typically shipped shortly after receipt of a purchase
+order. While backlog increased in 1996 because of manufacturing difficulties
+associated with the Company's new product, the Company does not expect
+significant backlog in the future and the amount of backlog at any particular
+date is generally not indicative of its future level of sales. Although the
+Company's manufacturing procedures are designed to assure rapid response to
+customer orders, they may in certain instances create a risk of excess or
+inadequate inventory levels if orders do not match forecasts. The Company
+increased its inventory of the OcuLight SL system during the first three
+quarters of 1996 in anticipation of allocating substantial manufacturing
+resources to produce the OcuLight GL in the fourth quarter of 1996. The Company
+expects to reduce inventory of the OcuLight SL through the second half of 1997.
+The Company's expense levels are based, in part, on expected future sales. If
+sales levels in a particular quarter do not meet expectations, the Company may
+be unable to adjust operating expenses quickly enough to compensate for the
+shortfall, and the Company's results of operations may be adversely affected. In
+addition, the Company has historically made a significant portion of each
+quarter's product shipments near the end of the quarter. If that pattern
+continues, even short delays in shipment of products at the end of a quarter
+could have a material adverse effect on results of operations for such quarter.
+As a result of the above factors, sales for any future quarter are not
+predictable with any significant degree of accuracy and operating results in any
+period should not be considered indicative of the results to be expected for any
+future period. There can be no assurance that the Company will remain profitable
+in the future or that operating results will not vary significantly.
+ 
+     Competition.  Competition in the market for devices used for ophthalmic
+treatments is intense and is expected to increase. This market is also
+characterized by rapid technological innovation and change and the Company's
+products could be rendered obsolete as a result of future innovations. The
+Company's competitive position depends on a number of factors including product
+performance, characteristics and functionality, ease of use, scalability,
+durability and cost. In addition to photocoagulators, the Company competes with
+pharmaceuticals, other technologies and other surgical techniques. Although many
+of the Company's current competitors do not currently sell semiconductor lasers
+such as those used in the Company's products, such competitors could incorporate
+these semiconductor lasers into their products in the future and compete
+directly with the Company. The Company's principal competitors are Coherent,
+Inc., Nidek, Zeiss, Keeler and HGM Medical Laser Systems, Inc. Of these
+companies, only Nidek, Zeiss and Keeler currently offer a semiconductor-based
+laser system. Other competitors have substantially greater financial,
+engineering, product development, manufacturing, marketing and technical
+resources than the Company. Such companies also have greater name recognition
+than the Company and long-standing customer relationships. In addition, there
+can be no assurance that other medical companies, academic and research
+institutions or others will not develop new technologies or therapies, including
+medical devices, surgical procedures or pharmacological treatments and obtain
+regulatory approval for products utilizing such techniques that are more
+effective in treating the ophthalmic conditions targeted by the Company or are
+less expensive than the Company's current or future products, and that the
+Company's technologies and products would not be rendered obsolete by such
+developments. Any such developments could have a material adverse effect on the
+business, financial condition and results of operations of the Company.
+ 
+                                       22
+   24
+ 
+     Dependence on Collaborative Relationships.  The Company has entered into
+collaborative relationships with academic medical centers and physicians in
+connection with the research and development and clinical testing of its
+products. The Company plans to collaborate with third parties to develop and
+commercialize existing and new products. In May 1996, the Company executed an
+agreement with PDT, a maker of photodynamic drugs, under which the Company and
+PDT will collaborate to develop a device which will emit a laser beam to
+activate a photodynamic drug being developed by PDT to achieve a desired
+therapeutic result. The development of this new photodynamic system will require
+at least three years and significant financial and other resources. There can be
+no assurance that this collaborative development effort will continue or that it
+will result in the successful development and introduction of a photodynamic
+system. The Company believes that these current and future relationships are
+important because they would allow the Company greater access to funds, to
+research, development and testing resources and to manufacturing, sales and
+distribution resources. However, the amount and timing of resources to be
+devoted to these activities are not within the Company's control. There can be
+no assurance that such parties will perform their obligations as expected or
+that the Company's reliance on others for clinical development, manufacturing
+and distribution of its products will not result in unforeseen problems.
+Further, there can be no assurance that the Company's collaborative partners
+will not develop or pursue alternative technologies either on their own or in
+collaboration with others, including the Company's competitors, as a means of
+developing or marketing products for the diseases targeted by the collaborative
+programs and by the Company's products. The failure of any current or future
+collaboration efforts could have a material adverse effect on the Company's
+ability to introduce new products or applications and therefore could have a
+material adverse effect on the Company's business, results of operations and
+financial condition.
+ 
+     Dependence on International Sales.  The Company derives, and expects to
+continue to derive, a large portion of its revenue from international sales. In
+1996, 1995 and 1994, the Company's international sales were $6.1 million, $4.3
+million, and $3.5 million, or 49.6%, 48.7% and 48.7%, respectively, of total
+sales. Therefore, a large portion of the Company's revenues will continue to be
+subject to the risks associated with international sales, including fluctuations
+in foreign currency exchange rates, shipping delays, generally longer
+receivables collection periods, changes in applicable regulatory policies,
+international monetary conditions, domestic and foreign tax policies, trade
+restrictions, duties and tariffs, and economic and political instability. Each
+of these factors could have a significant impact on the Company's ability to
+deliver products on a competitive and timely basis.
+ 
+     Patents and Proprietary Rights.  The Company's success and ability to
+compete is dependent in part upon its proprietary information. The Company
+relies on a combination of patents, trade secrets, copyright and trademark laws,
+nondisclosure and other contractual agreements and technical measures to protect
+its intellectual property rights. The Company files patent applications to
+protect technology, inventions and improvements that are significant to the
+development of its business. The Company has been issued six United States
+patents on the technologies related to its products and processes. The Company
+has applied for two additional patents related to its solid state laser
+products. There can be no assurance that any of the Company's patent
+applications will issue as patents, that any patents now or hereafter held by
+the Company will offer any degree of protection, or that the Company's patents
+or patent applications will not be challenged, invalidated or circumvented in
+the future. Moreover, there can be no assurance that the Company's competitors,
+many of which have substantial resources and have made substantial investments
+in competing technologies, will not seek to apply for and obtain patents that
+will prevent, limit or interfere with the Company's ability to make, use or sell
+its products either in the United States or in international markets.
+ 
+     In addition to patents, the Company relies on trade secrets and proprietary
+know-how which it seeks to protect, in part, through proprietary information
+agreements with employees, consultants and other parties. The Company's
+proprietary information agreements with its employees and consultants contain
+industry standard provisions requiring such individuals to assign to the Company
+without additional consideration any inventions conceived or reduced to practice
+by them while employed or retained by the Company, subject to customary
+exceptions. There can be no assurance that proprietary information agreements
+with employees, consultant and others will not be breached, that the Company
+would have adequate remedies for any breach,
+ 
+                                       23
+   25
+ 
+or that the Company's trade secrets will not otherwise become known to or
+independently developed by competitors.
+ 
+     The laser and medical device industry is characterized by frequent
+litigation regarding patent and other intellectual property rights and companies
+in the medical device industry have employed intellectual property litigation to
+gain a competitive advantage. Numerous patents are held by others, including
+academic institutions and competitors of the Company. Because patent
+applications are maintained in secrecy in the United States until patents are
+issued and are maintained in secrecy for a period of time outside the United
+States, the Company has not conducted any searches to determine whether the
+Company's technology infringes any patents or patent applications. The Company
+has from time to time been notified of, or has otherwise been made aware of
+claims that it may be infringing upon patents or other proprietary intellectual
+property owned by others. If it appears necessary or desirable, the Company may
+seek licenses under such patents or proprietary intellectual property. Although
+patent holders commonly offer such licenses, no assurance can be given that
+licenses under such patents or intellectual property will be offered or that the
+terms of any offered licenses will be reasonable or will not adversely impact
+the Company's operating results. Any claims, with or without merit, could be
+time-consuming, result in costly litigation and diversion of technical and
+management personnel, cause shipment delays or require the Company to develop
+non-infringing technology or to enter into royalty or licensing agreements.
+Although patent and intellectual property disputes in the medical device area
+have often been settled through licensing or similar arrangements, costs
+associated with such arrangements may be substantial and could include ongoing
+royalties. An adverse determination in a judicial or administrative proceeding
+or failure to obtain necessary licenses could prevent the Company from
+manufacturing and selling its products, which would have a material adverse
+effect on the Company's business, results of operations and financial condition.
+Conversely, litigation may be necessary to enforce patents issued to the
+Company, to protect trade secrets or know-how owned by the Company or to
+determine the enforceability, scope and validity of the proprietary rights of
+others. Both the defense and prosecution of intellectual property suits or
+interference proceedings are costly and time consuming.
+ 
+     Government Regulation.  The medical devices marketed and manufactured by
+the Company are subject to extensive regulation by the FDA and, in some
+instances, by foreign and state governments. Pursuant to the Federal Food, Drug
+and Cosmetic Act of 1976, as amended, and the regulations promulgated
+thereunder, the FDA regulates the clinical testing, manufacture, labeling, sale,
+distribution and promotion of medical devices. Before a new device can be
+introduced into the market, the manufacturer must obtain market clearance
+through either the 510(k) premarket notification process or the lengthier
+premarket approval ("PMA") application process. Obtaining these approvals can
+take a long time and delay the introduction of a product. For example, the
+introduction of the OcuLight GL in the United States was delayed about three
+months from the Company's expectations due to the longer than expected time
+period required to obtain FDA premarket clearance. Noncompliance with applicable
+requirements, including good manufacturing practices ("GMP"), can result in,
+among other things, fines, injunctions, civil penalties, recall or seizure of
+products, total or partial suspension of production, failure of the government
+to grant premarket clearance or premarket approval for devices, withdrawal of
+marketing approvals, and criminal prosecution. The FDA also has the authority to
+request repair, replacement or refund of the cost of any device manufactured or
+distributed by the Company. The failure of the Company to obtain government
+approvals or any delays in receipt of such approvals would have a material
+adverse effect on the Company's business, results of operations and financial
+condition.
+ 
+     Reimbursement.  The Company's products are typically purchased by doctors,
+clinics, hospitals and other users, which bill various third-party payors, such
+as governmental programs and private insurance plans, for the health care
+services provided to their patients. Third-party payors carefully review and are
+increasingly challenging the prices charged for medical products and services.
+Reimbursement rates from private companies vary depending on the procedure
+performed, the third-party payor, the insurance plan and other factors. Medicare
+reimburses hospitals on a prospectively-determined fixed amount for the costs
+associated with an in-patient hospitalization based on the patient's discharge
+diagnosis, and reimburses physicians a prospectively-determined fixed amount
+based on the procedure performed, regardless of the actual costs incurred by the
+hospital or physician in furnishing the care and unrelated to the specific
+devices used in that procedure. Third-party payors are increasingly scrutinizing
+whether to cover new products and the level of
+ 
+                                       24
+   26
+ 
+reimbursement for covered products. While the Company believes that the laser
+procedures using its products have generally been reimbursed, payors may deny
+coverage and reimbursement for the Company's products if they determine that the
+device was not reasonable and necessary for the purpose for which used, was
+investigational or not cost-effective. Additionally, there can be no assurance
+that PDT will be able to obtain coverage for its use of drugs with the Company's
+OcuLight Systems, or that the reimbursement will be adequate to cover the
+treatment procedure. Failure by doctors, clinics, hospitals and other users of
+the Company's products to obtain adequate reimbursement for use of the Company's
+products from third-party payors, and/or changes in government legislation or
+regulation or in private third-party payors' policies toward reimbursement for
+procedures employing the Company's products could have a material adverse effect
+on the Company's business, results of operations and financial condition.
+Moreover, the Company is unable to predict what legislation or regulation, if
+any, relating to the health care industry or third-party coverage and
+reimbursement may be enacted in the future, or what effect such legislation or
+regulation may have on the Company.
+ 
+     Product Liability and Insurance.  The Company may be subject to product
+liability claims in the future. The Company's products are highly complex, used
+to treat extremely delicate eye tissue and are often used in situations where
+there is a high risk of serious injury or adverse side effects. In addition,
+although the Company recommends that its disposable products only be used once
+and so prominently labels these disposables, the Company believes that certain
+customers may reuse these disposables. Were such a disposable not adequately
+sterilized by the customer between such uses, a patient could suffer serious
+consequences, possibly resulting in a suit against the Company for damages.
+Accordingly, the manufacture and sale of medical products entails significant
+risk of product liability claims. Although the Company maintains product
+liability insurance with coverage limits of $5.0 million per occurrence and an
+annual aggregate maximum of $6.0 million, there can be no assurance that the
+coverage of the Company's insurance policies will be adequate. Such insurance is
+expensive and in the future may not be available on acceptable terms, if at all.
+A successful claim brought against the Company in excess of its insurance
+coverage could have a material adverse effect on the Company's business, results
+of operations and financial condition. To date, the Company has not experienced
+any product liability claims.
+ 
+     Volatility of Stock Price.  The trading price of the Company's Common Stock
+has been subject to wide fluctuations in response to a variety of factors since
+the Company's initial public offering in February 1996, including quarterly
+variations in operating results, announcements of technological innovations or
+new products by the Company or its competitors, developments in patents or other
+intellectual property rights, general conditions in the ophthalmic laser
+industry, revised earning estimates, comments or recommendations issued by
+analysts who follow the Company, its competitors or the ophthalmic laser
+industry and general economic and market conditions. Additionally, the stock
+market in general, and the market for technology stocks in particular, have
+experienced extreme price volatility in recent years. Volatility in price and
+volume has had a substantial effect on the market prices of many technology
+companies for reasons unrelated or disproportionate to the operating performance
+of such companies. These broad market fluctuations could have a significant
+impact on the market price of the Common Stock. See Item 5. Market for
+Registrant's Common Equity and Related Stockholder Matters-Market Information
+for Common Equity.
+ 
+ITEM 8.  FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+ 
+     Balance sheets of the Company as of December 31, 1996 and 1995 and
+statements of income, stockholders' equity and cash flows for each of the three
+years in the period ended December 31, 1996, together with the related notes and
+the report of Coopers & Lybrand L.L.P., independent accountants, are set forth
+on the following pages. Other required financial information is set forth
+herein, as more fully described in Item 14 hereof.
+ 
+                                       25
+   27
+ 
+                       REPORT OF INDEPENDENT ACCOUNTANTS
+ 
+To the Board of Directors and Stockholders
+IRIDEX Corporation
+Mountain View, California
+ 
+     We have audited the accompanying consolidated balance sheets of IRIDEX
+Corporation and subsidiaries as of December 31, 1996 and 1995 and the related
+consolidated statements of income, stockholders' equity and cash flows for each
+of the three years in the period ended December 31, 1996. These financial
+statements are the responsibility of the Company's management. Our
+responsibility is to express an opinion on those financial statements based on
+our audits.
+ 
+     We conducted our audits in accordance with generally accepted auditing
+standards. Those standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of material
+misstatement. An audit includes examining, on a test basis, evidence supporting
+the amounts and disclosures in the financial statements. An audit also includes
+assessing the accounting principles used and significant estimates made by
+management, as well as evaluating the overall financial statement presentation.
+We believe that our audits provide a reasonable basis for our opinion.
+ 
+     In our opinion, the consolidated financial statements referred to above
+present fairly, in all material respects, the consolidated financial position of
+IRIDEX Corporation and subsidiaries as of December 31, 1996 and 1995, and the
+consolidated results of its operations and its cash flows for each of the three
+years in the period ended December 31, 1996 in conformity with generally
+accepted accounting principles.
+ 
+                                          /s/ COOPERS & LYBRAND L.L.P.
+ 
+San Jose, California
+February 10, 1997
+ 
+                                       26
+   28
+ 
+                               IRIDEX CORPORATION
+ 
+                          CONSOLIDATED BALANCE SHEETS
+                       (IN THOUSANDS, EXCEPT SHARE DATA)
+ 
+
+
+                                                                               DECEMBER 31,
+                                                                            ------------------
+                                                                             1996        1995
+                                                                            -------     ------
+                                                                                  
+ASSETS
+Current assets:
+  Cash and cash equivalents...............................................  $ 4,963     $1,227
+  Available-for-sale securities...........................................    4,951         --
+  Accounts receivable, net of allowance for doubtful accounts of $265 in
+     1996 and $383 in 1995................................................    5,390      2,478
+  Inventories.............................................................    1,859      1,256
+  Prepaids and other current assets.......................................      122        285
+  Deferred income taxes...................................................      519        795
+                                                                            -------     ------
+          Total current assets............................................   17,804      6,041
+  Available-for-sale securities...........................................    5,200         --
+Property and equipment, net...............................................      655        254
+Deferred income taxes.....................................................       48        100
+                                                                            -------     ------
+          Total assets....................................................  $23,707     $6,395
+                                                                            =======     ======
+ 
+LIABILITIES AND STOCKHOLDERS' EQUITY
+Current liabilities:
+  Accounts payable........................................................  $   535     $  293
+  Accrued expenses........................................................    1,684      1,401
+  Current portion of capital lease obligations............................        8          8
+                                                                            -------     ------
+          Total current liabilities.......................................    2,227      1,702
+Capital lease obligations, net of current portion.........................        2          8
+                                                                            -------     ------
+          Total liabilities...............................................    2,229      1,710
+                                                                            -------     ------
+ 
+Commitments and contingencies (Note 5).
+ 
+Stockholders' Equity:
+  Convertible Preferred Stock, $.01 par value:
+     Authorized: Series A through D1: 2,000,000 shares
+     Issued and outstanding: none in 1996 and 1,891,663 shares in 1995....       --         19
+     (Liquidation value: $5,219)
+  Common Stock, $.01 par value:
+     Authorized: 30,000,000 shares;
+     Issued and outstanding: 6,350,180 shares in 1996 and 1,505,424 shares
+      in 1995.............................................................       63         15
+  Additional paid-in capital..............................................   21,248      5,489
+  Retained earnings (deficit).............................................      167       (838)
+                                                                            -------     ------
+       Total stockholders' equity.........................................   21,478      4,685
+                                                                            -------     ------
+          Total liabilities and stockholders' equity......................  $23,707     $6,395
+                                                                            =======     ======
+
+ 
+  The accompanying notes are an integral part of these consolidated financial
+                                   statements
+ 
+                                       27
+   29
+ 
+                               IRIDEX CORPORATION
+ 
+                       CONSOLIDATED STATEMENTS OF INCOME
+                     (IN THOUSANDS, EXCEPT PER SHARE DATA)
+ 
+
+
+                                                                     YEAR ENDED DECEMBER 31,
+                                                                  -----------------------------
+                                                                   1996        1995       1994
+                                                                  -------     ------     ------
+                                                                                
+Sales...........................................................  $12,364     $8,801     $7,182
+Cost of sales...................................................    4,899      2,798      2,423
+                                                                  -------     ------     ------
+          Gross profit..........................................    7,465      6,003      4,759
+                                                                  -------     ------     ------
+Operating expenses:
+  Research and development......................................    1,286        742        629
+  Sales, general and administrative.............................    5,197      3,787      3,383
+  Nonrecurring charge for acquisition of technology.............       --         80         --
+                                                                  -------     ------     ------
+          Total operating expenses..............................    6,483      4,609      4,012
+                                                                  -------     ------     ------
+          Income from operations................................      982      1,394        747
+Interest expense................................................       --        (16)       (29)
+Interest income.................................................      691         64         22
+Other income....................................................        8         10          6
+                                                                  -------     ------     ------
+          Income before benefit from (provision for) income
+            taxes...............................................    1,681      1,452        746
+Benefit from (provision for) income taxes.......................     (676)      (452)     1,039
+                                                                  -------     ------     ------
+          Net income............................................  $ 1,005     $1,000     $1,785
+                                                                  =======     ======     ======
+Net income per share............................................  $  0.16     $ 0.22     $ 0.40
+                                                                  =======     ======     ======
+Shares used in per share calculation............................    6,478      4,630      4,515
+                                                                  =======     ======     ======
+
+ 
+  The accompanying notes are an integral part of these consolidated financial
+                                  statements.
+ 
+                                       28
+   30
+ 
+                               IRIDEX CORPORATION
+ 
+                CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY
+                       (IN THOUSANDS, EXCEPT SHARE DATA)
+ 
+
+
+                                        CONVERTIBLE
+                                      PREFERRED STOCK        COMMON STOCK      ADDITIONAL   RETAINED
+                                    -------------------   ------------------    PAID-IN     EARNINGS
+                                      SHARES     AMOUNT    SHARES     AMOUNT    CAPITAL     (DEFICIT)   TOTAL
+                                    ----------   ------   ---------   ------   ----------   --------   -------
+                                                                                  
+Balances, December 31, 1993.......   1,891,663    $ 19    1,108,625    $ 11     $  5,235    $ (3,623)  $ 1,642
+  Issuance of Common Stock under
+     stock option plan............          --      --       56,192       1            8          --         9
+  Net income......................          --      --           --      --           --       1,785     1,785
+                                    ----------    ----    ---------     ---      -------     -------   -------
+Balances, December 31, 1994.......   1,891,663      19    1,164,817      12        5,243      (1,838)    3,436
+  Issuance of Common Stock........          --      --       90,800       1          181          --       182
+  Issuance of Common Stock under
+     stock option plan............          --      --      249,807       2           65          --        67
+  Net income......................          --      --           --      --           --       1,000     1,000
+                                    ----------    ----    ---------     ---      -------     -------   -------
+Balances, December 31, 1995.......   1,891,663      19    1,505,424      15        5,489        (838)    4,685
+  Issuance of Common Stock........          --      --    1,982,500      20       15,639          --    15,659
+  Issuance of Common Stock under
+     stock option plan............          --      --        9,096      --            9          --         9
+  Issuance of Common Stock under
+     Employee Stock Purchase
+     Plan.........................          --      --       15,665      --          120          --       120
+  Conversion of Preferred Stock...  (1,891,663)    (19)   2,837,495      28           (9)         --        --
+  Net Income......................          --      --           --      --           --       1,005     1,005
+                                    ----------    ----    ---------     ---      -------     -------   -------
+ 
+Balances, December 31, 1996.......          --    $ --    6,350,180    $ 63     $ 21,248    $    167   $21,478
+                                    ==========    ====    =========     ===      =======     =======   =======
+
+ 
+    Accompanying notes are an integral part of these consolidated financial
+                                  statements.
+ 
+                                       29
+   31
+ 
+                               IRIDEX CORPORATION
+ 
+                     CONSOLIDATED STATEMENTS OF CASH FLOWS
+                                 (IN THOUSANDS)
+ 
+
+
+                                                                         YEAR ENDED DECEMBER 31,
+                                                                     -------------------------------
+                                                                       1996        1995       1994
+                                                                     --------     ------     -------
+                                                                                    
+Cash flows from operating activities:
+  Net income.......................................................  $  1,005     $1,000     $ 1,785
+  Adjustments to reconcile net income to net cash provided by (used
+     in) operating activities:
+     Depreciation..................................................       238         92          65
+     Provision for doubtful accounts...............................        --         20         292
+     Nonrecurring charge for acquisition of technology.............        --         80          --
+     Changes in operating assets and liabilities:
+       Accounts receivable.........................................    (2,912)      (548)       (912)
+       Inventories.................................................      (603)      (350)        201
+       Prepaids and other current assets...........................       163         10          18
+       Deferred income taxes.......................................       328        144      (1,039)
+       Accounts payable............................................       242         75         (65)
+       Accrued expenses............................................       283        373         391
+                                                                     --------     ------      ------
+       Net cash provided by (used in) operating activities.........    (1,256)       896         736
+                                                                     --------     ------      ------
+Cash flows from investing activities:
+  Purchases of available-for-sale securities.......................   (61,305)        --          --
+  Proceeds from sale of available-for-sale securities..............    51,154         --          --
+  Acquisition of property and equipment............................      (639)      (235)        (32)
+                                                                     --------     ------      ------
+       Net cash used in investing activities.......................   (10,790)      (235)        (32)
+                                                                     --------     ------      ------
+Cash flows from financing activities:
+  Proceeds from bank borrowings....................................        --         --         252
+  Payment on bank borrowings.......................................        --       (175)       (547)
+  Payments of capital lease obligations............................        (6)       (10)         (3)
+  Issuance of Common Stock, net....................................    15,788         67           9
+                                                                     --------     ------      ------
+       Net cash provided by (used in) financing activities.........    15,782       (118)       (289)
+                                                                     --------     ------      ------
+          Net increase in cash and cash equivalents................     3,736        543         415
+Cash and cash equivalents, beginning of year.......................     1,227        684         269
+                                                                     --------     ------      ------
+Cash and cash equivalents, end of year.............................  $  4,963     $1,227     $   684
+                                                                     ========     ======      ======
+SUPPLEMENTAL DISCLOSURE OF CASH FLOW INFORMATION:
+  Cash paid during the period for:
+     Interest......................................................  $     --     $   16     $    29
+     Income taxes..................................................  $     24     $   27     $    --
+SUPPLEMENTAL DISCLOSURE OF NONCASH INVESTING AND FINANCING
+  ACTIVITIES:
+  Additions to property and equipment and capital lease
+     obligations...................................................  $     --     $   --     $    11
+  Issuance of Common Stock in connection with acquisition..........  $     --     $  182     $    --
+  Assets acquired in connection with acquisition...................  $     --     $  549     $    --
+  Liabilities assumed in connection with acquisition...............  $     --     $  447     $    --
+
+ 
+  The accompanying notes are an integral part of these consolidated financial
+                                  statements.
+ 
+                                       30
+   32
+ 
+                               IRIDEX CORPORATION
+ 
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+ 
+1.  SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+ 
+  Description of Business
+ 
+     IRIDEX Corporation (the "Company") is a world-wide provider of
+semiconductor-based photocoagulator systems used to treat eye disease, including
+the three leading causes of irreversible blindness which are age-related macular
+degeneration, diabetic retinopathy and glaucoma. The Company conducts its
+business through its wholly-owned subsidiaries, IRIS Medical Instrument, Inc.
+and Light Solutions Corporation.
+ 
+  Financial Statement Presentation
+ 
+     The consolidated financial statements include the accounts of the Company
+and its wholly-owned subsidiaries. All significant intercompany accounts and
+transactions have been eliminated.
+ 
+  Cash and Cash Equivalents
+ 
+     The Company considers all highly liquid investments with original
+maturities of 90 days or less at the time of purchase to be cash equivalents.
+ 
+  Available-for-Sale Securities
+ 
+     All marketable securities as of December 31, 1996 are considered to be
+available-for-sale and therefore are carried at fair value. Available-for-sale
+securities classified as current assets have scheduled maturities of less than
+one year, while available-for-sale securities classified as non current assets
+have scheduled maturities of more than one year. When material, unrealized
+holding gains and losses on such securities are reported net of related taxes as
+a separate component of stockholders' equity and computed using the specific
+identification cost method. Realized gains and losses on sales of all such
+securities are reported in interest and other income and computed using the
+specific identification cost method.
+ 
+  Inventories
+ 
+     Inventories are stated at the lower of cost or market. Cost is determined
+on a standard cost basis which approximates the first-in, first-out (FIFO)
+method. Appropriate consideration is given to obsolescence, excessive levels,
+deterioration and other factors in evaluating lower of cost or market.
+ 
+  Property and Equipment
+ 
+     Property and equipment are stated at cost less accumulated depreciation and
+amortization. Depreciation is provided on a straight-line basis over the
+estimated useful lives of the assets, which is generally three years.
+Amortization of property and equipment under capital lease obligations is
+computed using the straight-line method over the shorter of the remaining lease
+term or the estimated useful life of the related assets, typically three years.
+ 
+  Revenue Recognition
+ 
+     The Company recognizes product sales upon shipment of product to the
+customer, upon fulfillment of acceptance terms, if any, and when no significant
+contractual obligations remain outstanding.
+ 
+  Research and Development
+ 
+     Research and development expenditures are charged to operations as
+incurred.
+ 
+  Advertising
+ 
+     The Company expenses advertising costs as they are incurred. Advertising
+expenses for 1996, 1995 and 1994 were $175,000, $49,000 and $52,000,
+respectively.
+ 
+                                       31
+   33
+ 
+                               IRIDEX CORPORATION
+ 
+           NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+ 
+  Income Taxes
+ 
+     Income taxes are accounted for under Statement of Financial Accounting
+Standards No. 109, Accounting for Income Taxes (Statement 109). Under Statement
+109, deferred assets and liabilities are recognized for the future consequences
+attributable to differences between the financial statement carrying amounts of
+existing assets and liabilities and their respective tax basis. Deferred tax
+assets and liabilities are measured using enacted tax rates expected to apply to
+taxable income in the years in which those temporary differences are expected to
+be recovered or settled. Valuation allowances are established when necessary to
+reduce deferred tax assets to the amounts expected to be realized.
+ 
+  Computation of Net Income Per Share
+ 
+     Net income per share is computed using the weighted average number of
+common and dilutive common equivalent shares outstanding during the period.
+Dilutive common equivalent shares consist of stock options (using the treasury
+stock method for all periods presented). For those periods prior to the initial
+public offering date, pursuant to the Securities and Exchange Commission Staff
+Accounting Bulletins, common and common equivalents shares issued at prices
+below the public offering price during the 12 months immediately preceding the
+offering date have been included in the calculation as if they were outstanding
+for all periods presented (using the treasury stock method and the initial
+public offering price).
+ 
+  Concentration of Credit Risk
+ 
+     The Company's cash and cash equivalents are deposited in three financial
+institutions and comprise demand and money market accounts.
+ 
+     The Company markets it products to distributors and end-users throughout
+the world. Sales to international distributors are generally made on open credit
+terms. The Company also offers extended payment terms on selected sales
+transactions. Management performs ongoing credit evaluations of the Company's
+customers and maintains an allowance for potential credit losses, but
+historically has not experienced any significant losses related to individual
+customers or group of customers in any particular geographic area.
+ 
+  Use of Estimates
+ 
+     The preparation of financial statements in conformity with generally
+accepted accounting principles requires management to make estimates and
+assumptions that affect the reported amounts of assets and liabilities and
+disclosure of contingent assets and liabilities at the date of the financial
+statements and the reported amounts of revenues and expenses during the
+reporting period. Actual results could differ from those estimates.
+ 
+  Recent accounting pronouncements
+ 
+     During February 1997, the Financial Accounting Standards Board issued
+Statement No. 128, "Earnings per Share," (SFAS 128) which specifies the
+computation, presentation and disclosure requirements for Earnings Per Share.
+SFAS 128 will become effective for the Company's 1997 fiscal year. The impact of
+adopting SFAS 128 on the Company's financial statements has not yet been
+determined.
+ 
+  Reclassifications
+ 
+     Certain amounts in the financial statements have been reclassified to
+conform with the current year's presentation. The reclassification had no impact
+on previously reported working capital, income from operations or net income.
+ 
+                                       32
+   34
+ 
+                               IRIDEX CORPORATION
+ 
+           NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+ 
+2.  ACQUISITION
+ 
+     Effective October 27, 1995, the Company acquired the assets of Light
+Solutions Corporation. Consideration paid consisted of the assumption of certain
+liabilities and the issuance of 90,800 shares of the Company's Common Stock.
+ 
+     The acquisition has been accounted for as a purchase. The fair market value
+of assets acquired, research and development acquired and liabilities assumed is
+as follows (in thousands):
+ 
+
+                                                                            
+        Liabilities assumed..................................................  $ 447
+        Common Stock issued..................................................    182
+        Tangible assets acquired.............................................   (318)
+        Contracts............................................................   (231)
+        Purchased in-process research and development........................    (80)
+                                                                               -----
+                                                                               $  --
+                                                                               =====
+
+ 
+     The amount allocated to purchase in-process technology was expensed on the
+acquisition date.
+ 
+3.  BALANCE SHEET DETAIL
+ 
+  Balance sheet detail comprised:
+ 
+          Available-for-sale securities:
+ 
+     Available-for-sale securities at December 31, 1996 consist of municipal
+notes and corporate debt securities with fair value of $5,200 and $4,951
+respectively. Municipal notes have scheduled maturities from November 2005
+through January 2036; and all corporate debt securities have scheduled
+maturities of less than one year. At December 31, 1996 unrealized holding gains
+and losses were not significant and there were no realized gains or losses on
+sale of available-for-sale securities.
+ 
+
+
+                                                                       DECEMBER 31,
+                                                                     -----------------
+                                                                      1996       1995
+                                                                     ------     ------
+                                                                      (IN THOUSANDS)
+                                                                          
+        Inventories:
+          Raw materials and work in process........................  $  924     $  614
+          Finished goods...........................................     935        642
+                                                                     ------     ------
+                  Total inventories................................  $1,859     $1,256
+                                                                     ======     ======
+
+ 
+
+
+                                                                       DECEMBER 31,
+                                                                     -----------------
+                                                                      1996       1995
+                                                                     ------     ------
+                                                                      (IN THOUSANDS)
+                                                                          
+        Property and Equipment:
+          Equipment................................................  $1,226     $  587
+          Less accumulated depreciation and amortization...........    (571)      (333)
+                                                                     ------     ------
+                  Total property and equipment.....................  $  655     $  254
+                                                                     ======     ======
+
+ 
+                                       33
+   35
+ 
+                               IRIDEX CORPORATION
+ 
+           NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+ 
+
+
+                                                                       DECEMBER 31,
+                                                                     -----------------
+                                                                      1996       1995
+                                                                     ------     ------
+                                                                      (IN THOUSANDS)
+                                                                          
+        Accrued Expenses:
+          Accrued payroll and related expenses.....................  $  562     $  560
+          Accrued Vacation.........................................     169        115
+          Distributor commissions..................................     129         78
+          Accrued warranty.........................................     114        135
+          Income taxes payable.....................................     505        281
+          Other accrued expenses...................................     205        232
+                                                                     ------     ------
+                  Total accrued expenses...........................  $1,684     $1,401
+                                                                     ======     ======
+
+ 
+4.  BANK BORROWINGS
+ 
+     The Company has a revolving line of credit agreement with a bank expiring
+on October 1, 1997, which provides for borrowings of up to $1,000,000 at the
+bank's prime rate plus 0.75% (9.0% at December 31, 1996). The agreement contains
+restrictive covenants including prohibiting payment of dividends without the
+bank's prior consent. The Company was in compliance with these requirements at
+December 31, 1996. There were no borrowings against the credit line at December
+31, 1996.
+ 
+5.  COMMITMENTS AND CONTINGENCIES
+ 
+  Lease Agreements
+ 
+     The Company is relocating its operating facilities and has entered into an
+noncancelable operating lease commencing March 1, 1997. The lease expires in
+2002 and contains a renewal option. Rent expense related to the old facility
+lease was $108,000, $105,000 and $101,000 for the years ended December 31, 1996,
+1995 and 1994, respectively. Rental income related to a facility sublease was
+$7,000, $29,000 and $24,000 for the years ended December 31, 1996, 1995 and
+1994, respectively.
+ 
+     Future minimum lease payments under the new operating leases at December
+31, 1996 are summarized as follows (in thousands):
+ 
+
+
+                                    FISCAL YEAR                       AMOUNT
+                ----------------------------------------------------  ------
+                                                                   
+                  1997..............................................  $  363
+                  1998..............................................     491
+                  1999..............................................     509
+                  2000..............................................     531
+                  2001..............................................     554
+                  2002..............................................      93
+                                                                      ------
+                                                                      $2,541
+                                                                      ======
+
+ 
+  License Agreements
+ 
+     The Company is obligated to pay royalties equivalent to 5% of sales from
+certain products under certain license agreements. Royalty expense was $37,000,
+$28,000 and $13,000 for the years ended December 31, 1996, 1995 and 1994,
+respectively.
+ 
+                                       34
+   36
+ 
+                               IRIDEX CORPORATION
+ 
+           NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+ 
+6.  STOCKHOLDERS' EQUITY
+ 
+INITIAL PUBLIC OFFERING AND REINCORPORATION
+ 
+     In February 1996, the Company was reincorporated from California into
+Delaware, at which time each share of the Company's outstanding California
+Common Stock was exchanged for one share of the Delaware Common Stock. Prior to
+this, on January 10, 1996, the Company effected a 1-for-2 reverse stock split of
+the Company's Common Stock. All Common and Common equivalent shares and per
+share amounts in these financial statements have been adjusted retroactively to
+give effect to the split.
+ 
+     In February 1996, the Company issued 1,600,000 shares of its Common Stock
+in an initial public offering in which an additional 950,000 shares of Common
+Stock were sold by existing stockholders. In March 1996, the Company issued an
+additional 382,500 shares of its Common Stock pursuant to exercise of an over
+allotment option granted to the underwriters in connection with the initial
+public offering. In connection with the initial public offering and the
+underwriters over allotment, the Company received proceeds of $15,659,000, net
+of offering expenses of $2,184,000. In connection with the offering, all shares
+of Convertible Preferred Stock totaling 1,891,663 were converted into 2,837,495
+shares of Common Stock.
+ 
+CONVERTIBLE PREFERRED STOCK
+ 
+     During 1996, the Company amended its Articles of Incorporation to authorize
+2,000,000 shares of undesignated preferred stock. Preferred Stock may be issued
+from time to time in one or more series. As of December 31, 1996, due to
+conversion to Common Stock at initial public offering, the Company had no
+preferred stock issued and outstanding. At December 31,1995, the details for
+Series A, Series B, Series C and Series D Convertible Preferred Stock were (in
+thousands):
+ 
+
+
+                                                                               SHARES OF
+                                                                SHARES        COMMON STOCK     PREFERENTIAL
+                                                 SHARES       ISSUED AND      RESERVED FOR     LIQUIDATION
+              SERIES                AMOUNT     AUTHORIZED     OUTSTANDING      CONVERSION         VALUE
+- ----------------------------------  ------     ----------     -----------     ------------     ------------
+                                                                                
+A.................................  $  191          191            191              286           $  191
+B.................................   1,125          500            500              750            1,125
+C.................................   1,403          432            432              648            1,403
+D.................................   2,479          769            769            1,154            2,500
+                                    ------        -----          -----            -----           ------
+                                    $5,198        1,892          1,892            2,838           $5,219
+                                    ======        =====          =====            =====           ======
+
+ 
+STOCK OPTION PLANS
+ 
+  Amended and Restated 1989 Incentive Stock Plan
+ 
+     The Amended and Restated 1989 Plan (the "1989 Plan") provides for the
+granting to employees (including officers and employee directors) of incentive
+stock options and for the granting to employees (including officers and employee
+directors) and consultants of nonstatutory stock options and stock purchase
+rights ("SPRs"). The exercise price of incentive stock options and SPRs granted
+under the 1989 Plan must be at least equal to the fair market value of the
+shares at the time of grant. With respect to any recipient who owns stock
+possessing more than 10% of the voting power of the Company's outstanding
+capital stock, the exercise price of any option or SPR granted must be at least
+equal to 110% of the fair market value at the time of grant. Options granted
+under the 1989 Plan are exercisable at such times and under such conditions as
+determined by the Administrator; generally over a four year period. The maximum
+term of incentive stock options granted to any recipient must not exceed ten
+years; provided, however, that the maximum term of an incentive stock option
+granted to any recipient possessing more than 10% of the voting power of the
+Company's outstanding capital stock must not exceed five years. In the case of
+SPRs, unless the Administrator determines otherwise, the Company has a
+repurchase option exercisable upon the voluntary or involuntary
+ 
+                                       35
+   37
+ 
+                               IRIDEX CORPORATION
+ 
+           NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+ 
+termination of the purchaser's employment with the Company for any reason
+(including death or disability). Such repurchase option lapses at a rate
+determined by the Administrator. The purchase price for shares repurchased by
+the Company is the original price paid by the purchaser and may be paid by
+cancellation of any indebtedness of the purchaser to the Company.
+ 
+  1995 Director Option Plan
+ 
+     In October 1995, the Company adopted the 1995 Director Option Plan (the
+"Director Plan"), under which members of the Board of Directors are granted
+options to purchase 11,250 shares upon the first to occur of their appointment
+or the adoption of the Director Plan ("First Option") and an option to purchase
+3,750 shares ("Subsequent Option") on July 1 of each year thereafter provided
+that he or she has served on the Board for at least the preceding six months.
+The options granted are at fair market value on the date of grant. The First
+Option vests over a three year period, a twelfth on the last day of each
+calendar quarter after the vesting start date. The Subsequent Option grants vest
+over a one-year period, one fourth on the last day of each calendar quarter
+after all previously granted options have become fully vested. Options granted
+under the Director Plan have a term of ten years.
+ 
+     In the event of merger of the Company with or into another corporation,
+resulting in a change of control, or the sale of substantially all of the assets
+of the Company, each option becomes exercisable in full, shall be assumed by the
+successor corporation, and shall be exercisable 30 days after written notice to
+the holder of the event causing the change in control.
+ 
+     Unless terminated sooner, the plan will terminate in 2005. The Board has
+authority to amend or terminate the Director Plan, provided no such amendment
+may impair the rights of any optionee without the optionee's consent.
+ 
+     Information with respect to activity under these option plans are set forth
+below:
+ 
+
+
+                                                    SHARES               OUTSTANDING OPTIONS
+                                                   AVAILABLE   ---------------------------------------
+                                                      FOR       NUMBER        PRICE PER      AGGREGATE
+                                                     GRANT     OF SHARES        SHARE          PRICE
+                                                   ---------   ---------   ----------------  ---------
+                                                                                 
+Balance, December 31, 1993.......................     62,522     423,815     $0.166 - $1.00       124
+  Additional shares reserved.....................    150,000
+  Options granted................................   (119,500)    119,500              $1.00       119
+  Options exercised..............................                (56,192)            $0.166        (9)
+  Options terminated.............................      5,563      (5,563)    $0.166 - $1.00        (5)
+                                                    --------    --------                       ------
+Balance, December 31, 1994.......................     98,585     481,560     $0.166 - $1.00       229
+  Additional shares reserved.....................    450,000          --                 --        --
+  Options granted................................   (242,000)    242,000      $1.00 - $5.00       352
+  Options exercised..............................               (249,807)    $0.166 - $1.00       (67)
+  Options terminated.............................      6,755      (6,755)    $0.166 - $1.00        (5)
+                                                    --------    --------                       ------
+Balance, December 31, 1995.......................    313,340     466,998     $0.166 - $5.00       509
+  Options granted................................   (275,850)    275,850     $6.00 - $14.88     2,127
+  Options exercised..............................                 (9,096)    $0.166 - $1.00        (8)
+  Options terminated.............................    100,508    (100,508)   $0.166 - $14.75      (421)
+                                                    --------    --------                       ------
+Balance, December 31, 1996.......................    137,998     633,244    $0.166 - $14.88     2,207
+                                                    ========    ========                       ======
+
+ 
+     At December 31, 1996, options to purchase 245,284 shares of the Company's
+Common Stock were exercisable.
+ 
+                                       36
+   38
+ 
+                               IRIDEX CORPORATION
+ 
+           NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+ 
+     The following table summarizes information with respect to stock options
+outstanding at December 31, 1996:
+ 
+
+
+                                           OPTIONS OUTSTANDING                                OPTIONS EXERCISABLE
+                      -------------------------------------------------------------     --------------------------------
+                        NUMBER            WEIGHTED AVERAGE         WEIGHTED AVERAGE       NUMBER        WEIGHTED AVERAGE
+    RANGE OF          OUTSTANDING            REMAINING                 EXERCISE         EXERCISABLE         EXERCISE
+ EXERCISE PRICES      AT 12/31/96     CONTRACTUAL LIFE (YEARS)          PRICE           AT 12/31/96          PRICE
+- -----------------     -----------     ------------------------     ----------------     -----------     ----------------
+                                                                                         
+$ 0.166 - $ 0.166        78,203                 3.91                   $  0.166            78,203            $0.166
+$ 1.000 - $ 1.000       229,191                 7.68                   $  1.000           144,709            $1.000
+$ 2.000 - $ 2.000       101,000                 8.79                   $  2.000            21,590            $2.000
+$ 5.000 - $ 7.750       206,450                 9.79                   $  7.229               782            $5.799
+$14.750 - $14.880        18,400                 9.46                   $ 14.856                --                --
+                      -----------                                                       -----------
+$ 0.166 - $14.880       633,244                 8.13                   $  3.490           245,284            $0.858
+                      =========                                                         =========
+
+ 
+     The following information concerning the Company's stock option and
+employee stock purchase plans is provided in accordance with SFAS No. 123,
+"Accounting for Stock-Based Compensation." The Company accounts for such plans
+in accordance with APB No. 25 and related Interpretations.
+ 
+     The fair value of each option grant has been estimated on the date of grant
+using the Black-Scholes option pricing model with the following weighted average
+assumptions used grants in 1996 and 1995:
+ 
+
+
+                                                 1996                            1995
+                                     -----------------------------   -----------------------------
+                                        GROUP A         GROUP B         GROUP A         GROUP B
+                                     -------------   -------------   -------------   -------------
+                                                                         
+Risk-free Interest Rates...........  5.76% - 6.70%   5.06% -6.64%    5.79% - 6.81%   5.69% - 7.62%
+Expected Life from Date of
+  Vesting..........................     3 years         2 years         3 years         2 years
+Volatility.........................   0.00 - 0.62     0.00 - 0.62         --              --
+Dividend Yield.....................       --              --              --              --
+
+ 
+     The weighted average expected life was calculated based on the exercise
+behavior of each group. Group A represents officers and directors who are a
+smaller group holding a greater average number of options than other option
+holders and who tend to exercise later in the vesting period. Group B are all
+other option holders, virtually all of whom are employees. This group tends to
+exercise earlier in the vesting period. For the period up to the Company's
+initial public offering, zero volatility was used in the calculation.
+ 
+     The weighted average fair value of those options granted in 1996 and 1995
+was $4.42 and $0.37, respectively.
+ 
+     The Company has also estimated the fair value for the purchase rights
+issued under the Company's Employee Stock Purchase Plan, above, under the
+Black-Scholes valuation model using the following assumptions for 1996:
+ 
+         Risk-free Interest Rates          5.37%
+         Expected Life                     0.5 year
+         Volatility                           0.62
+         Dividend Yield                    --
+ 
+     The weighted average fair value of those purchase rights granted in 1996
+was $3.08.
+ 
+                                       37
+   39
+ 
+                               IRIDEX CORPORATION
+ 
+           NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+ 
+     The following proforma income information has been prepared following the
+provisions of SFAS No. 123:
+ 
+
+
+                                                                           1996         1995
+                                                                         --------     --------
+                                                                         (amounts in thousands
+                                                                           except per share
+                                                                         data)
+                                                                                
+Net income -- as reported..............................................  $  1,005     $  1,000
+Net income -- proforma.................................................  $    886     $    988
+Net income per share -- as reported....................................  $   0.16     $   0.22
+Net income per share -- proforma.......................................  $   0.14     $   0.21
+
+ 
+     The above proforma effects on income may not be representative of the
+effects on net income for future years as option grants typically vest over
+several years and additional options are generally granted each year.
+ 
+  1995 Employee Stock Purchase Plan
+ 
+     The Company's 1995 Employee Stock Purchase Plan (the "Purchase Plan") was
+adopted by the Board of Directors in October 1995. A total of 50,000 shares of
+Common Stock are reserved for issuance under the Purchase Plan. The Purchase
+Plan permits eligible employees (including officers and employee directors) to
+purchase Common Stock through payroll deductions, which may not exceed 10% of an
+employee's compensation. No employee may purchase more than $25,000 worth of
+stock in any calendar year or more than 1,000 shares of Common Stock in any
+twelve-month period. The price of shares purchased under the Purchase Plan is
+85% of the lower of the fair market value of the Common Stock at the beginning
+of the offering period or the end of the offering period. The Purchase Plan will
+terminate in 2005, unless sooner terminated by the Board of Directors.
+ 
+7.  EMPLOYEE BENEFIT PLAN
+ 
+     The Company has a plan known as the IRIS Medical Instruments 401(k) trust
+to provide retirement benefits through the deferred salary deductions for
+substantially all employees. Employees may contribute up to 15% of their annual
+compensation to the plan, limited to a maximum amount set by the Internal
+Revenue Service. The plan also provides for Company contributions at the
+discretion of the Board of Directors. No Company contributions have been made to
+the plan since inception.
+ 
+8.  INCOME TAXES
+ 
+     The provision for (benefit from) income taxes includes:
+ 
+
+
+                                                                  YEAR ENDED DECEMBER 31,
+                                                                 -------------------------
+                                                                 1996     1995      1994
+                                                                 ----     ----     -------
+                                                                      (IN THOUSANDS)
+                                                                          
+    Current:
+      Federal..................................................  $247     $ 39     $    --
+      State....................................................   101      269          --
+    Deferred:
+      Federal..................................................   258      148        (851)
+      State....................................................    70       (4)       (188)
+                                                                 ----     ----     -------
+         Income tax provision (benefit)........................  $676     $452     $(1,039)
+                                                                 ====     ====     =======
+
+ 
+                                       38
+   40
+ 
+                               IRIDEX CORPORATION
+ 
+           NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+ 
+     The Company's effective tax rate differs from the statutory federal income
+tax rate as shown in the following schedule:
+ 
+
+
+                                                                      YEAR ENDED DECEMBER
+                                                                              31,
+                                                                     ----------------------
+                                                                     1996     1995     1994
+                                                                     ----     ----     ----
+                                                                              
+    Income tax provision at statutory rate.........................   34%      34%       34%
+    Utilization of net operating loss..............................   --      (20)      (34)
+    State income taxes, net of federal benefit.....................    6        8         4
+    Change in valuation allowances.................................   --       --      (140)
+    Other..........................................................            10        (3)
+                                                                      --
+                                                                              ---      ----
+    Effective tax rate.............................................   40%      32%     (139)%
+                                                                      ==      ===      ====
+
+ 
+     The effective income tax rate in each year was impacted by a reduction in
+the Company's valuation allowance against deferred tax assets of none, $280,000
+and $1,039,000 for the year ended 1996, 1995 and 1994, respectively.
+ 
+     The tax effect of temporary differences and carry-forwards that give rise
+to significant portions of the deferred tax assets are presented below (in
+thousands):
+ 
+
+
+                                                                            DECEMBER 31,
+                                                                            -------------
+                                                                            1996     1995
+                                                                            ----     ----
+                                                                               
+    Depreciation..........................................................  $ 48     $100
+    Accrued liabilities...................................................   226      193
+    Allowance for excess and obsolete inventories.........................   251      239
+    State tax.............................................................    42       59
+    Net operating loss carryforward.......................................    --       78
+    Tax credit carryforwards..............................................    --      226
+                                                                            ----     ----
+    Net deferred tax asset................................................  $567     $895
+                                                                            ====     ====
+
+ 
+9.  MAJOR CUSTOMERS AND BUSINESS SEGMENTS
+ 
+     The Company operates in a single industry segment encompassing the
+development, manufacture, sales and support of medical devices for the treatment
+of diseases that are the leading causes of blindness.
+ 
+     In the years ended December 31, 1996, 1995 and 1994, respectively, no
+customer individually accounted for more than 10% of the Company's revenue.
+ 
+     Revenue information by geographic region is as follows:
+ 
+
+
+                                                                 YEAR ENDED DECEMBER 31,
+                                                              -----------------------------
+                                                               1996        1995       1994
+                                                              -------     ------     ------
+                                                                     (IN THOUSANDS)
+                                                                            
+    North America...........................................  $ 6,351     $4,606     $3,752
+    Europe..................................................    3,073      2,257      1,662
+    Central/South America...................................      697        446        626
+    Asia/Pacific Rim........................................    2,243      1,492      1,142
+                                                              -------     ------     ------
+                                                              $12,364     $8,801     $7,182
+                                                              =======     ======     ======
+
+ 
+                                       39
+   41
+ 
+ITEM 9.  DISAGREEMENTS ON ACCOUNTING AND FINANCIAL DISCLOSURE
+ 
+     None
+ 
+                                    PART III
+ 
+ITEM 10.  DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+ 
+     Information regarding directors of the Company is incorporated by reference
+to "ELECTION OF DIRECTORS -Nominees" in the Company's Proxy Statement for the
+Company's 1997 Annual Meeting of Stockholders. The information concerning
+current executive officers of the Registrant found under the caption "Executive
+Officers of the Registrant" in Part I hereof is also incorporated by reference
+into this Item 10.
+ 
+ITEM 11.  EXECUTIVE COMPENSATION
+ 
+     The information required by this Item is incorporated by reference to
+"EXECUTIVE COMPENSATION" in the Company's Proxy Statement.
+ 
+ITEM 12.  SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+ 
+     The information required by this Item is incorporated by reference to
+"SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT" in the
+Company's Proxy Statement.
+ 
+ITEM 13.  CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+ 
+     None.
+ 
+                                    PART IV
+ 
+ITEM 14.  EXHIBITS, FINANCIAL STATEMENT SCHEDULES AND REPORTS ON FORM 8-K
+ 
+(A) The following documents are filed in Part II of this Annual Report on Form
+10-K:
+ 
+
+
+                                                                                        PAGE IN
+                                                                                       FORM 10-K
+                                                                                        REPORT
+                                                                                       ---------
+                                                                                 
+    1.   FINANCIAL STATEMENTS
+         Report of Independent Accountants...........................................      26
+         Consolidated Balance Sheets of the Company as of December 31, 1996 and
+         1995........................................................................      27
+         Consolidated Statements of Income of the Company for the years ended
+         December 31, 1996, 1995, and 1994...........................................      28
+         Consolidated Statements of Stockholders' Equity for the years ended December
+         31, 1996, 1995 and 1994.....................................................      29
+         Consolidated Statements of Cash Flows for the years ended December 31, 1996,
+         1995 and 1994...............................................................      30
+         Notes to Consolidated Financial Statements..................................      31
+    2.   FINANCIAL STATEMENT SCHEDULE
+         The following financial statement schedule is included in Item 14(d):
+         Schedule II -- Valuation and Qualifying Accounts............................      44
+
+ 
+     Other schedules have been omitted because they are either not required,
+applicable, or the required information is included in the consolidated
+financial statements or notes thereto.
+ 
+                                       40
+   42
+ 
+    3. EXHIBITS
+ 
+       Refer to (c) below
+ 
+(B) REPORTS ON FORM 8-K
+ 
+     No reports on Form 8-K were filed during the fourth quarter of 1996.
+ 
+(C) EXHIBITS
+ 
+
+
+EXHIBITS                                        EXHIBIT TITLE
+- --------      ---------------------------------------------------------------------------------
+           
+   3.1 (1)    Amended and Restated Certificate of Incorporation of Registrant
+   3.2 (1)    Bylaws of Registrant.
+  10.1 (1)    Form of Indemnification Agreement with directors and officers.
+  10.2 (1)    Amended and Restated 1989 Incentive Stock Plan and form of agreement thereunder.
+  10.3 (1)    1995 Employee Stock Purchase Plan and form of agreement thereunder.
+  10.4 (1)    1995 Director Option Plan and form of agreement thereunder.
+  10.5 (1)    1995 Profit Sharing Plan
+  10.6 (1)    Third Restated Registration Rights Agreement dated as of October 27, 1995 by and
+              among Registrant and certain individuals and entities named therein.
+  10.7 (1)    Lease Agreement dated February 12, 1991 by and between Proteus Industries Inc.
+              and the Registrant.
+  10.8 (1)    Business Loan Agreement dated October 4, 1995 between Mid-Peninsula Bank and the
+              Registrant.
+  10.10(2)*   Development and Distribution Agreement dated as of May 28, 1996 between PDT, Inc.
+              and the Company.
+  10.11       Lease Agreement dated December 6, 1996 by and between the Registrant and
+              Zappettini Investment Co.
+  11.1        Statement Regarding Computation of Per Share Earnings.
+  22.1 (1)    Subsidiaries of Registrant.
+  23.1        Consent of Independent Accountants.
+  24.1        Power of Attorney (See page 42).
+  27.1        Financial Data Schedule.
+
+ 
+- ---------------
+ *  Confidential treatment has been granted with respect to certain portions of
+    this exhibit.
+ 
+(1) Incorporated by reference to the like-numbered exhibits filed with the
+    Registration Statement on Form SB-2 (No. 333-00320-LA) which was declared
+    effective on February 15, 1996.
+ 
+(2) Incorporated by reference to the exhibits in Registrant's Report on Form
+    10-Q for the quarter ended June 30, 1996.
+ 
+                                       41
+   43
+ 
+                                   SIGNATURES
+ 
+     Pursuant to the requirements of Section 13 or 15(d) of the Securities Act
+of 1934, the Registrant has duly caused this report to be signed on its behalf
+by the undersigned, thereunto duly authorized, in the City of Santa Clara, State
+of California, on 24th the day of March, 1997.
+ 
+                                          IRIDEX CORPORATION
+ 
+                                          By: /s/ THEODORE A. BOUTACOFF
+ 
+                                            ------------------------------------
+                                            Theodore A. Boutacoff
+                                            President, Chief Executive Officer,
+                                            and Director
+ 
+     KNOW ALL PERSONS BY THESE PRESENTS, that each person whose signature
+appears below constitutes and appoints Theodore A. Boutacoff and James L.
+Donovan, jointly and severally, their attorney-in-fact, each with full power of
+substitution, for him in any and all capacities, to sign on behalf of the
+undersigned any amendments to this Report on Form 10-K, and to file the same,
+with exhibits thereto and other documents in connection therewith, with the
+Securities and Exchange Commission, and each of the undersigned does hereby
+ratifying and confirming all that each of said attorneys-in-fact, of his
+substitutes, may do or cause to be done by virtue hereof.
+ 
+     Pursuant to the requirements of the Securities Act of 1934, this report has
+been signed by the following persons in the capacities and on the dates
+indicated.
+ 
+
+                                                                          
+     /s/ THEODORE A. BOUTACOFF       President, Chief Executive Officer, and     March 24, 1997
+- -----------------------------------  Director (Principal Executive Officer)
+      (Theodore A. Boutacoff)
+ 
+       /s/ JAMES L. DONOVAN          Chief Financial Officer and Director        March 24, 1997
+- -----------------------------------  (Principal Financial and Accounting
+        (James L. Donovan)           Officer)
+ 
+      /s/ WILLIAM BOEGER, III        Director                                    March 24, 1997
+- -----------------------------------
+       (William Boeger, III)
+ 
+         /s/ MILTON CHANG            Director                                    March 24, 1997
+- -----------------------------------
+          (Milton Chang)
+ 
+       /s/ DONALD L. HAMMOND         Director                                    March 24, 1997
+- -----------------------------------
+        (Donald L. Hammond)
+ 
+         /s/ JOHN M. NEHRA           Chairman of the Board                       March 24, 1997
+- -----------------------------------
+          (John M. Nehra)
+
+ 
+                                       42
+   44
+ 
+                  INDEPENDENT ACCOUNTANTS' REPORT ON SCHEDULE
+ 
+     Our report on the consolidated financial statements of IRIDEX Corporation
+and subsidiaries is included on page 26 of this Form 10-K. In connection with
+our audits of such financial statements, we have also audited the related
+financial statement schedule listed in the index on page 40 of this Form 10-K.
+ 
+     In our opinion, the financial statement schedule referred to above, when
+considered in relation to the basic financial statements taken as a whole,
+present fairly, in all material respects, the information required to be
+included therein.
+ 
+                                          /s/ COOPERS & LYBRAND L.L.P.
+ 
+San Jose, California
+February 10, 1997
+ 
+                                       43
+   45
+ 
+                                                                     SCHEDULE II
+ 
+                      IRIDEX CORPORATION AND SUBSIDIARIES
+ 
+                       VALUATION AND QUALIFYING ACCOUNTS
+                                 (IN THOUSANDS)
+ 
+
+
+                                                       BALANCE AT    CHARGED TO                 BALANCE
+                                                      BEGINNING OF   COSTS AND                 AT END OF
+DESCRIPTION                                            THE PERIOD     EXPENSES    DEDUCTIONS   THE PERIOD
+- ----------------------------------------------------  ------------   ----------   ----------   ----------
+                                                                                   
+Balance for the year ended December 31, 1994:
+  Allowance for doubtful accounts receivable........      $ 80          $292        $   (7)       $365
+Balance for the year ended December 31, 1995:
+  Allowance for doubtful accounts receivable........      $365          $ 20        $   (2)       $383
+Balance for the year ended December 31, 1996:
+  Allowance for doubtful accounts receivable........      $383          $ --        $ (118)       $265
+
+ 
+                                       44
